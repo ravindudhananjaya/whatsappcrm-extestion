@@ -1,0 +1,1747 @@
+{
+    "extName": {
+        "message": "WhatsApp 비즈니스 CRM – The Chat Quotient",
+        "description": "The name of the extension"
+    },
+    "extShortName": {
+        "message": "The CQ",
+        "description": "The short name of the extension"
+    },
+    "extDescription": {
+        "message": "최고의 무료 WhatsApp CRM 및 판매 파이프라인. WhatsApp Web에서 직접 리드를 관리하고, 메시지를 예약하고, AI 답장을 사용하세요.",
+        "description": "The description of the extension"
+    },
+    "loading": {
+        "message": "로드 중..."
+    },
+    "theCqDashboard": {
+        "message": "The CQ 대시보드"
+    },
+    "language": {
+        "message": "언어"
+    },
+    "currency": {
+        "message": "통화"
+    },
+    "pipeline": {
+        "message": "관로"
+    },
+    "timeframe": {
+        "message": "기간"
+    },
+    "last7Days": {
+        "message": "지난 7일"
+    },
+    "last14Days": {
+        "message": "지난 14일"
+    },
+    "thisMonth": {
+        "message": "이번 달"
+    },
+    "last3Months": {
+        "message": "지난 3개월"
+    },
+    "customRange": {
+        "message": "맞춤 범위"
+    },
+    "overviewTab": {
+        "message": "개요"
+    },
+    "pipelineTab": {
+        "message": "관로"
+    },
+    "taskCreatedSuccessfully": {
+        "message": "작업이 성공적으로 생성되었습니다."
+    },
+    "failedToCreateTask": {
+        "message": "작업을 생성하지 못했습니다."
+    },
+    "noteCreatedSuccessfully": {
+        "message": "메모가 성공적으로 생성되었습니다."
+    },
+    "failedToCreateNote": {
+        "message": "메모를 작성하지 못했습니다."
+    },
+    "taskMarkedCompleted": {
+        "message": "작업이 완료됨으로 표시됨"
+    },
+    "taskMarkedPending": {
+        "message": "보류 중인 작업으로 표시됨"
+    },
+    "failedToUpdateTask": {
+        "message": "작업을 업데이트하지 못했습니다."
+    },
+    "analyticsErrorHeading": {
+        "message": "Analytics 대시보드에 문제가 발생했습니다."
+    },
+    "tryAgain": {
+        "message": "다시 시도"
+    },
+    "failedToUpdateLead": {
+        "message": "리드를 업데이트하지 못했습니다."
+    },
+    "leadMovedSuccessfully": {
+        "message": "리드가 성공적으로 이동되었습니다."
+    },
+    "loadingLeads": {
+        "message": "리드 로드 중..."
+    },
+    "noStagesDefined": {
+        "message": "이 파이프라인에 정의된 단계가 없습니다."
+    },
+    "unnamedLead": {
+        "message": "이름 없는 납"
+    },
+    "slippingAwayTooltip": {
+        "message": "미끄러짐: 7일 이상 활동 없음"
+    },
+    "taskDueTooltip": {
+        "message": "작업 기한: 조치 필요"
+    },
+    "loadMore": {
+        "message": "더 로드하기"
+    },
+    "unknownSource": {
+        "message": "알려지지 않은"
+    },
+    "leadSourceBreakdown": {
+        "message": "리드 소스 분석"
+    },
+    "noDataAvailable": {
+        "message": "사용 가능한 데이터가 없습니다."
+    },
+    "forecastValue": {
+        "message": "예측 가치"
+    },
+    "weightedPipeline": {
+        "message": "가중 파이프라인"
+    },
+    "conversionRate": {
+        "message": "전환율"
+    },
+    "periodAverage": {
+        "message": "기간 평균"
+    },
+    "newLeads": {
+        "message": "새로운 리드"
+    },
+    "inSelectedRange": {
+        "message": "선택한 범위 내"
+    },
+    "tasksDueToday": {
+        "message": "오늘 마감인 작업"
+    },
+    "actionRequired": {
+        "message": "조치 필요"
+    },
+    "slippingAway": {
+        "message": "미끄러지는 것"
+    },
+    "inactiveDays": {
+        "message": "비활성 > 7일"
+    },
+    "noSlippingLeads": {
+        "message": "미끄러지는 리드가 없습니다. 잘했어요!"
+    },
+    "unknownCustomer": {
+        "message": "알려지지 않은"
+    },
+    "untitledLead": {
+        "message": "제목 없는 리드"
+    },
+    "nudge": {
+        "message": "슬쩍 찌르다"
+    },
+    "daysOld": {
+        "message": "$count$일 전",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "customer": {
+        "message": "고객"
+    },
+    "untitledTask": {
+        "message": "제목 없는 작업"
+    },
+    "invalidDate": {
+        "message": "잘못된 날짜"
+    },
+    "today": {
+        "message": "오늘"
+    },
+    "overdueTasks": {
+        "message": "기한이 지난 작업"
+    },
+    "noOverdueTasks": {
+        "message": "기한이 지난 작업이 없습니다."
+    },
+    "upcomingTasks": {
+        "message": "다가오는 작업"
+    },
+    "noUpcomingTasks": {
+        "message": "예정된 작업이 없습니다."
+    },
+    "unknownStage": {
+        "message": "알려지지 않은"
+    },
+    "pipelineFunnel": {
+        "message": "파이프라인 깔때기"
+    },
+    "aboutTheCQ": {
+        "message": "The Chat Quotient 소개"
+    },
+    "theCQ": {
+        "message": "The CQ"
+    },
+    "settings": {
+        "message": "설정"
+    },
+    "chatWithUs": {
+        "message": "우리와 채팅"
+    },
+    "theCQSupport": {
+        "message": "TheCQ 지원"
+    },
+    "theCQUpdates": {
+        "message": "TheCQ 업데이트"
+    },
+    "openDashboard": {
+        "message": "대시보드 열기"
+    },
+    "dashboard": {
+        "message": "계기반"
+    },
+    "leads": {
+        "message": "리드"
+    },
+    "createLead": {
+        "message": "리드 생성"
+    },
+    "lead": {
+        "message": "선두"
+    },
+    "quickReplies": {
+        "message": "빠른 답장"
+    },
+    "chatSummary": {
+        "message": "채팅 요약"
+    },
+    "summarizeThisChat": {
+        "message": "이 채팅을 요약하세요"
+    },
+    "scheduleMessages": {
+        "message": "메시지 예약"
+    },
+    "scheduledMessages": {
+        "message": "예약된 메시지"
+    },
+    "needSupport": {
+        "message": "지원이 필요하신가요?"
+    },
+    "supportMessage": {
+        "message": "귀하의 메시지는 WhatsApp을 통해 The Chat Quotient 작성자에게 전송됩니다. 우리는 소규모 팀이므로 답변이 즉각적이지 않을 수 있지만 업무 시간(IST) 중에 답변을 받으실 수 있습니다. 기다려주셔서 감사합니다!"
+    },
+    "sendMessage": {
+        "message": "메시지 보내기"
+    },
+    "cancel": {
+        "message": "취소"
+    },
+    "notes": {
+        "message": "메모"
+    },
+    "chatNotes": {
+        "message": "채팅 메모"
+    },
+    "reminders": {
+        "message": "알림"
+    },
+    "todo": {
+        "message": "토도"
+    },
+    "chatTodo": {
+        "message": "채팅 토도"
+    },
+    "contactInfo": {
+        "message": "연락처 정보"
+    },
+    "more": {
+        "message": "더"
+    },
+    "profileDetails": {
+        "message": "프로필 세부정보"
+    },
+    "pipelineSettings": {
+        "message": "파이프라인 설정"
+    },
+    "update": {
+        "message": "업데이트"
+    },
+    "submit": {
+        "message": "제출하다"
+    },
+    "pleaseEnterName": {
+        "message": "이름을 입력해주세요."
+    },
+    "personalizeAiAssistant": {
+        "message": "AI 도우미를 개인화하세요"
+    },
+    "nameRequired": {
+        "message": "이름 (필수)"
+    },
+    "enterYourName": {
+        "message": "이름을 입력하세요"
+    },
+    "mobileNumber": {
+        "message": "휴대폰 번호"
+    },
+    "numberLowercase": {
+        "message": "숫자"
+    },
+    "industry": {
+        "message": "산업"
+    },
+    "selectIndustry": {
+        "message": "귀하의 업종을 선택하세요"
+    },
+    "profession": {
+        "message": "직업"
+    },
+    "selectProfessions": {
+        "message": "직업을 선택하세요"
+    },
+    "customInstructionLabel": {
+        "message": "AI에게 당신처럼 행동하도록 지시하기(선택 사항, 권장 사항)"
+    },
+    "customInstructionPlaceholder": {
+        "message": "간결하고 체계적으로 작성하세요. 내가 기본 사항을 알고 있다고 가정합니다. 불필요한 설명은 자제하세요. 추천으로 시작한 다음 간략한 추론..."
+    },
+    "aiToneOptional": {
+        "message": "AI 톤(선택 사항)"
+    },
+    "later": {
+        "message": "나중에"
+    },
+    "industry_ecommerce": {
+        "message": "전자상거래"
+    },
+    "industry_retail": {
+        "message": "소매"
+    },
+    "industry_fashion": {
+        "message": "패션"
+    },
+    "industry_health_wellness": {
+        "message": "건강 및 웰빙"
+    },
+    "industry_education": {
+        "message": "교육"
+    },
+    "industry_travel_tourism": {
+        "message": "여행 및 관광"
+    },
+    "industry_real_estate": {
+        "message": "부동산"
+    },
+    "industry_automotive": {
+        "message": "자동차"
+    },
+    "industry_finance": {
+        "message": "재원"
+    },
+    "industry_insurance": {
+        "message": "보험"
+    },
+    "industry_financial_services": {
+        "message": "금융 서비스"
+    },
+    "industry_publishing": {
+        "message": "출판"
+    },
+    "industry_astrology": {
+        "message": "점성학"
+    },
+    "industry_coaching_training": {
+        "message": "코칭 및 훈련"
+    },
+    "industry_legal_consulting": {
+        "message": "법률 및 컨설팅 서비스"
+    },
+    "industry_beauty_personal_care": {
+        "message": "미용 및 개인 관리"
+    },
+    "industry_technology_saas": {
+        "message": "기술 및 SaaS"
+    },
+    "industry_marketing_advertising": {
+        "message": "마케팅 및 광고"
+    },
+    "industry_home_services": {
+        "message": "홈 서비스"
+    },
+    "industry_nonprofit_social_impact": {
+        "message": "비영리 및 사회적 영향"
+    },
+    "industry_event_planning_hospitality": {
+        "message": "이벤트 기획 및 숙박"
+    },
+    "industry_media_content_creation": {
+        "message": "미디어 및 콘텐츠 제작"
+    },
+    "industry_other": {
+        "message": "다른"
+    },
+    "profession_freelancer_creator": {
+        "message": "프리랜서 / 크리에이터"
+    },
+    "profession_coach_mentor": {
+        "message": "코치/멘토"
+    },
+    "profession_consultant": {
+        "message": "컨설턴트"
+    },
+    "profession_content_creator_writer": {
+        "message": "콘텐츠 제작자/작가"
+    },
+    "profession_educator_tutor": {
+        "message": "교육자 / 교사"
+    },
+    "profession_therapist_counselor": {
+        "message": "치료사 / 상담사"
+    },
+    "profession_nutritionist_dietician": {
+        "message": "영양사/영양사"
+    },
+    "profession_fitness_trainer": {
+        "message": "피트니스 트레이너"
+    },
+    "profession_astrologer": {
+        "message": "점성가"
+    },
+    "profession_social_media_manager": {
+        "message": "소셜 미디어 관리자"
+    },
+    "profession_marketing_specialist_strategist": {
+        "message": "마케팅 전문가/전략가"
+    },
+    "profession_ecommerce_seller_store_owner": {
+        "message": "전자상거래 판매자/가게 주인"
+    },
+    "profession_retailer_shop_owner": {
+        "message": "소매점/상점 주인"
+    },
+    "profession_real_estate_agent": {
+        "message": "부동산 중개인"
+    },
+    "profession_travel_agent": {
+        "message": "여행사 직원"
+    },
+    "profession_insurance_agent_broker": {
+        "message": "보험 대리인 / 중개인"
+    },
+    "profession_financial_advisor_planner": {
+        "message": "재무 자문 / 기획자"
+    },
+    "profession_lawyer_legal_advisor": {
+        "message": "변호사 / 법률고문"
+    },
+    "profession_beauty_professional_esthetician": {
+        "message": "미용 전문가 / 미용사"
+    },
+    "profession_healthcare_provider_practitioner": {
+        "message": "의료 서비스 제공자/의료인"
+    },
+    "profession_event_planner_coordinator": {
+        "message": "이벤트 플래너/코디네이터"
+    },
+    "profession_customer_service_representative": {
+        "message": "고객 서비스 담당자"
+    },
+    "profession_publisher_editor": {
+        "message": "출판사/편집자"
+    },
+    "profession_fashion_designer_stylist": {
+        "message": "패션 디자이너 / 스타일리스트"
+    },
+    "profession_automotive_dealer_consultant": {
+        "message": "자동차 딜러/컨설턴트"
+    },
+    "profession_sales_representative": {
+        "message": "영업 담당자"
+    },
+    "profession_software_developer_engineer": {
+        "message": "소프트웨어 개발자/엔지니어"
+    },
+    "profession_saas_founder_product_manager": {
+        "message": "SaaS 창립자/제품 관리자"
+    },
+    "profession_nonprofit_leader_advocate": {
+        "message": "비영리 지도자 / 옹호자"
+    },
+    "rephrase": {
+        "message": "다른 말로 표현하기"
+    },
+    "clickToInsertThisMessage": {
+        "message": "이 메시지를 삽입하려면 클릭하세요."
+    },
+    "regenerateAiResponse": {
+        "message": "AI 응답 재생성"
+    },
+    "discardIt": {
+        "message": "폐기하세요"
+    },
+    "rephrasecaps": {
+        "message": "다른 말로 바꾸다"
+    },
+    "send": {
+        "message": "보내다"
+    },
+    "aiReply": {
+        "message": "AI 답장"
+    },
+    "generate": {
+        "message": "생성하다"
+    },
+    "actionMessage": {
+        "message": "{{action}} 메시지"
+    },
+    "tone": {
+        "message": "음정"
+    },
+    "changeMessageLength": {
+        "message": "메시지 길이 변경"
+    },
+    "customInstruction": {
+        "message": "맞춤 지시"
+    },
+    "enterYourInstruction": {
+        "message": "지시사항을 입력하세요"
+    },
+    "length_shorter": {
+        "message": "더 짧게"
+    },
+    "length_longer": {
+        "message": "더 길게"
+    },
+    "tone_professional": {
+        "message": "전문적인"
+    },
+    "tone_straightforward": {
+        "message": "똑바로"
+    },
+    "tone_confident": {
+        "message": "자신감"
+    },
+    "tone_respectful": {
+        "message": "존중"
+    },
+    "tone_friendly": {
+        "message": "친숙한"
+    },
+    "tone_casual_informal": {
+        "message": "캐주얼 / 비공식"
+    },
+    "tone_warm_welcoming": {
+        "message": "따뜻하고 환영받는"
+    },
+    "tone_supportive": {
+        "message": "지지적"
+    },
+    "tone_empathetic": {
+        "message": "공감"
+    },
+    "tone_encouraging": {
+        "message": "격려"
+    },
+    "tone_patient_reassuring": {
+        "message": "인내심을 갖고 안심시키기"
+    },
+    "tone_persuasive": {
+        "message": "동기"
+    },
+    "tone_instructive_teacher_like": {
+        "message": "교훈적 / 교사적 성향"
+    },
+    "tone_insightful": {
+        "message": "통찰력이 있는"
+    },
+    "tone_witty_clever": {
+        "message": "재치 있고 영리하다"
+    },
+    "tone_inspiring": {
+        "message": "영감을 주는"
+    },
+    "tone_minimal_crisp": {
+        "message": "미니멀하고 산뜻한"
+    },
+    "tone_luxury_premium_feel": {
+        "message": "럭셔리 / 프리미엄 느낌"
+    },
+    "pipelines": {
+        "message": "파이프라인"
+    },
+    "newPipeline": {
+        "message": "새로운 파이프라인"
+    },
+    "pipelineName": {
+        "message": "파이프라인 이름"
+    },
+    "pipelineNamePlaceholder": {
+        "message": "예를 들어 B2B 영업"
+    },
+    "create": {
+        "message": "만들다"
+    },
+    "failedToCreatePipeline": {
+        "message": "파이프라인 생성 실패:"
+    },
+    "failedToCreateStage": {
+        "message": "단계를 생성하지 못했습니다."
+    },
+    "failedToDeletePipeline": {
+        "message": "파이프라인 삭제 실패:"
+    },
+    "atLeastOnePipelineRequired": {
+        "message": "파이프라인이 하나 이상 있어야 합니다."
+    },
+    "cannotDeleteDefaultPipeline": {
+        "message": "기본 파이프라인을 삭제할 수 없습니다. 먼저 다른 파이프라인을 기본값으로 설정하세요."
+    },
+    "deletePipeline": {
+        "message": "파이프라인 삭제"
+    },
+    "deletePipelineConfirm": {
+        "message": "이 파이프라인을 삭제하시겠습니까? 이 작업은 취소할 수 없습니다."
+    },
+    "del": {
+        "message": "델"
+    },
+    "setDefault": {
+        "message": "기본값 설정"
+    },
+    "setAsDefault": {
+        "message": "기본값으로 설정"
+    },
+    "savingViaApiNotImplemented": {
+        "message": "API를 통한 변경 사항 저장은 아직 구현되지 않았습니다. 다시 로드한 후에는 변경 사항이 유지되지 않습니다."
+    },
+    "confirm": {
+        "message": "확인하다"
+    },
+    "default": {
+        "message": "기본"
+    },
+    "delete": {
+        "message": "삭제"
+    },
+    "won100": {
+        "message": "원(100%)"
+    },
+    "lost0": {
+        "message": "분실 (0%)"
+    },
+    "won100Label": {
+        "message": "원 (100)"
+    },
+    "lost0Label": {
+        "message": "분실 (0)"
+    },
+    "atLeastOneOpenStage": {
+        "message": "하나 이상의 공개 단계가 필요합니다."
+    },
+    "atLeastOneWonStage": {
+        "message": "하나 이상의 승리 단계가 필요합니다."
+    },
+    "atLeastOneLostStage": {
+        "message": "분실 단계가 하나 이상 필요합니다."
+    },
+    "stageNamesMustBeUnique": {
+        "message": "단계 이름은 고유해야 합니다."
+    },
+    "cannotDeleteStageType": {
+        "message": "삭제할 수 없습니다. {{type}} 단계가 하나 이상 있어야 합니다."
+    },
+    "stagesCount": {
+        "message": "단계({{count}})"
+    },
+    "invalidConfiguration": {
+        "message": "잘못된 구성"
+    },
+    "name": {
+        "message": "이름"
+    },
+    "color": {
+        "message": "색상"
+    },
+    "status": {
+        "message": "상태"
+    },
+    "stageName": {
+        "message": "무대 이름"
+    },
+    "pickAColor": {
+        "message": "색상을 선택하세요"
+    },
+    "deleteStage": {
+        "message": "단계 삭제"
+    },
+    "deleteStageConfirmMsg": {
+        "message": "이 단계를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다."
+    },
+    "newStageWithNumber": {
+        "message": "새로운 스테이지 {{number}}"
+    },
+    "addStage": {
+        "message": "스테이지 추가"
+    },
+    "leadTitlePlaceholder": {
+        "message": "리드 제목"
+    },
+    "backToLeads": {
+        "message": "리드로 돌아가기"
+    },
+    "createLeadHeader": {
+        "message": "리드 생성"
+    },
+    "leadsHeader": {
+        "message": "리드"
+    },
+    "createNew": {
+        "message": "새로 만들기"
+    },
+    "leadCreatedSuccessfully": {
+        "message": "리드가 성공적으로 생성되었습니다."
+    },
+    "failedToCreateLead": {
+        "message": "리드를 생성하지 못했습니다."
+    },
+    "leadDeletedSuccessfully": {
+        "message": "리드가 성공적으로 삭제되었습니다"
+    },
+    "failedToDeleteLead": {
+        "message": "리드를 삭제하지 못했습니다."
+    },
+    "leadUpdatedSuccessfully": {
+        "message": "리드가 성공적으로 업데이트되었습니다."
+    },
+    "createNewLead": {
+        "message": "새로운 리드 생성"
+    },
+    "analyzingChat": {
+        "message": "세부정보를 제안하기 위해 채팅을 분석하는 중..."
+    },
+    "loadingPipelines": {
+        "message": "파이프라인 로드 중..."
+    },
+    "selectPipeline": {
+        "message": "파이프라인 선택"
+    },
+    "stage": {
+        "message": "단계"
+    },
+    "selectStage": {
+        "message": "스테이지 선택"
+    },
+    "leadTitle": {
+        "message": "리드 제목"
+    },
+    "enterLeadTitle": {
+        "message": "리드 제목을 입력하세요"
+    },
+    "priority": {
+        "message": "우선 사항"
+    },
+    "selectPriority": {
+        "message": "우선순위 선택"
+    },
+    "expectedClosingDate": {
+        "message": "예상 마감일"
+    },
+    "expectedValue": {
+        "message": "기대값"
+    },
+    "leadSource": {
+        "message": "리드 소스"
+    },
+    "leadSourcePlaceholder": {
+        "message": "예를 들어 웹사이트, 추천"
+    },
+    "creating": {
+        "message": "만드는 중..."
+    },
+    "loadingNotes": {
+        "message": "메모 로드 중..."
+    },
+    "pleaseWaitNotes": {
+        "message": "메모를 로드하는 동안 잠시 기다려 주십시오."
+    },
+    "editNote": {
+        "message": "메모 편집"
+    },
+    "deleteNote": {
+        "message": "메모 삭제"
+    },
+    "deleteNoteConfirm": {
+        "message": "이 메모를 삭제하시겠습니까?"
+    },
+    "noNotesYet": {
+        "message": "아직 메모가 없습니다."
+    },
+    "startAddingNotes": {
+        "message": "이 채팅의 중요한 정보를 추적하려면 메모를 추가하세요."
+    },
+    "loadMoreNotes": {
+        "message": "더 많은 노트 로드"
+    },
+    "addANote": {
+        "message": "메모 추가..."
+    },
+    "add": {
+        "message": "추가하다"
+    },
+    "selectChatForNotes": {
+        "message": "메모를 보려면 채팅을 선택하세요."
+    },
+    "summaryIsOutdated": {
+        "message": "요약이 오래되었습니다."
+    },
+    "lastUpdated": {
+        "message": "마지막 업데이트"
+    },
+    "regenerateSummary": {
+        "message": "요약 재생성"
+    },
+    "refreshSummary": {
+        "message": "요약 새로고침"
+    },
+    "copied": {
+        "message": "복사되었습니다!"
+    },
+    "failedToCopy": {
+        "message": "복사하지 못했습니다."
+    },
+    "copySummary": {
+        "message": "요약 복사"
+    },
+    "generatingSummary": {
+        "message": "요약을 생성하는 중입니다. 잠시 기다려 주세요..."
+    },
+    "wasThisHelpful": {
+        "message": "도움이 되었나요?"
+    },
+    "youLikedSummary": {
+        "message": "이 요약이 마음에 들었습니다(변경하려면 클릭)."
+    },
+    "likeSummary": {
+        "message": "이 요약에 좋아요를 표시합니다."
+    },
+    "youDislikedSummary": {
+        "message": "이 요약이 마음에 들지 않았습니다(변경하려면 클릭)."
+    },
+    "dislikeSummary": {
+        "message": "이 요약을 싫어함"
+    },
+    "noSummaryYet": {
+        "message": "아직 요약이 없습니다."
+    },
+    "generateSummaryDesc": {
+        "message": "이 채팅 대화의 AI 기반 요약을 생성하세요."
+    },
+    "selectChatToGenerateSummary": {
+        "message": "요약을 생성하려면 채팅을 선택하세요."
+    },
+    "editTodo": {
+        "message": "할일 편집"
+    },
+    "deleteTodo": {
+        "message": "할 일 삭제"
+    },
+    "deleteTodoConfirm": {
+        "message": "이 할 일을 삭제하시겠습니까?"
+    },
+    "noTodosYet": {
+        "message": "아직 할 일이 없습니다."
+    },
+    "startAddingTodos": {
+        "message": "이 채팅의 작업을 추적하려면 할 일을 추가하세요."
+    },
+    "noSectionTodos": {
+        "message": "{{title}} 할 일 없음"
+    },
+    "loadMoreSection": {
+        "message": "더 보기 {{title}}"
+    },
+    "loadingTodos": {
+        "message": "할 일 로드 중..."
+    },
+    "pleaseWaitTodos": {
+        "message": "할 일을 로드하는 동안 잠시 기다려 주세요."
+    },
+    "pendingTitle": {
+        "message": "보류 중"
+    },
+    "doneTitle": {
+        "message": "완료"
+    },
+    "addATodo": {
+        "message": "할 일 추가..."
+    },
+    "selectChatForTodos": {
+        "message": "할 일을 보려면 채팅을 선택하세요."
+    },
+    "savedSuccessfully": {
+        "message": "성공적으로 저장되었습니다."
+    },
+    "failedToSaveCompany": {
+        "message": "회사를 저장하지 못했습니다."
+    },
+    "companySavedSuccessfully": {
+        "message": "회사가 성공적으로 저장되었습니다."
+    },
+    "firstNameMandatory": {
+        "message": "이름은 필수입니다."
+    },
+    "deleteContactConfirm": {
+        "message": "이 연락처를 삭제하시겠습니까?"
+    },
+    "deletedSuccessfully": {
+        "message": "삭제되었습니다."
+    },
+    "contactPermissionAlert": {
+        "message": "이 기능은 전화기에서 연락처 권한이 활성화된 경우 작동됩니다."
+    },
+    "unknownContact": {
+        "message": "알 수 없는 연락처"
+    },
+    "addQuickReply": {
+        "message": "빠른 답장 추가"
+    },
+    "selectChatQuickRepliesDesc": {
+        "message": "빠른 답변을 받으려면 채팅을 선택하세요."
+    },
+    "deleteReminderConfirm": {
+        "message": "이 알림을 삭제하시겠습니까?"
+    },
+    "editReminder": {
+        "message": "알림 수정"
+    },
+    "deleteReminder": {
+        "message": "알림 삭제"
+    },
+    "noRemindersYet": {
+        "message": "아직 알림이 없습니다."
+    },
+    "startAddingReminders": {
+        "message": "중요한 작업이나 이벤트를 놓치지 않도록 미리 알림을 추가해 보세요."
+    },
+    "noSectionReminders": {
+        "message": "{{title}} 알림 없음"
+    },
+    "oneTime": {
+        "message": "일회성"
+    },
+    "everyRecurrence": {
+        "message": "{{recurrence}}마다 {{recurrenceType}}{{pluralSuffix}}"
+    },
+    "snoozed": {
+        "message": "일시 중지됨"
+    },
+    "remindersWorkWarning": {
+        "message": "미리 알림은 WhatsApp 웹이 열려 있는 경우에만 작동합니다."
+    },
+    "createNewReminder": {
+        "message": "새 알림 만들기"
+    },
+    "reminderTitle": {
+        "message": "알림 제목..."
+    },
+    "descriptionOptional": {
+        "message": "설명(선택사항)..."
+    },
+    "repeatAfter": {
+        "message": "다음 이후에 반복"
+    },
+    "selectFrequency": {
+        "message": "주파수 선택"
+    },
+    "loadingReminders": {
+        "message": "알림 로드 중..."
+    },
+    "pleaseWaitReminders": {
+        "message": "알림을 로드하는 동안 기다려 주세요."
+    },
+    "processedTitle": {
+        "message": "처리됨"
+    },
+    "addReminder": {
+        "message": "알림 추가"
+    },
+    "selectChatForReminders": {
+        "message": "알림을 생성하고 관리하려면 채팅을 선택하세요."
+    },
+    "deleteScheduledMessageConfirm": {
+        "message": "이 예약된 메시지를 삭제하시겠습니까?"
+    },
+    "reason": {
+        "message": "이유"
+    },
+    "sent": {
+        "message": "전송된"
+    },
+    "failed": {
+        "message": "실패한"
+    },
+    "editMessage": {
+        "message": "메시지 편집"
+    },
+    "deleteMessage": {
+        "message": "메시지 삭제"
+    },
+    "noScheduledMessagesYet": {
+        "message": "아직 예약된 메시지가 없습니다."
+    },
+    "scheduleMessagesDesc": {
+        "message": "적절한 시간에 자동으로 메시지가 전송되도록 예약하세요."
+    },
+    "noSectionMessages": {
+        "message": "{{title}} 메시지 없음"
+    },
+    "editScheduledMessage": {
+        "message": "예약된 메시지 편집"
+    },
+    "scheduleNewMessage": {
+        "message": "새 메시지 예약"
+    },
+    "typeYourMessage": {
+        "message": "여기에 메시지를 입력하세요..."
+    },
+    "repeatEvery": {
+        "message": "반복 간격"
+    },
+    "loadingScheduledMessages": {
+        "message": "예약된 메시지 로드 중..."
+    },
+    "pleaseWaitScheduledMessages": {
+        "message": "예약된 메시지를 로드하는 동안 잠시 기다려 주십시오."
+    },
+    "historyTitle": {
+        "message": "역사"
+    },
+    "scheduleMessage": {
+        "message": "메시지 예약"
+    },
+    "selectChat": {
+        "message": "채팅 선택"
+    },
+    "selectPersonalChat": {
+        "message": "개인 채팅을 선택하세요"
+    },
+    "selectChatToSchedule": {
+        "message": "메시지를 예약하고 관리하려면 채팅을 선택하세요."
+    },
+    "selectChatToManageLeads": {
+        "message": "리드를 관리하려면 1:1 채팅을 선택하세요"
+    },
+    "selectChatToManageLeadsDesc": {
+        "message": "리드는 1:1 채팅에서만 생성할 수 있으며, 그룹 채팅에서는 리드에 연결할 수 있지만 리드 생성은 허용되지 않습니다."
+    },
+    "createLeadBtn": {
+        "message": "리드 생성"
+    },
+    "checkingContactDetails": {
+        "message": "연락처 확인 중..."
+    },
+    "contactDetails": {
+        "message": "연락처 정보"
+    },
+    "firstName": {
+        "message": "이름"
+    },
+    "lastName": {
+        "message": "성"
+    },
+    "phone": {
+        "message": "핸드폰"
+    },
+    "email": {
+        "message": "이메일"
+    },
+    "company": {
+        "message": "회사"
+    },
+    "designation": {
+        "message": "지정"
+    },
+    "jobTitle": {
+        "message": "직위"
+    },
+    "saving": {
+        "message": "절약..."
+    },
+    "saveDetails": {
+        "message": "세부정보 저장"
+    },
+    "noName": {
+        "message": "이름 없음"
+    },
+    "editContact": {
+        "message": "연락처 편집"
+    },
+    "phoneNumber": {
+        "message": "전화 번호"
+    },
+    "typeToSearchCompanies": {
+        "message": "회사를 검색하려면 입력하세요..."
+    },
+    "loadingCompanies": {
+        "message": "회사 로드 중..."
+    },
+    "loadMoreCompanies": {
+        "message": "더 많은 회사 로드"
+    },
+    "createCompanySearchQuery": {
+        "message": "회사 \"{{searchQuery}}\" 만들기"
+    },
+    "noCompaniesAvailable": {
+        "message": "이용 가능한 회사가 없습니다."
+    },
+    "editCompany": {
+        "message": "회사 편집"
+    },
+    "removeCompany": {
+        "message": "회사 삭제"
+    },
+    "updateCompany": {
+        "message": "회사 업데이트"
+    },
+    "createCompany": {
+        "message": "회사 만들기"
+    },
+    "domain": {
+        "message": "도메인"
+    },
+    "address": {
+        "message": "주소"
+    },
+    "deleteLead": {
+        "message": "리드 삭제"
+    },
+    "deleteLeadConfirm": {
+        "message": "이 리드를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다."
+    },
+    "noQuickRepliesYet": {
+        "message": "아직 빠른 답변이 없습니다."
+    },
+    "createQuickRepliesDesc": {
+        "message": "빠른 답장을 만들어 일반적인 메시지를 보내는 시간을 절약하세요."
+    },
+    "noQuickRepliesFound": {
+        "message": "빠른 답장을 찾을 수 없습니다."
+    },
+    "dragToReorder": {
+        "message": "드래그하여 재정렬하세요."
+    },
+    "editBeforeSend": {
+        "message": "보내기 전에 수정하세요"
+    },
+    "editReply": {
+        "message": "답글 수정"
+    },
+    "deleteReply": {
+        "message": "답글 삭제"
+    },
+    "deleteQuickReplyConfirm": {
+        "message": "이 빠른 답장을 삭제하시겠습니까?"
+    },
+    "messageRequired": {
+        "message": "메시지가 필요합니다"
+    },
+    "editQuickReply": {
+        "message": "빠른 답장 수정"
+    },
+    "createQuickReply": {
+        "message": "빠른 답장 만들기"
+    },
+    "welcomePlaceholder": {
+        "message": "환영"
+    },
+    "howAreYouPlaceholder": {
+        "message": "안녕하세요. 잘 지내죠?"
+    },
+    "save": {
+        "message": "구하다"
+    },
+    "message": {
+        "message": "메시지"
+    },
+    "activityTab": {
+        "message": "활동"
+    },
+    "detailsTab": {
+        "message": "세부"
+    },
+    "tasksTab": {
+        "message": "작업"
+    },
+    "peopleTab": {
+        "message": "사람들"
+    },
+    "value": {
+        "message": "값"
+    },
+    "closeDate": {
+        "message": "마감일"
+    },
+    "setDate": {
+        "message": "날짜 설정"
+    },
+    "source": {
+        "message": "원천"
+    },
+    "sourceRequired": {
+        "message": "소스 값은 필수 항목입니다."
+    },
+    "addSource": {
+        "message": "소스 추가..."
+    },
+    "probability": {
+        "message": "개연성"
+    },
+    "deleteLeadConfirmMsg": {
+        "message": "이 리드를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다."
+    },
+    "writeQuickNote": {
+        "message": "빠르게 메모를 작성하세요..."
+    },
+    "noActivityYet": {
+        "message": "아직 활동이 없습니다."
+    },
+    "saveNote": {
+        "message": "메모 저장"
+    },
+    "failedToFetchTasks": {
+        "message": "작업을 가져오지 못했습니다."
+    },
+    "failedToFetchCompletedTasks": {
+        "message": "완료된 작업을 가져오지 못했습니다."
+    },
+    "taskMarkedAsCompleted": {
+        "message": "작업이 완료됨으로 표시됨"
+    },
+    "taskMarkedAsPending": {
+        "message": "보류 중인 작업으로 표시됨"
+    },
+    "taskUpdatedSuccess": {
+        "message": "작업이 성공적으로 업데이트되었습니다."
+    },
+    "taskDeletedSuccess": {
+        "message": "작업이 삭제되었습니다."
+    },
+    "failedToDeleteTask": {
+        "message": "작업을 삭제하지 못했습니다."
+    },
+    "failedToInitiateTaskCreation": {
+        "message": "작업 생성을 시작하지 못했습니다."
+    },
+    "createTask": {
+        "message": "작업 생성"
+    },
+    "pendingTasks": {
+        "message": "보류 중인 작업"
+    },
+    "noPendingTasks": {
+        "message": "대기 중인 작업이 없습니다."
+    },
+    "at": {
+        "message": "~에"
+    },
+    "loadingTasks": {
+        "message": "작업 로드 중..."
+    },
+    "completedTasksLabel": {
+        "message": "완료된 작업"
+    },
+    "noCompletedTasks": {
+        "message": "완료된 작업이 없습니다."
+    },
+    "deleteTask": {
+        "message": "작업 삭제"
+    },
+    "deleteTaskConfirmMsg": {
+        "message": "이 할 일을 삭제하시겠습니까? 이 작업은 취소할 수 없습니다."
+    },
+    "enterReminderValue": {
+        "message": "알림 값을 입력하세요."
+    },
+    "minutesNotGreaterThan59": {
+        "message": "분은 59보다 클 수 없습니다."
+    },
+    "hoursNotGreaterThan24": {
+        "message": "시간은 24 이하여야 합니다."
+    },
+    "reminderTimeNotInPast": {
+        "message": "알림 시간은 과거일 수 없습니다."
+    },
+    "taskDateNotInPast": {
+        "message": "작업 날짜는 과거일 수 없습니다."
+    },
+    "taskDescriptionPlaceholder": {
+        "message": "작업 설명..."
+    },
+    "remindMeValUnitBefore": {
+        "message": "{{val}} {{unit}} 전에 나에게 알림"
+    },
+    "remindMe": {
+        "message": "알림"
+    },
+    "call": {
+        "message": "부르다"
+    },
+    "meeting": {
+        "message": "회의"
+    },
+    "to_do": {
+        "message": "할 일"
+    },
+    "minutes": {
+        "message": "분"
+    },
+    "hours": {
+        "message": "시간"
+    },
+    "days": {
+        "message": "날"
+    },
+    "weeks": {
+        "message": "주"
+    },
+    "failedToFetchStakeholders": {
+        "message": "이해관계자를 가져오지 못했습니다."
+    },
+    "stakeholderAdded": {
+        "message": "이해관계자가 추가되었습니다."
+    },
+    "failedToAddStakeholder": {
+        "message": "이해관계자를 추가하지 못했습니다."
+    },
+    "stakeholderRemoved": {
+        "message": "이해관계자가 제거됨"
+    },
+    "failedToRemoveStakeholder": {
+        "message": "이해관계자를 삭제하지 못했습니다."
+    },
+    "stakeholderUpdated": {
+        "message": "이해관계자 업데이트됨"
+    },
+    "failedToUpdateStakeholder": {
+        "message": "관련자를 업데이트하지 못했습니다."
+    },
+    "contactAlreadyAdded": {
+        "message": "연락처가 이미 추가되었습니다."
+    },
+    "searchContactsPlaceholder": {
+        "message": "WhatsApp 연락처 검색..."
+    },
+    "groupLabel": {
+        "message": "그룹"
+    },
+    "userLabel": {
+        "message": "사용자"
+    },
+    "noContactsFound": {
+        "message": "연락처를 찾을 수 없습니다."
+    },
+    "stakeholdersLabel": {
+        "message": "이해관계자"
+    },
+    "noStakeholdersYet": {
+        "message": "아직 추가된 이해관계자가 없습니다."
+    },
+    "primaryLabel": {
+        "message": "주요한"
+    },
+    "groupChatLabel": {
+        "message": "그룹채팅"
+    },
+    "makePrimaryTooltip": {
+        "message": "기본으로 설정"
+    },
+    "removeContactTooltip": {
+        "message": "연락처 삭제"
+    },
+    "roleLabel": {
+        "message": "역할"
+    },
+    "addRolePlaceholder": {
+        "message": "역할 추가"
+    },
+    "removeStakeholderTitle": {
+        "message": "이해관계자를 제거하시겠습니까?"
+    },
+    "removeStakeholderConfirmMsg": {
+        "message": "이 리드에서 {{name}}님을 삭제하시겠습니까?"
+    },
+    "remove": {
+        "message": "제거하다"
+    },
+    "standardSalesPipeline": {
+        "message": "표준 판매 파이프라인"
+    },
+    "defaultPipeline": {
+        "message": "기본 파이프라인"
+    },
+    "newInquiry": {
+        "message": "새로운 문의"
+    },
+    "qualified": {
+        "message": "자격 있는"
+    },
+    "proposalSent": {
+        "message": "제안서 전송됨"
+    },
+    "won": {
+        "message": "이겼다"
+    },
+    "lost": {
+        "message": "잃어버린"
+    },
+    "dealWonTitle": {
+        "message": "거래 승리! 🎉"
+    },
+    "dealLostTitle": {
+        "message": "거래 실패"
+    },
+    "saveValueLabel": {
+        "message": "가치 저장"
+    },
+    "markLostLabel": {
+        "message": "마크 로스트"
+    },
+    "finalDealValueLabel": {
+        "message": "최종 거래 가치"
+    },
+    "updateFinalRevenueDesc": {
+        "message": "이 거래의 최종 수익 금액을 업데이트하세요."
+    },
+    "reasonForLossLabel": {
+        "message": "손실 이유"
+    },
+    "lossReasonPlaceholder": {
+        "message": "이 거래가 실패한 이유는 무엇입니까? 예를 들어 가격이 너무 높네요. 경쟁사..."
+    },
+    "hot": {
+        "message": "더운"
+    },
+    "warm": {
+        "message": "따뜻한"
+    },
+    "cold": {
+        "message": "추운"
+    },
+    "currencyPlaceholder": {
+        "message": "똥개"
+    },
+    "searchPlaceholder": {
+        "message": "찾다..."
+    },
+    "selectAnOption": {
+        "message": "옵션을 선택하세요..."
+    },
+    "noResultsFound": {
+        "message": "검색결과가 없습니다"
+    },
+    "scheduledMessagesWarning": {
+        "message": "예약된 메시지는 WhatsApp Web이 열려 있는 경우에만 작동합니다."
+    },
+    "schedule": {
+        "message": "일정"
+    },
+    "messageTimeInFuture": {
+        "message": "반복되지 않는 메시지의 경우 메시지 시간은 미래여야 합니다."
+    },
+    "fillAllFields": {
+        "message": "필수 입력란을 모두 작성해 주세요."
+    },
+    "uploadFailed": {
+        "message": "업로드 실패: {{error}}"
+    },
+    "minute": {
+        "message": "분"
+    },
+    "everyRecurrenceSimple": {
+        "message": "{{recurrence}} {{unit}}마다"
+    },
+    "hour_label": {
+        "message": "시간"
+    },
+    "day_label": {
+        "message": "낮"
+    },
+    "week_label": {
+        "message": "주"
+    },
+    "month_label": {
+        "message": "월"
+    },
+    "year_label": {
+        "message": "년도"
+    },
+    "hour": {
+        "message": "시간"
+    },
+    "day": {
+        "message": "낮"
+    },
+    "week": {
+        "message": "주"
+    },
+    "month": {
+        "message": "월"
+    },
+    "months": {
+        "message": "개월"
+    },
+    "year": {
+        "message": "년도"
+    },
+    "years": {
+        "message": "연령"
+    },
+    "newNote": {
+        "message": "새 메모"
+    },
+    "newTask": {
+        "message": "새 작업"
+    },
+    "noActivity": {
+        "message": "활동 없음"
+    },
+    "addNote": {
+        "message": "메모 추가"
+    },
+    "chatOnWhatsApp": {
+        "message": "WhatsApp에서 채팅"
+    },
+    "startDateLabel": {
+        "message": "시작일"
+    },
+    "endDateLabel": {
+        "message": "종료일"
+    },
+    "apply": {
+        "message": "적용하다"
+    },
+    "taskOverdue": {
+        "message": "작업 기한이 지났다"
+    },
+    "tasksOverdue": {
+        "message": "기한이 지난 작업"
+    },
+    "upcomingTaskLabel": {
+        "message": "다가오는 작업"
+    },
+    "upcomingTasksLabel": {
+        "message": "다가오는 작업"
+    },
+    "noPlannedTask": {
+        "message": "계획된 작업 없음"
+    },
+    "empty": {
+        "message": "비어 있는"
+    },
+    "none": {
+        "message": "없음"
+    },
+    "true": {
+        "message": "진실"
+    },
+    "false": {
+        "message": "거짓"
+    },
+    "setTo": {
+        "message": "로 설정"
+    },
+    "changed": {
+        "message": "변경됨"
+    },
+    "from": {
+        "message": "~에서"
+    },
+    "to": {
+        "message": "에게"
+    },
+    "task": {
+        "message": "일"
+    },
+    "by": {
+        "message": "~에 의해"
+    },
+    "loadingDots": {
+        "message": "..."
+    },
+    "edit": {
+        "message": "편집하다"
+    },
+    "importExportBtn": {
+        "message": "가져오기 / 내보내기"
+    },
+    "importExportDataTitle": {
+        "message": "데이터 가져오기 및 내보내기"
+    },
+    "importTab": {
+        "message": "가져오기"
+    },
+    "exportTab": {
+        "message": "내보내기"
+    },
+    "importBtn": {
+        "message": "가져오기"
+    },
+    "exportBtn": {
+        "message": "내보내기"
+    },
+    "newDataExport": {
+        "message": "새 데이터 내보내기"
+    },
+    "selectFieldsToExport": {
+        "message": "내보낼 필드 선택"
+    },
+    "selectActivityToExport": {
+        "message": "내보낼 활동 선택"
+    },
+    "leadsBtn": {
+        "message": "리드"
+    },
+    "activitiesBtn": {
+        "message": "활동"
+    },
+    "startDate": {
+        "message": "시작 날짜"
+    },
+    "endDate": {
+        "message": "종료 날짜"
+    },
+    "exportHistory": {
+        "message": "내보내기 작업"
+    },
+    "noExports": {
+        "message": "최근 내보내기 없음"
+    },
+    "statusCol": {
+        "message": "상태"
+    },
+    "typeCol": {
+        "message": "유형"
+    },
+    "dateCol": {
+        "message": "날짜"
+    },
+    "actionCol": {
+        "message": "작업"
+    },
+    "exportStarting": {
+        "message": "시작 중..."
+    },
+    "exportProcessing": {
+        "message": "내보내기 처리 중..."
+    },
+    "exportCompleted": {
+        "message": "내보내기 완료! 이제 다운로드할 수 있습니다."
+    },
+    "exportFailed": {
+        "message": "내보내기에 실패했습니다. 다시 시도해 주세요."
+    },
+    "exportStarted": {
+        "message": "내보내기가 시작되었습니다! 백그라운드에서 처리 중입니다."
+    },
+    "exportDeleted": {
+        "message": "내보내기가 삭제되었습니다"
+    },
+    "failedToCreateExport": {
+        "message": "내보내기 시작에 실패했습니다"
+    },
+    "failedToDeleteExport": {
+        "message": "내보내기 삭제에 실패했습니다"
+    },
+    "failedToFetchFields": {
+        "message": "내보내기 필드를 불러오지 못했습니다"
+    },
+    "failedToFetchHistory": {
+        "message": "내보내기 기록을 불러오지 못했습니다"
+    },
+    "failedToGetDownloadUrl": {
+        "message": "다운로드 링크를 가져오지 못했습니다"
+    },
+    "comingSoonTitle": {
+        "message": "출시 예정"
+    },
+    "comingSoonDesc": {
+        "message": "가져오기 기능은 개발 중이며 곧 사용 가능할 예정입니다."
+    },
+    "dragAndDropFile": {
+        "message": "여기에 파일을 드래그 앤 드롭하세요"
+    },
+    "browseFile": {
+        "message": "파일 찾아보기"
+    },
+    "or": {
+        "message": "또는"
+    },
+    "fieldName": {
+        "message": "이름"
+    },
+    "fieldPhone": {
+        "message": "전화"
+    },
+    "fieldEmail": {
+        "message": "이메일"
+    },
+    "fieldCompany": {
+        "message": "회사"
+    },
+    "fieldPipeline": {
+        "message": "파이프라인"
+    },
+    "fieldStage": {
+        "message": "단계"
+    },
+    "fieldSource": {
+        "message": "출처"
+    },
+    "fieldValue": {
+        "message": "가치"
+    },
+    "fieldCurrency": {
+        "message": "통화"
+    },
+    "fieldPriority": {
+        "message": "우선순위"
+    },
+    "fieldCreatedAt": {
+        "message": "생성일"
+    },
+    "fieldContactName": {
+        "message": "담당자명"
+    },
+    "fieldContactInfo": {
+        "message": "연락처 정보"
+    },
+    "activityNotes": {
+        "message": "메모"
+    },
+    "activityTasks": {
+        "message": "작업"
+    },
+    "activityStageChanges": {
+        "message": "단계 변경"
+    },
+    "prevPage": {
+        "message": "‹ 이전"
+    },
+    "nextPage": {
+        "message": "다음 ›"
+    }
+}

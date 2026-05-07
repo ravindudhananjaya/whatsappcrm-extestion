@@ -1,0 +1,1747 @@
+{
+    "extName": {
+        "message": "CRM empresarial de WhatsApp – The Chat Quotient",
+        "description": "The name of the extension"
+    },
+    "extShortName": {
+        "message": "The CQ",
+        "description": "The short name of the extension"
+    },
+    "extDescription": {
+        "message": "El CRM y embudo de ventas gratuito #1 para WhatsApp. Gestione clientes potenciales, programe mensajes y use respuestas con IA directamente en WhatsApp Web.",
+        "description": "The description of the extension"
+    },
+    "loading": {
+        "message": "Cargando..."
+    },
+    "theCqDashboard": {
+        "message": "Panel de control The CQ"
+    },
+    "language": {
+        "message": "Idioma"
+    },
+    "currency": {
+        "message": "Moneda"
+    },
+    "pipeline": {
+        "message": "Embudo"
+    },
+    "timeframe": {
+        "message": "Plazo"
+    },
+    "last7Days": {
+        "message": "Últimos 7 Días"
+    },
+    "last14Days": {
+        "message": "Últimos 14 Días"
+    },
+    "thisMonth": {
+        "message": "Este Mes"
+    },
+    "last3Months": {
+        "message": "Últimos 3 Meses"
+    },
+    "customRange": {
+        "message": "Rango Personalizado"
+    },
+    "overviewTab": {
+        "message": "Resumen"
+    },
+    "pipelineTab": {
+        "message": "Embudo"
+    },
+    "taskCreatedSuccessfully": {
+        "message": "Tarea creada exitosamente"
+    },
+    "failedToCreateTask": {
+        "message": "Error al crear la tarea"
+    },
+    "noteCreatedSuccessfully": {
+        "message": "Nota creada exitosamente"
+    },
+    "failedToCreateNote": {
+        "message": "Error al crear la nota"
+    },
+    "taskMarkedCompleted": {
+        "message": "Tarea marcada como completada"
+    },
+    "taskMarkedPending": {
+        "message": "Tarea marcada como pendiente"
+    },
+    "failedToUpdateTask": {
+        "message": "Error al actualizar la tarea"
+    },
+    "analyticsErrorHeading": {
+        "message": "Algo salió mal en el Panel de Análisis."
+    },
+    "tryAgain": {
+        "message": "Intentar de Nuevo"
+    },
+    "failedToUpdateLead": {
+        "message": "Error al actualizar el cliente potencial"
+    },
+    "leadMovedSuccessfully": {
+        "message": "Cliente potencial movido exitosamente"
+    },
+    "loadingLeads": {
+        "message": "Cargando clientes potenciales..."
+    },
+    "noStagesDefined": {
+        "message": "No hay etapas definidas para este embudo."
+    },
+    "unnamedLead": {
+        "message": "Cliente potencial sin nombre"
+    },
+    "slippingAwayTooltip": {
+        "message": "Alejándose: Sin actividad por más de 7 días"
+    },
+    "taskDueTooltip": {
+        "message": "Tarea Pendiente: Se requiere acción"
+    },
+    "loadMore": {
+        "message": "Cargar Más"
+    },
+    "unknownSource": {
+        "message": "Desconocido"
+    },
+    "leadSourceBreakdown": {
+        "message": "Desglose de Origen del Cliente Potencial"
+    },
+    "noDataAvailable": {
+        "message": "No hay datos disponibles"
+    },
+    "forecastValue": {
+        "message": "Valor Previsto"
+    },
+    "weightedPipeline": {
+        "message": "Embudo Ponderado"
+    },
+    "conversionRate": {
+        "message": "Tasa de Conversión"
+    },
+    "periodAverage": {
+        "message": "Promedio del Período"
+    },
+    "newLeads": {
+        "message": "Nuevos Clientes Potenciales"
+    },
+    "inSelectedRange": {
+        "message": "En rango seleccionado"
+    },
+    "tasksDueToday": {
+        "message": "Tareas para Hoy"
+    },
+    "actionRequired": {
+        "message": "Se requiere acción"
+    },
+    "slippingAway": {
+        "message": "Alejándose"
+    },
+    "inactiveDays": {
+        "message": "Inactivo > 7 Días"
+    },
+    "noSlippingLeads": {
+        "message": "No hay clientes potenciales alejándose. ¡Buen trabajo!"
+    },
+    "unknownCustomer": {
+        "message": "Desconocido"
+    },
+    "untitledLead": {
+        "message": "Cliente potencial sin título"
+    },
+    "nudge": {
+        "message": "Dar Toque"
+    },
+    "daysOld": {
+        "message": "$count$ días antiguo",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "customer": {
+        "message": "Cliente"
+    },
+    "untitledTask": {
+        "message": "Tarea Sin Título"
+    },
+    "invalidDate": {
+        "message": "Fecha Inválida"
+    },
+    "today": {
+        "message": "Hoy"
+    },
+    "overdueTasks": {
+        "message": "Tareas Atrasadas"
+    },
+    "noOverdueTasks": {
+        "message": "No hay tareas atrasadas."
+    },
+    "upcomingTasks": {
+        "message": "Próximas Tareas"
+    },
+    "noUpcomingTasks": {
+        "message": "No hay próximas tareas"
+    },
+    "unknownStage": {
+        "message": "Desconocido"
+    },
+    "pipelineFunnel": {
+        "message": "Embudo de Ventas"
+    },
+    "aboutTheCQ": {
+        "message": "Acerca de The Chat Quotient"
+    },
+    "theCQ": {
+        "message": "The CQ"
+    },
+    "settings": {
+        "message": "Configuración"
+    },
+    "chatWithUs": {
+        "message": "Chatea Con Nosotros"
+    },
+    "theCQSupport": {
+        "message": "Soporte TheCQ"
+    },
+    "theCQUpdates": {
+        "message": "Actualizaciones de TheCQ"
+    },
+    "openDashboard": {
+        "message": "Abrir Panel"
+    },
+    "dashboard": {
+        "message": "Panel"
+    },
+    "leads": {
+        "message": "Clientes Potenciales"
+    },
+    "createLead": {
+        "message": "Crear Cliente Potencial"
+    },
+    "lead": {
+        "message": "Cliente Potencial"
+    },
+    "quickReplies": {
+        "message": "Respuestas Rápidas"
+    },
+    "chatSummary": {
+        "message": "Resumen de Chat"
+    },
+    "summarizeThisChat": {
+        "message": "Resumir este Chat"
+    },
+    "scheduleMessages": {
+        "message": "Programar Mensajes"
+    },
+    "scheduledMessages": {
+        "message": "Mensajes Programados"
+    },
+    "needSupport": {
+        "message": "¿Necesitas ayuda?"
+    },
+    "supportMessage": {
+        "message": "Tu mensaje será enviado por WhatsApp al creador de The Chat Quotient. Somos un equipo pequeño, por lo que, si bien las respuestas pueden no ser inmediatas, las recibirás durante nuestro horario laboral (IST). ¡Gracias por tu paciencia!"
+    },
+    "sendMessage": {
+        "message": "Enviar Mensaje"
+    },
+    "cancel": {
+        "message": "Cancelar"
+    },
+    "notes": {
+        "message": "Notas"
+    },
+    "chatNotes": {
+        "message": "Notas de Chat"
+    },
+    "reminders": {
+        "message": "Recordatorios"
+    },
+    "todo": {
+        "message": "Tareas"
+    },
+    "chatTodo": {
+        "message": "Tareas de Chat"
+    },
+    "contactInfo": {
+        "message": "Información de Contacto"
+    },
+    "more": {
+        "message": "Más"
+    },
+    "profileDetails": {
+        "message": "Detalles del Perfil"
+    },
+    "pipelineSettings": {
+        "message": "Configuración del Embudo"
+    },
+    "update": {
+        "message": "Actualizar"
+    },
+    "submit": {
+        "message": "Enviar"
+    },
+    "pleaseEnterName": {
+        "message": "Por favor, ingresa tu nombre."
+    },
+    "personalizeAiAssistant": {
+        "message": "Personaliza tu Asistente de IA"
+    },
+    "nameRequired": {
+        "message": "Nombre (Requerido)"
+    },
+    "enterYourName": {
+        "message": "Ingresa tu nombre"
+    },
+    "mobileNumber": {
+        "message": "Número de Teléfono"
+    },
+    "numberLowercase": {
+        "message": "número"
+    },
+    "industry": {
+        "message": "Industria"
+    },
+    "selectIndustry": {
+        "message": "Selecciona tu industria"
+    },
+    "profession": {
+        "message": "Profesión"
+    },
+    "selectProfessions": {
+        "message": "Selecciona tus profesiones"
+    },
+    "customInstructionLabel": {
+        "message": "Dile a la IA cómo comportarse (Opcional)"
+    },
+    "customInstructionPlaceholder": {
+        "message": "Sé conciso y estructurado..."
+    },
+    "aiToneOptional": {
+        "message": "Tono de IA (Opcional)"
+    },
+    "later": {
+        "message": "Más tarde"
+    },
+    "industry_ecommerce": {
+        "message": "Comercio electrónico"
+    },
+    "industry_retail": {
+        "message": "Venta al por menor"
+    },
+    "industry_fashion": {
+        "message": "Moda"
+    },
+    "industry_health_wellness": {
+        "message": "Salud y bienestar"
+    },
+    "industry_education": {
+        "message": "Educación"
+    },
+    "industry_travel_tourism": {
+        "message": "Viajes y turismo"
+    },
+    "industry_real_estate": {
+        "message": "Bienes raíces"
+    },
+    "industry_automotive": {
+        "message": "Automotriz"
+    },
+    "industry_finance": {
+        "message": "Finanzas"
+    },
+    "industry_insurance": {
+        "message": "Seguros"
+    },
+    "industry_financial_services": {
+        "message": "Servicios financieros"
+    },
+    "industry_publishing": {
+        "message": "Editorial"
+    },
+    "industry_astrology": {
+        "message": "Astrología"
+    },
+    "industry_coaching_training": {
+        "message": "Coaching y formación"
+    },
+    "industry_legal_consulting": {
+        "message": "Servicios legales y de consultoría"
+    },
+    "industry_beauty_personal_care": {
+        "message": "Belleza y cuidado personal"
+    },
+    "industry_technology_saas": {
+        "message": "Tecnología y SaaS"
+    },
+    "industry_marketing_advertising": {
+        "message": "Marketing y publicidad"
+    },
+    "industry_home_services": {
+        "message": "Servicios para el hogar"
+    },
+    "industry_nonprofit_social_impact": {
+        "message": "Sin fines de lucro e impacto social"
+    },
+    "industry_event_planning_hospitality": {
+        "message": "Planificación de eventos y hostelería"
+    },
+    "industry_media_content_creation": {
+        "message": "Medios y creación de contenido"
+    },
+    "industry_other": {
+        "message": "Otro"
+    },
+    "profession_freelancer_creator": {
+        "message": "Freelancer / Creador"
+    },
+    "profession_coach_mentor": {
+        "message": "Entrenador / Mentor"
+    },
+    "profession_consultant": {
+        "message": "Consultor"
+    },
+    "profession_content_creator_writer": {
+        "message": "Creador de contenido / Escritor"
+    },
+    "profession_educator_tutor": {
+        "message": "Educador / Tutor"
+    },
+    "profession_therapist_counselor": {
+        "message": "Terapeuta / Consejero"
+    },
+    "profession_nutritionist_dietician": {
+        "message": "Nutricionista / Dietista"
+    },
+    "profession_fitness_trainer": {
+        "message": "Entrenador físico"
+    },
+    "profession_astrologer": {
+        "message": "Astrólogo"
+    },
+    "profession_social_media_manager": {
+        "message": "Gestor de redes sociales"
+    },
+    "profession_marketing_specialist_strategist": {
+        "message": "Especialista / Estratega de marketing"
+    },
+    "profession_ecommerce_seller_store_owner": {
+        "message": "Vendedor de comercio electrónico / Dueño de tienda"
+    },
+    "profession_retailer_shop_owner": {
+        "message": "Comerciante / Dueño de tienda"
+    },
+    "profession_real_estate_agent": {
+        "message": "Agente inmobiliario"
+    },
+    "profession_travel_agent": {
+        "message": "Agente de viajes"
+    },
+    "profession_insurance_agent_broker": {
+        "message": "Agente / Corredor de seguros"
+    },
+    "profession_financial_advisor_planner": {
+        "message": "Asesor / Planificador financiero"
+    },
+    "profession_lawyer_legal_advisor": {
+        "message": "Abogado / Asesor legal"
+    },
+    "profession_beauty_professional_esthetician": {
+        "message": "Profesional de la belleza / Esteticista"
+    },
+    "profession_healthcare_provider_practitioner": {
+        "message": "Proveedor / Profesional de la salud"
+    },
+    "profession_event_planner_coordinator": {
+        "message": "Planificador / Coordinador de eventos"
+    },
+    "profession_customer_service_representative": {
+        "message": "Representante de servicio al cliente"
+    },
+    "profession_publisher_editor": {
+        "message": "Editor / Publicador"
+    },
+    "profession_fashion_designer_stylist": {
+        "message": "Diseñador de moda / Estilista"
+    },
+    "profession_automotive_dealer_consultant": {
+        "message": "Concesionario / Consultor automotriz"
+    },
+    "profession_sales_representative": {
+        "message": "Representante de ventas"
+    },
+    "profession_software_developer_engineer": {
+        "message": "Desarrollador / Ingeniero de software"
+    },
+    "profession_saas_founder_product_manager": {
+        "message": "Fundador de SaaS / Gerente de producto"
+    },
+    "profession_nonprofit_leader_advocate": {
+        "message": "Líder de organización sin fines de lucro / Defensor"
+    },
+    "rephrase": {
+        "message": "Reescribir"
+    },
+    "clickToInsertThisMessage": {
+        "message": "Haga clic para insertar este mensaje"
+    },
+    "regenerateAiResponse": {
+        "message": "Regenerar respuesta de IA"
+    },
+    "discardIt": {
+        "message": "Descartar"
+    },
+    "rephrasecaps": {
+        "message": "REESCRIBIR"
+    },
+    "send": {
+        "message": "Enviar"
+    },
+    "aiReply": {
+        "message": "Respuesta IA"
+    },
+    "generate": {
+        "message": "Generar"
+    },
+    "actionMessage": {
+        "message": "{{action}} mensaje"
+    },
+    "tone": {
+        "message": "Tono"
+    },
+    "changeMessageLength": {
+        "message": "Cambiar longitud del mensaje"
+    },
+    "customInstruction": {
+        "message": "Instrucción personalizada"
+    },
+    "enterYourInstruction": {
+        "message": "Ingrese su instrucción"
+    },
+    "length_shorter": {
+        "message": "Más corto"
+    },
+    "length_longer": {
+        "message": "Más largo"
+    },
+    "tone_professional": {
+        "message": "Profesional"
+    },
+    "tone_straightforward": {
+        "message": "Directo"
+    },
+    "tone_confident": {
+        "message": "Seguro"
+    },
+    "tone_respectful": {
+        "message": "Respetuoso"
+    },
+    "tone_friendly": {
+        "message": "Amigable"
+    },
+    "tone_casual_informal": {
+        "message": "Informal/Informal"
+    },
+    "tone_warm_welcoming": {
+        "message": "Cálido y acogedor"
+    },
+    "tone_supportive": {
+        "message": "Solidario"
+    },
+    "tone_empathetic": {
+        "message": "Empático"
+    },
+    "tone_encouraging": {
+        "message": "Alentador"
+    },
+    "tone_patient_reassuring": {
+        "message": "Paciente y tranquilizador"
+    },
+    "tone_persuasive": {
+        "message": "Persuasivo"
+    },
+    "tone_instructive_teacher_like": {
+        "message": "Instructivo / Estilo profesor"
+    },
+    "tone_insightful": {
+        "message": "Perspicaz"
+    },
+    "tone_witty_clever": {
+        "message": "Ingenioso y astuto"
+    },
+    "tone_inspiring": {
+        "message": "Inspirador"
+    },
+    "tone_minimal_crisp": {
+        "message": "Minimalista y claro"
+    },
+    "tone_luxury_premium_feel": {
+        "message": "Sensación de lujo / Premium"
+    },
+    "pipelines": {
+        "message": "Embudos"
+    },
+    "newPipeline": {
+        "message": "Nuevo Embudo"
+    },
+    "pipelineName": {
+        "message": "Nombre del Embudo"
+    },
+    "pipelineNamePlaceholder": {
+        "message": "ej. Ventas B2B"
+    },
+    "create": {
+        "message": "Crear"
+    },
+    "failedToCreatePipeline": {
+        "message": "Error al crear el embudo:"
+    },
+    "failedToCreateStage": {
+        "message": "Error al crear la etapa:"
+    },
+    "failedToDeletePipeline": {
+        "message": "Error al eliminar el embudo:"
+    },
+    "atLeastOnePipelineRequired": {
+        "message": "Debes tener al menos un embudo."
+    },
+    "cannotDeleteDefaultPipeline": {
+        "message": "No se puede eliminar el embudo predeterminado. Por favor, establece otro embudo como predeterminado primero."
+    },
+    "deletePipeline": {
+        "message": "Eliminar Embudo"
+    },
+    "deletePipelineConfirm": {
+        "message": "¿Estás seguro de que deseas eliminar este embudo? Esta acción no se puede deshacer."
+    },
+    "del": {
+        "message": "Elim."
+    },
+    "setDefault": {
+        "message": "Establecer como Predeterminado"
+    },
+    "setAsDefault": {
+        "message": "Establecer como Predeterminado"
+    },
+    "savingViaApiNotImplemented": {
+        "message": "La grabación de cambios a través de la API aún no está implementada. Los cambios no persistirán después de recargar."
+    },
+    "confirm": {
+        "message": "Confirmar"
+    },
+    "default": {
+        "message": "Predeterminado"
+    },
+    "delete": {
+        "message": "Eliminar"
+    },
+    "won100": {
+        "message": "Ganado (100%)"
+    },
+    "lost0": {
+        "message": "Perdido (0%)"
+    },
+    "won100Label": {
+        "message": "Ganado (100)"
+    },
+    "lost0Label": {
+        "message": "Perdido (0)"
+    },
+    "atLeastOneOpenStage": {
+        "message": "Se requiere al menos una etapa Abierta."
+    },
+    "atLeastOneWonStage": {
+        "message": "Se requiere al menos una etapa Ganada."
+    },
+    "atLeastOneLostStage": {
+        "message": "Se requiere al menos una etapa Perdida."
+    },
+    "stageNamesMustBeUnique": {
+        "message": "Los nombres de las etapas deben ser únicos."
+    },
+    "cannotDeleteStageType": {
+        "message": "No se puede eliminar: Debes tener al menos una etapa {{type}}."
+    },
+    "stagesCount": {
+        "message": "Etapas ({{count}})"
+    },
+    "invalidConfiguration": {
+        "message": "Configuración Inválida"
+    },
+    "name": {
+        "message": "Nombre"
+    },
+    "status": {
+        "message": "Estado"
+    },
+    "stageName": {
+        "message": "Nombre de la Etapa"
+    },
+    "pickAColor": {
+        "message": "Elige un color"
+    },
+    "deleteStage": {
+        "message": "Eliminar Etapa"
+    },
+    "deleteStageConfirmMsg": {
+        "message": "¿Estás seguro de que deseas eliminar esta etapa? Esta acción no se puede deshacer."
+    },
+    "newStageWithNumber": {
+        "message": "Nueva etapa {{number}}"
+    },
+    "addStage": {
+        "message": "Añadir Etapa"
+    },
+    "leadTitlePlaceholder": {
+        "message": "Título del cliente potencial"
+    },
+    "backToLeads": {
+        "message": "Volver a Clientes potenciales"
+    },
+    "createLeadHeader": {
+        "message": "Crear Cliente potencial"
+    },
+    "leadsHeader": {
+        "message": "Clientes potenciales"
+    },
+    "createNew": {
+        "message": "Crear Nuevo"
+    },
+    "leadCreatedSuccessfully": {
+        "message": "Cliente potencial creado con éxito"
+    },
+    "failedToCreateLead": {
+        "message": "Error al crear el cliente potencial"
+    },
+    "leadDeletedSuccessfully": {
+        "message": "Cliente potencial eliminado con éxito"
+    },
+    "failedToDeleteLead": {
+        "message": "Error al eliminar el cliente potencial"
+    },
+    "leadUpdatedSuccessfully": {
+        "message": "Cliente potencial actualizado con éxito"
+    },
+    "createNewLead": {
+        "message": "Crear Nuevo Cliente potencial"
+    },
+    "analyzingChat": {
+        "message": "Analizando el chat para sugerir detalles..."
+    },
+    "loadingPipelines": {
+        "message": "Cargando embudos..."
+    },
+    "selectPipeline": {
+        "message": "Seleccionar Embudo"
+    },
+    "stage": {
+        "message": "Etapa"
+    },
+    "selectStage": {
+        "message": "Seleccionar Etapa"
+    },
+    "leadTitle": {
+        "message": "Título del cliente potencial"
+    },
+    "enterLeadTitle": {
+        "message": "Ingrese el título del cliente potencial"
+    },
+    "priority": {
+        "message": "Prioridad"
+    },
+    "selectPriority": {
+        "message": "Seleccionar Prioridad"
+    },
+    "expectedClosingDate": {
+        "message": "Fecha de Cierre Prevista"
+    },
+    "expectedValue": {
+        "message": "Valor Esperado"
+    },
+    "leadSource": {
+        "message": "Fuente del cliente potencial"
+    },
+    "leadSourcePlaceholder": {
+        "message": "ej. Sitio web, Recomendación"
+    },
+    "creating": {
+        "message": "Creando..."
+    },
+    "loadingNotes": {
+        "message": "Cargando notas..."
+    },
+    "pleaseWaitNotes": {
+        "message": "Espere mientras cargamos sus notas."
+    },
+    "editNote": {
+        "message": "Editar Nota"
+    },
+    "deleteNote": {
+        "message": "Eliminar Nota"
+    },
+    "deleteNoteConfirm": {
+        "message": "¿Estás seguro de que deseas eliminar esta nota?"
+    },
+    "noNotesYet": {
+        "message": "No hay notas aún"
+    },
+    "startAddingNotes": {
+        "message": "Comience a añadir notas para realizar un seguimiento de la información importante de este chat."
+    },
+    "loadMoreNotes": {
+        "message": "Cargar Más Notas"
+    },
+    "addANote": {
+        "message": "Añadir una nota..."
+    },
+    "add": {
+        "message": "Añadir"
+    },
+    "selectChatForNotes": {
+        "message": "Seleccione un chat para ver las notas."
+    },
+    "summaryIsOutdated": {
+        "message": "El resumen está desactualizado"
+    },
+    "lastUpdated": {
+        "message": "Última actualización"
+    },
+    "regenerateSummary": {
+        "message": "Regenerar resumen"
+    },
+    "refreshSummary": {
+        "message": "Actualizar resumen"
+    },
+    "copied": {
+        "message": "¡Copiado!"
+    },
+    "failedToCopy": {
+        "message": "Error al copiar"
+    },
+    "copySummary": {
+        "message": "Copiar resumen"
+    },
+    "generatingSummary": {
+        "message": "Generando resumen, espere por favor..."
+    },
+    "wasThisHelpful": {
+        "message": "¿Fue útil esto?"
+    },
+    "youLikedSummary": {
+        "message": "Le gustó este resumen (haga clic para cambiar)"
+    },
+    "likeSummary": {
+        "message": "Me gusta este resumen"
+    },
+    "youDislikedSummary": {
+        "message": "No le gustó este resumen (haga clic para cambiar)"
+    },
+    "dislikeSummary": {
+        "message": "No me gusta este resumen"
+    },
+    "noSummaryYet": {
+        "message": "No hay resumen aún"
+    },
+    "generateSummaryDesc": {
+        "message": "Generar un resumen impulsado por IA de esta conversación de chat."
+    },
+    "selectChatToGenerateSummary": {
+        "message": "Seleccione un chat para generar un resumen."
+    },
+    "editTodo": {
+        "message": "Editar Tarea"
+    },
+    "deleteTodo": {
+        "message": "Eliminar Tarea"
+    },
+    "deleteTodoConfirm": {
+        "message": "¿Estás seguro de que deseas eliminar esta tarea?"
+    },
+    "noTodosYet": {
+        "message": "No hay tareas aún"
+    },
+    "startAddingTodos": {
+        "message": "Comience a añadir tareas para realizar un seguimiento de los pendientes de este chat."
+    },
+    "noSectionTodos": {
+        "message": "No hay tareas {{title}}"
+    },
+    "loadMoreSection": {
+        "message": "Cargar Más {{title}}"
+    },
+    "loadingTodos": {
+        "message": "Cargando tareas..."
+    },
+    "pleaseWaitTodos": {
+        "message": "Espere mientras cargamos sus tareas."
+    },
+    "pendingTitle": {
+        "message": "Pendiente"
+    },
+    "doneTitle": {
+        "message": "Hecho"
+    },
+    "addATodo": {
+        "message": "Añadir una tarea..."
+    },
+    "selectChatForTodos": {
+        "message": "Seleccione un chat para ver las tareas."
+    },
+    "savedSuccessfully": {
+        "message": "Guardado con éxito."
+    },
+    "failedToSaveCompany": {
+        "message": "Error al guardar la empresa"
+    },
+    "companySavedSuccessfully": {
+        "message": "Empresa guardada con éxito."
+    },
+    "firstNameMandatory": {
+        "message": "El nombre es obligatorio"
+    },
+    "deleteContactConfirm": {
+        "message": "¿Estás seguro de que deseas eliminar este contacto?"
+    },
+    "deletedSuccessfully": {
+        "message": "Eliminado con éxito."
+    },
+    "contactPermissionAlert": {
+        "message": "Esta función funcionará cuando el permiso de contacto esté habilitado en el teléfono."
+    },
+    "unknownContact": {
+        "message": "Contacto Desconocido"
+    },
+    "addQuickReply": {
+        "message": "Añadir Respuesta Rápida"
+    },
+    "selectChatQuickRepliesDesc": {
+        "message": "Seleccione un chat para acceder a las respuestas rápidas."
+    },
+    "deleteReminderConfirm": {
+        "message": "¿Estás seguro de que deseas eliminar este recordatorio?"
+    },
+    "editReminder": {
+        "message": "Editar Recordatorio"
+    },
+    "deleteReminder": {
+        "message": "Eliminar Recordatorio"
+    },
+    "noRemindersYet": {
+        "message": "No hay recordatorios aún"
+    },
+    "startAddingReminders": {
+        "message": "Comience a añadir recordatorios para nunca perder tareas o eventos importantes."
+    },
+    "noSectionReminders": {
+        "message": "No hay recordatorios {{title}}"
+    },
+    "oneTime": {
+        "message": "Una sola vez"
+    },
+    "everyRecurrence": {
+        "message": "Cada {{recurrence}} {{recurrenceType}}{{pluralSuffix}}"
+    },
+    "snoozed": {
+        "message": "Pospuesto"
+    },
+    "remindersWorkWarning": {
+        "message": "Los recordatorios solo funcionan si WhatsApp Web está abierto."
+    },
+    "createNewReminder": {
+        "message": "Crear Nuevo Recordatorio"
+    },
+    "reminderTitle": {
+        "message": "Título del recordatorio..."
+    },
+    "descriptionOptional": {
+        "message": "Descripción (opcional)..."
+    },
+    "repeatAfter": {
+        "message": "Repetir después de"
+    },
+    "selectFrequency": {
+        "message": "Seleccionar frecuencia"
+    },
+    "loadingReminders": {
+        "message": "Cargando recordatorios..."
+    },
+    "pleaseWaitReminders": {
+        "message": "Espere mientras cargamos sus recordatorios."
+    },
+    "processedTitle": {
+        "message": "Procesado"
+    },
+    "addReminder": {
+        "message": "Añadir Recordatorio"
+    },
+    "selectChatForReminders": {
+        "message": "Seleccione un chat para crear y administrar recordatorios."
+    },
+    "deleteScheduledMessageConfirm": {
+        "message": "¿Estás seguro de que deseas eliminar este mensaje programado?"
+    },
+    "reason": {
+        "message": "Razón"
+    },
+    "sent": {
+        "message": "Enviado"
+    },
+    "failed": {
+        "message": "Fallido"
+    },
+    "editMessage": {
+        "message": "Editar Mensaje"
+    },
+    "deleteMessage": {
+        "message": "Eliminar Mensaje"
+    },
+    "noScheduledMessagesYet": {
+        "message": "No hay mensajes programados aún"
+    },
+    "scheduleMessagesDesc": {
+        "message": "Programe mensajes para que se envíen automáticamente en el momento adecuado."
+    },
+    "noSectionMessages": {
+        "message": "No hay mensajes {{title}}"
+    },
+    "editScheduledMessage": {
+        "message": "Editar Mensaje Programado"
+    },
+    "scheduleNewMessage": {
+        "message": "Programar Nuevo Mensaje"
+    },
+    "typeYourMessage": {
+        "message": "Escriba su mensaje aquí..."
+    },
+    "repeatEvery": {
+        "message": "Repetir cada"
+    },
+    "loadingScheduledMessages": {
+        "message": "Cargando mensajes programados..."
+    },
+    "pleaseWaitScheduledMessages": {
+        "message": "Espere mientras cargamos sus mensajes programados."
+    },
+    "historyTitle": {
+        "message": "Historial"
+    },
+    "scheduleMessage": {
+        "message": "Programar Mensaje"
+    },
+    "selectChat": {
+        "message": "Seleccionar chat"
+    },
+    "selectPersonalChat": {
+        "message": "Seleccione un chat personal"
+    },
+    "selectChatToSchedule": {
+        "message": "Seleccione un chat para programar y administrar mensajes."
+    },
+    "selectChatToManageLeads": {
+        "message": "Seleccione un chat 1:1 para administrar clientes potenciales"
+    },
+    "selectChatToManageLeadsDesc": {
+        "message": "Los clientes potenciales solo se pueden crear desde un chat 1:1. Los chats grupales pueden conectarse a un cliente potencial existente, pero no permiten la creación de nuevos clientes potenciales desde ellos."
+    },
+    "createLeadBtn": {
+        "message": "Crear lead"
+    },
+    "checkingContactDetails": {
+        "message": "Verificando detalles del contacto..."
+    },
+    "contactDetails": {
+        "message": "Detalles del contacto"
+    },
+    "firstName": {
+        "message": "Nombre"
+    },
+    "lastName": {
+        "message": "Apellido"
+    },
+    "phone": {
+        "message": "Teléfono"
+    },
+    "email": {
+        "message": "Correo electrónico"
+    },
+    "company": {
+        "message": "Empresa"
+    },
+    "designation": {
+        "message": "Cargo"
+    },
+    "jobTitle": {
+        "message": "Título del puesto"
+    },
+    "saving": {
+        "message": "Guardando..."
+    },
+    "saveDetails": {
+        "message": "Guardar detalles"
+    },
+    "noName": {
+        "message": "Sin nombre"
+    },
+    "editContact": {
+        "message": "Editar contacto"
+    },
+    "phoneNumber": {
+        "message": "Número de teléfono"
+    },
+    "typeToSearchCompanies": {
+        "message": "Escriba para buscar empresas..."
+    },
+    "loadingCompanies": {
+        "message": "Cargando empresas..."
+    },
+    "loadMoreCompanies": {
+        "message": "Cargar más empresas"
+    },
+    "createCompanySearchQuery": {
+        "message": "Crear empresa \"{{searchQuery}}\""
+    },
+    "noCompaniesAvailable": {
+        "message": "No hay empresas disponibles"
+    },
+    "editCompany": {
+        "message": "Editar empresa"
+    },
+    "removeCompany": {
+        "message": "Eliminar empresa"
+    },
+    "updateCompany": {
+        "message": "Actualizar empresa"
+    },
+    "createCompany": {
+        "message": "Crear empresa"
+    },
+    "domain": {
+        "message": "Dominio"
+    },
+    "address": {
+        "message": "Dirección"
+    },
+    "deleteLead": {
+        "message": "Eliminar Cliente potencial"
+    },
+    "deleteLeadConfirm": {
+        "message": "¿Estás seguro de que deseas eliminar este cliente potencial? Esta acción no se puede deshacer."
+    },
+    "noQuickRepliesYet": {
+        "message": "No hay respuestas rápidas aún"
+    },
+    "createQuickRepliesDesc": {
+        "message": "Cree respuestas rápidas para ahorrar tiempo al enviar mensajes comunes."
+    },
+    "noQuickRepliesFound": {
+        "message": "No se encontraron respuestas rápidas."
+    },
+    "dragToReorder": {
+        "message": "Arrastrar para reordenar"
+    },
+    "editBeforeSend": {
+        "message": "Editar antes de enviar"
+    },
+    "editReply": {
+        "message": "Editar respuesta"
+    },
+    "deleteReply": {
+        "message": "Eliminar respuesta"
+    },
+    "deleteQuickReplyConfirm": {
+        "message": "¿Estás seguro de que deseas eliminar esta respuesta rápida?"
+    },
+    "messageRequired": {
+        "message": "El mensaje es obligatorio"
+    },
+    "editQuickReply": {
+        "message": "Editar respuesta rápida"
+    },
+    "createQuickReply": {
+        "message": "Crear respuesta rápida"
+    },
+    "welcomePlaceholder": {
+        "message": "Bienvenida"
+    },
+    "howAreYouPlaceholder": {
+        "message": "Hola, ¿cómo estás?"
+    },
+    "save": {
+        "message": "Guardar"
+    },
+    "message": {
+        "message": "Mensaje"
+    },
+    "activityTab": {
+        "message": "Actividad"
+    },
+    "detailsTab": {
+        "message": "Detalles"
+    },
+    "tasksTab": {
+        "message": "Tareas"
+    },
+    "peopleTab": {
+        "message": "Personas"
+    },
+    "value": {
+        "message": "Valor"
+    },
+    "closeDate": {
+        "message": "Fecha de cierre"
+    },
+    "setDate": {
+        "message": "Establecer fecha"
+    },
+    "source": {
+        "message": "Fuente"
+    },
+    "sourceRequired": {
+        "message": "El valor de la fuente es obligatorio"
+    },
+    "addSource": {
+        "message": "Añadir fuente..."
+    },
+    "probability": {
+        "message": "Probabilidad"
+    },
+    "deleteLeadConfirmMsg": {
+        "message": "¿Estás seguro de que deseas eliminar este cliente potencial? Esta acción no se puede deshacer."
+    },
+    "writeQuickNote": {
+        "message": "Escribe una nota rápida..."
+    },
+    "noActivityYet": {
+        "message": "Aún no hay actividad."
+    },
+    "saveNote": {
+        "message": "Guardar nota"
+    },
+    "failedToFetchTasks": {
+        "message": "Error al obtener las tareas"
+    },
+    "failedToFetchCompletedTasks": {
+        "message": "Error al obtener las tareas completadas"
+    },
+    "taskMarkedAsCompleted": {
+        "message": "Tarea marcada como completada"
+    },
+    "taskMarkedAsPending": {
+        "message": "Tarea marcada como pendiente"
+    },
+    "taskUpdatedSuccess": {
+        "message": "Tarea actualizada correctamente"
+    },
+    "taskDeletedSuccess": {
+        "message": "Tarea eliminada correctamente"
+    },
+    "failedToDeleteTask": {
+        "message": "Error al eliminar la tarea"
+    },
+    "failedToInitiateTaskCreation": {
+        "message": "Error al iniciar la creación de la tarea"
+    },
+    "createTask": {
+        "message": "Crear tarea"
+    },
+    "pendingTasks": {
+        "message": "Tareas pendientes"
+    },
+    "noPendingTasks": {
+        "message": "No hay tareas pendientes."
+    },
+    "at": {
+        "message": "el"
+    },
+    "loadingTasks": {
+        "message": "Cargando tareas..."
+    },
+    "completedTasksLabel": {
+        "message": "Tareas completadas"
+    },
+    "noCompletedTasks": {
+        "message": "No hay tareas completadas."
+    },
+    "deleteTask": {
+        "message": "Eliminar tarea"
+    },
+    "deleteTaskConfirmMsg": {
+        "message": "¿Estás seguro de que deseas eliminar esta tarea? Esta acción no se puede deshacer."
+    },
+    "enterReminderValue": {
+        "message": "Por favor ingresa un valor para el recordatorio"
+    },
+    "minutesNotGreaterThan59": {
+        "message": "Los minutos no pueden ser mayores a 59"
+    },
+    "hoursNotGreaterThan24": {
+        "message": "Las horas no pueden ser mayores a 24"
+    },
+    "reminderTimeNotInPast": {
+        "message": "La hora del recordatorio no puede ser en el pasado"
+    },
+    "taskDateNotInPast": {
+        "message": "La fecha de la tarea no puede ser en el pasado"
+    },
+    "taskDescriptionPlaceholder": {
+        "message": "Descripción de la tarea..."
+    },
+    "remindMeValUnitBefore": {
+        "message": "Recordarme {{val}} {{unit}} antes"
+    },
+    "remindMe": {
+        "message": "Recordarme"
+    },
+    "call": {
+        "message": "Llamada"
+    },
+    "meeting": {
+        "message": "Reunión"
+    },
+    "to_do": {
+        "message": "Por hacer"
+    },
+    "minutes": {
+        "message": "Minutos"
+    },
+    "hours": {
+        "message": "Horas"
+    },
+    "days": {
+        "message": "Días"
+    },
+    "weeks": {
+        "message": "Semanas"
+    },
+    "failedToFetchStakeholders": {
+        "message": "Error al obtener las partes interesadas"
+    },
+    "stakeholderAdded": {
+        "message": "Parte interesada agregada"
+    },
+    "failedToAddStakeholder": {
+        "message": "Error al agregar la parte interesada"
+    },
+    "stakeholderRemoved": {
+        "message": "Parte interesada eliminada"
+    },
+    "failedToRemoveStakeholder": {
+        "message": "Error al eliminar la parte interesada"
+    },
+    "stakeholderUpdated": {
+        "message": "Parte interesada actualizada"
+    },
+    "failedToUpdateStakeholder": {
+        "message": "Error al actualizar la parte interesada"
+    },
+    "contactAlreadyAdded": {
+        "message": "Contacto ya agregado"
+    },
+    "searchContactsPlaceholder": {
+        "message": "Buscar contactos de WhatsApp..."
+    },
+    "groupLabel": {
+        "message": "Grupo"
+    },
+    "userLabel": {
+        "message": "Usuario"
+    },
+    "noContactsFound": {
+        "message": "No se encontraron contactos"
+    },
+    "stakeholdersLabel": {
+        "message": "Partes interesadas"
+    },
+    "noStakeholdersYet": {
+        "message": "Aún no se han agregado partes interesadas."
+    },
+    "primaryLabel": {
+        "message": "Principal"
+    },
+    "groupChatLabel": {
+        "message": "Chat de grupo"
+    },
+    "makePrimaryTooltip": {
+        "message": "Marcar como principal"
+    },
+    "removeContactTooltip": {
+        "message": "Eliminar contacto"
+    },
+    "roleLabel": {
+        "message": "Rol"
+    },
+    "addRolePlaceholder": {
+        "message": "Agregar rol"
+    },
+    "removeStakeholderTitle": {
+        "message": "¿Eliminar parte interesada?"
+    },
+    "removeStakeholderConfirmMsg": {
+        "message": "¿Estás seguro de que deseas eliminar a {{name}} de este cliente potencial?"
+    },
+    "remove": {
+        "message": "Quitar"
+    },
+    "standardSalesPipeline": {
+        "message": "Embudo de ventas estándar"
+    },
+    "defaultPipeline": {
+        "message": "Embudo predeterminada"
+    },
+    "newInquiry": {
+        "message": "Nueva consulta"
+    },
+    "qualified": {
+        "message": "Calificado"
+    },
+    "proposalSent": {
+        "message": "Propuesta enviada"
+    },
+    "won": {
+        "message": "Ganado"
+    },
+    "lost": {
+        "message": "Perdido"
+    },
+    "dealWonTitle": {
+        "message": "¡Venta Cerrada! 🎉"
+    },
+    "dealLostTitle": {
+        "message": "Venta Perdida"
+    },
+    "saveValueLabel": {
+        "message": "Guardar valor"
+    },
+    "markLostLabel": {
+        "message": "Marcar como perdida"
+    },
+    "finalDealValueLabel": {
+        "message": "Valor final de la negociación"
+    },
+    "updateFinalRevenueDesc": {
+        "message": "Actualiza el monto final de ingresos para esta venta."
+    },
+    "reasonForLossLabel": {
+        "message": "Motivo de la pérdida"
+    },
+    "lossReasonPlaceholder": {
+        "message": "¿Por qué se perdió esta venta? ej. Precio demasiado alto, Competencia..."
+    },
+    "hot": {
+        "message": "Caliente"
+    },
+    "warm": {
+        "message": "Tibio"
+    },
+    "cold": {
+        "message": "Frío"
+    },
+    "currencyPlaceholder": {
+        "message": "MON"
+    },
+    "searchPlaceholder": {
+        "message": "Buscar..."
+    },
+    "selectAnOption": {
+        "message": "Selecciona una opción..."
+    },
+    "noResultsFound": {
+        "message": "No se encontraron resultados"
+    },
+    "scheduledMessagesWarning": {
+        "message": "Los mensajes programados solo funcionan si WhatsApp Web está abierto."
+    },
+    "schedule": {
+        "message": "Programar"
+    },
+    "messageTimeInFuture": {
+        "message": "La hora del mensaje debe ser en el futuro para mensajes no recurrentes"
+    },
+    "fillAllFields": {
+        "message": "Por favor, complete todos los campos requeridos"
+    },
+    "uploadFailed": {
+        "message": "Carga fallida: {{error}}"
+    },
+    "minute": {
+        "message": "minuto"
+    },
+    "everyRecurrenceSimple": {
+        "message": "Cada {{recurrence}} {{unit}}"
+    },
+    "hour_label": {
+        "message": "Hora"
+    },
+    "day_label": {
+        "message": "Día"
+    },
+    "week_label": {
+        "message": "Semana"
+    },
+    "month_label": {
+        "message": "Mes"
+    },
+    "year_label": {
+        "message": "Año"
+    },
+    "hour": {
+        "message": "hora"
+    },
+    "day": {
+        "message": "día"
+    },
+    "week": {
+        "message": "semana"
+    },
+    "month": {
+        "message": "mes"
+    },
+    "months": {
+        "message": "meses"
+    },
+    "year": {
+        "message": "año"
+    },
+    "years": {
+        "message": "años"
+    },
+    "newNote": {
+        "message": "Nueva Nota"
+    },
+    "newTask": {
+        "message": "Nueva Tarea"
+    },
+    "noActivity": {
+        "message": "Sin actividad"
+    },
+    "addNote": {
+        "message": "Añadir Nota"
+    },
+    "chatOnWhatsApp": {
+        "message": "Chat en WhatsApp"
+    },
+    "startDateLabel": {
+        "message": "FECHA DE INICIO"
+    },
+    "endDateLabel": {
+        "message": "FECHA DE FIN"
+    },
+    "apply": {
+        "message": "Aplicar"
+    },
+    "taskOverdue": {
+        "message": "tarea atrasada"
+    },
+    "tasksOverdue": {
+        "message": "tareas atrasadas"
+    },
+    "upcomingTaskLabel": {
+        "message": "próxima tarea"
+    },
+    "upcomingTasksLabel": {
+        "message": "próximas tareas"
+    },
+    "noPlannedTask": {
+        "message": "Ninguna tarea planificada"
+    },
+    "empty": {
+        "message": "Vacío"
+    },
+    "none": {
+        "message": "Ninguno"
+    },
+    "true": {
+        "message": "Verdadero"
+    },
+    "false": {
+        "message": "FALSO"
+    },
+    "setTo": {
+        "message": "empezar a"
+    },
+    "changed": {
+        "message": "Cambió"
+    },
+    "from": {
+        "message": "de"
+    },
+    "to": {
+        "message": "a"
+    },
+    "task": {
+        "message": "Tarea"
+    },
+    "by": {
+        "message": "por"
+    },
+    "loadingDots": {
+        "message": "..."
+    },
+    "color": {
+        "message": "Color"
+    },
+    "edit": {
+        "message": "Editar"
+    },
+    "importExportBtn": {
+        "message": "Importar / Exportar"
+    },
+    "importExportDataTitle": {
+        "message": "Importar y exportar datos"
+    },
+    "importTab": {
+        "message": "Importar"
+    },
+    "exportTab": {
+        "message": "Exportar"
+    },
+    "importBtn": {
+        "message": "Importar"
+    },
+    "exportBtn": {
+        "message": "Exportar"
+    },
+    "newDataExport": {
+        "message": "Nueva exportación de datos"
+    },
+    "selectFieldsToExport": {
+        "message": "Seleccionar campos para exportar"
+    },
+    "selectActivityToExport": {
+        "message": "Seleccionar actividades para exportar"
+    },
+    "leadsBtn": {
+        "message": "Leads"
+    },
+    "activitiesBtn": {
+        "message": "Actividades"
+    },
+    "startDate": {
+        "message": "Fecha de inicio"
+    },
+    "endDate": {
+        "message": "Fecha de fin"
+    },
+    "exportHistory": {
+        "message": "Tareas de exportación"
+    },
+    "noExports": {
+        "message": "No hay exportaciones recientes"
+    },
+    "statusCol": {
+        "message": "Estado"
+    },
+    "typeCol": {
+        "message": "Tipo"
+    },
+    "dateCol": {
+        "message": "Fecha"
+    },
+    "actionCol": {
+        "message": "Acción"
+    },
+    "exportStarting": {
+        "message": "Iniciando..."
+    },
+    "exportProcessing": {
+        "message": "Procesando exportación..."
+    },
+    "exportCompleted": {
+        "message": "¡Exportación completada! Ya puedes descargarla."
+    },
+    "exportFailed": {
+        "message": "Error al exportar. Por favor, inténtalo de nuevo."
+    },
+    "exportStarted": {
+        "message": "¡Exportación iniciada! Procesando en segundo plano."
+    },
+    "exportDeleted": {
+        "message": "Exportación eliminada"
+    },
+    "failedToCreateExport": {
+        "message": "Error al iniciar la exportación"
+    },
+    "failedToDeleteExport": {
+        "message": "Error al eliminar la exportación"
+    },
+    "failedToFetchFields": {
+        "message": "Error al cargar los campos de exportación"
+    },
+    "failedToFetchHistory": {
+        "message": "Error al cargar el historial de exportación"
+    },
+    "failedToGetDownloadUrl": {
+        "message": "Error al obtener el enlace de descarga"
+    },
+    "comingSoonTitle": {
+        "message": "Próximamente"
+    },
+    "comingSoonDesc": {
+        "message": "La función de importación está en desarrollo y estará disponible próximamente."
+    },
+    "dragAndDropFile": {
+        "message": "Arrastra y suelta tu archivo aquí"
+    },
+    "browseFile": {
+        "message": "Buscar archivo"
+    },
+    "or": {
+        "message": "o"
+    },
+    "fieldName": {
+        "message": "Nombre"
+    },
+    "fieldPhone": {
+        "message": "Teléfono"
+    },
+    "fieldEmail": {
+        "message": "Correo electrónico"
+    },
+    "fieldCompany": {
+        "message": "Empresa"
+    },
+    "fieldPipeline": {
+        "message": "Pipeline"
+    },
+    "fieldStage": {
+        "message": "Etapa"
+    },
+    "fieldSource": {
+        "message": "Fuente"
+    },
+    "fieldValue": {
+        "message": "Valor"
+    },
+    "fieldCurrency": {
+        "message": "Moneda"
+    },
+    "fieldPriority": {
+        "message": "Prioridad"
+    },
+    "fieldCreatedAt": {
+        "message": "Creado el"
+    },
+    "fieldContactName": {
+        "message": "Nombre del contacto"
+    },
+    "fieldContactInfo": {
+        "message": "Información del contacto"
+    },
+    "activityNotes": {
+        "message": "Notas"
+    },
+    "activityTasks": {
+        "message": "Tareas"
+    },
+    "activityStageChanges": {
+        "message": "Cambios de etapa"
+    },
+    "prevPage": {
+        "message": "‹ Anterior"
+    },
+    "nextPage": {
+        "message": "Siguiente ›"
+    }
+}

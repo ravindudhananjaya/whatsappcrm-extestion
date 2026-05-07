@@ -1,0 +1,1747 @@
+{
+    "extName": {
+        "message": "WhatsApp Business CRM – The Chat Quotient",
+        "description": "The name of the extension"
+    },
+    "extShortName": {
+        "message": "The CQ",
+        "description": "The short name of the extension"
+    },
+    "extDescription": {
+        "message": "Die Nr. 1 unter den kostenlosen WhatsApp CRM- und Vertriebspipelines. Verwalten Sie Leads, planen Sie Nachrichten und verwenden Sie KI-Antworten direkt in WhatsApp Web.",
+        "description": "The description of the extension"
+    },
+    "loading": {
+        "message": "Laden..."
+    },
+    "theCqDashboard": {
+        "message": "The CQ Dashboard"
+    },
+    "language": {
+        "message": "Sprache"
+    },
+    "currency": {
+        "message": "Währung"
+    },
+    "timeframe": {
+        "message": "Zeitrahmen"
+    },
+    "last7Days": {
+        "message": "Letzte 7 Tage"
+    },
+    "last14Days": {
+        "message": "Letzte 14 Tage"
+    },
+    "thisMonth": {
+        "message": "Diesen Monat"
+    },
+    "last3Months": {
+        "message": "Letzte 3 Monate"
+    },
+    "customRange": {
+        "message": "Benutzerdefinierter Bereich"
+    },
+    "overviewTab": {
+        "message": "Übersicht"
+    },
+    "taskCreatedSuccessfully": {
+        "message": "Aufgabe erfolgreich erstellt"
+    },
+    "failedToCreateTask": {
+        "message": "Aufgabe konnte nicht erstellt werden"
+    },
+    "noteCreatedSuccessfully": {
+        "message": "Notiz erfolgreich erstellt"
+    },
+    "failedToCreateNote": {
+        "message": "Notiz konnte nicht erstellt werden"
+    },
+    "taskMarkedCompleted": {
+        "message": "Aufgabe als erledigt markiert"
+    },
+    "taskMarkedPending": {
+        "message": "Aufgabe als ausstehend markiert"
+    },
+    "failedToUpdateTask": {
+        "message": "Die Aufgabe konnte nicht aktualisiert werden"
+    },
+    "analyticsErrorHeading": {
+        "message": "Im Analytics-Dashboard ist ein Fehler aufgetreten."
+    },
+    "tryAgain": {
+        "message": "Versuchen Sie es erneut"
+    },
+    "failedToUpdateLead": {
+        "message": "Lead konnte nicht aktualisiert werden"
+    },
+    "leadMovedSuccessfully": {
+        "message": "Der Lead wurde erfolgreich verschoben"
+    },
+    "loadingLeads": {
+        "message": "Leads werden geladen..."
+    },
+    "noStagesDefined": {
+        "message": "Für diese Pipeline sind keine Phasen definiert."
+    },
+    "unnamedLead": {
+        "message": "Unbenannter Lead"
+    },
+    "slippingAwayTooltip": {
+        "message": "Wegrutschen: Keine Aktivität für mehr als 7 Tage"
+    },
+    "taskDueTooltip": {
+        "message": "Aufgabe fällig: Aktion erforderlich"
+    },
+    "loadMore": {
+        "message": "Mehr laden"
+    },
+    "unknownSource": {
+        "message": "Unbekannt"
+    },
+    "leadSourceBreakdown": {
+        "message": "Aufschlüsselung der Lead-Quelle"
+    },
+    "noDataAvailable": {
+        "message": "Keine Daten verfügbar"
+    },
+    "forecastValue": {
+        "message": "Prognosewert"
+    },
+    "weightedPipeline": {
+        "message": "Gewichtete Pipeline"
+    },
+    "conversionRate": {
+        "message": "Conversion-Rate"
+    },
+    "periodAverage": {
+        "message": "Periodendurchschnitt"
+    },
+    "newLeads": {
+        "message": "Neue Leads"
+    },
+    "inSelectedRange": {
+        "message": "Im ausgewählten Bereich"
+    },
+    "tasksDueToday": {
+        "message": "Heute fällige Aufgaben"
+    },
+    "actionRequired": {
+        "message": "Aktion erforderlich"
+    },
+    "slippingAway": {
+        "message": "Wegrutschen"
+    },
+    "inactiveDays": {
+        "message": "Inaktiv > 7 Tage"
+    },
+    "noSlippingLeads": {
+        "message": "Keine verrutschenden Leitungen. Gute Arbeit!"
+    },
+    "unknownCustomer": {
+        "message": "Unbekannt"
+    },
+    "untitledLead": {
+        "message": "Ohne Titel"
+    },
+    "nudge": {
+        "message": "Anstupsen"
+    },
+    "daysOld": {
+        "message": "$count$ Tage alt",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "customer": {
+        "message": "Kunde"
+    },
+    "untitledTask": {
+        "message": "Unbenannte Aufgabe"
+    },
+    "invalidDate": {
+        "message": "Ungültiges Datum"
+    },
+    "today": {
+        "message": "Heute"
+    },
+    "overdueTasks": {
+        "message": "Überfällige Aufgaben"
+    },
+    "noOverdueTasks": {
+        "message": "Keine überfälligen Aufgaben."
+    },
+    "upcomingTasks": {
+        "message": "Anstehende Aufgaben"
+    },
+    "noUpcomingTasks": {
+        "message": "Keine anstehenden Aufgaben"
+    },
+    "unknownStage": {
+        "message": "Unbekannt"
+    },
+    "pipelineFunnel": {
+        "message": "Pipeline-Trichter"
+    },
+    "aboutTheCQ": {
+        "message": "Über The Chat Quotient"
+    },
+    "theCQ": {
+        "message": "The CQ"
+    },
+    "settings": {
+        "message": "Einstellungen"
+    },
+    "chatWithUs": {
+        "message": "Chatten Sie mit uns"
+    },
+    "theCQSupport": {
+        "message": "TheCQ-Unterstützung"
+    },
+    "theCQUpdates": {
+        "message": "TheCQ-Updates"
+    },
+    "openDashboard": {
+        "message": "Öffnen Sie das Dashboard"
+    },
+    "dashboard": {
+        "message": "Armaturenbrett"
+    },
+    "leads": {
+        "message": "Führt"
+    },
+    "createLead": {
+        "message": "Lead erstellen"
+    },
+    "lead": {
+        "message": "Führen"
+    },
+    "quickReplies": {
+        "message": "Schnelle Antworten"
+    },
+    "chatSummary": {
+        "message": "Chat-Zusammenfassung"
+    },
+    "summarizeThisChat": {
+        "message": "Fassen Sie diesen Chat zusammen"
+    },
+    "scheduleMessages": {
+        "message": "Planen Sie Nachrichten"
+    },
+    "scheduledMessages": {
+        "message": "Geplante Nachrichten"
+    },
+    "needSupport": {
+        "message": "Brauchen Sie Unterstützung?"
+    },
+    "supportMessage": {
+        "message": "Ihre Nachricht wird über WhatsApp an den Ersteller von The Chat Quotient gesendet. Da wir ein kleines Team sind, erhalten Sie zwar möglicherweise nicht sofort Antworten, Sie erhalten jedoch während unserer Geschäftszeiten (IST) eine Rückmeldung. Vielen Dank für Ihre Geduld!"
+    },
+    "sendMessage": {
+        "message": "Nachricht senden"
+    },
+    "cancel": {
+        "message": "Abbrechen"
+    },
+    "notes": {
+        "message": "Notizen"
+    },
+    "chatNotes": {
+        "message": "Chat-Notizen"
+    },
+    "reminders": {
+        "message": "Erinnerungen"
+    },
+    "contactInfo": {
+        "message": "Kontaktinformationen"
+    },
+    "more": {
+        "message": "Mehr"
+    },
+    "profileDetails": {
+        "message": "Profildetails"
+    },
+    "pipelineSettings": {
+        "message": "Pipeline-Einstellungen"
+    },
+    "update": {
+        "message": "Aktualisieren"
+    },
+    "submit": {
+        "message": "Senden"
+    },
+    "pleaseEnterName": {
+        "message": "Bitte geben Sie Ihren Namen ein."
+    },
+    "personalizeAiAssistant": {
+        "message": "Personalisieren Sie Ihren KI-Assistenten"
+    },
+    "nameRequired": {
+        "message": "Name (erforderlich)"
+    },
+    "enterYourName": {
+        "message": "Geben Sie Ihren Namen ein"
+    },
+    "mobileNumber": {
+        "message": "Handynummer"
+    },
+    "numberLowercase": {
+        "message": "Nummer"
+    },
+    "industry": {
+        "message": "Industrie"
+    },
+    "selectIndustry": {
+        "message": "Wählen Sie Ihre Branche aus"
+    },
+    "profession": {
+        "message": "Beruf"
+    },
+    "selectProfessions": {
+        "message": "Wählen Sie Ihre Berufe aus"
+    },
+    "customInstructionLabel": {
+        "message": "Weisen Sie die KI an, sich wie Sie zu verhalten (optional, empfohlen)"
+    },
+    "customInstructionPlaceholder": {
+        "message": "Seien Sie prägnant und strukturiert. Angenommen, ich kenne die Grundlagen; Vermeiden Sie unnötige Erklärungen. Beginnen Sie mit der Empfehlung, dann mit einer kurzen Begründung ..."
+    },
+    "aiToneOptional": {
+        "message": "AI-Ton (optional)"
+    },
+    "later": {
+        "message": "Später"
+    },
+    "industry_ecommerce": {
+        "message": "E-Commerce"
+    },
+    "industry_retail": {
+        "message": "Einzelhandel"
+    },
+    "industry_fashion": {
+        "message": "Mode"
+    },
+    "industry_health_wellness": {
+        "message": "Gesundheit und Wohlbefinden"
+    },
+    "industry_education": {
+        "message": "Bildung"
+    },
+    "industry_travel_tourism": {
+        "message": "Reisen & Tourismus"
+    },
+    "industry_real_estate": {
+        "message": "Immobilien"
+    },
+    "industry_automotive": {
+        "message": "Automobil"
+    },
+    "industry_finance": {
+        "message": "Finanzen"
+    },
+    "industry_insurance": {
+        "message": "Versicherung"
+    },
+    "industry_financial_services": {
+        "message": "Finanzdienstleistungen"
+    },
+    "industry_publishing": {
+        "message": "Veröffentlichung"
+    },
+    "industry_astrology": {
+        "message": "Astrologie"
+    },
+    "industry_legal_consulting": {
+        "message": "Rechts- und Beratungsdienstleistungen"
+    },
+    "industry_beauty_personal_care": {
+        "message": "Schönheit und Körperpflege"
+    },
+    "industry_technology_saas": {
+        "message": "Technologie & SaaS"
+    },
+    "industry_marketing_advertising": {
+        "message": "Marketing & Werbung"
+    },
+    "industry_home_services": {
+        "message": "Heimdienstleistungen"
+    },
+    "industry_nonprofit_social_impact": {
+        "message": "Gemeinnützige und soziale Auswirkungen"
+    },
+    "industry_event_planning_hospitality": {
+        "message": "Veranstaltungsplanung und Bewirtung"
+    },
+    "industry_media_content_creation": {
+        "message": "Medien- und Inhaltserstellung"
+    },
+    "industry_other": {
+        "message": "Andere"
+    },
+    "profession_freelancer_creator": {
+        "message": "Freiberufler / Schöpfer"
+    },
+    "profession_consultant": {
+        "message": "Berater"
+    },
+    "profession_content_creator_writer": {
+        "message": "Content-Ersteller/Autor"
+    },
+    "profession_educator_tutor": {
+        "message": "Pädagoge / Tutor"
+    },
+    "profession_therapist_counselor": {
+        "message": "Therapeut/Berater"
+    },
+    "profession_nutritionist_dietician": {
+        "message": "Ernährungsberaterin / Diätassistentin"
+    },
+    "profession_fitness_trainer": {
+        "message": "Fitnesstrainer"
+    },
+    "profession_astrologer": {
+        "message": "Astrologe"
+    },
+    "profession_social_media_manager": {
+        "message": "Social-Media-Manager"
+    },
+    "profession_marketing_specialist_strategist": {
+        "message": "Marketingspezialist / Stratege"
+    },
+    "profession_ecommerce_seller_store_owner": {
+        "message": "E-Commerce-Verkäufer/Shop-Inhaber"
+    },
+    "profession_retailer_shop_owner": {
+        "message": "Einzelhändler / Ladenbesitzer"
+    },
+    "profession_real_estate_agent": {
+        "message": "Immobilienmakler"
+    },
+    "profession_travel_agent": {
+        "message": "Reisebüro"
+    },
+    "profession_insurance_agent_broker": {
+        "message": "Versicherungsagent/Makler"
+    },
+    "profession_financial_advisor_planner": {
+        "message": "Finanzberater/Planer"
+    },
+    "profession_lawyer_legal_advisor": {
+        "message": "Rechtsanwalt / Rechtsberater"
+    },
+    "profession_beauty_professional_esthetician": {
+        "message": "Schönheitsprofi / Kosmetikerin"
+    },
+    "profession_healthcare_provider_practitioner": {
+        "message": "Gesundheitsdienstleister / Arzt"
+    },
+    "profession_event_planner_coordinator": {
+        "message": "Veranstaltungsplaner/-koordinator"
+    },
+    "profession_customer_service_representative": {
+        "message": "Kundendienstmitarbeiter"
+    },
+    "profession_publisher_editor": {
+        "message": "Herausgeber / Herausgeber"
+    },
+    "profession_fashion_designer_stylist": {
+        "message": "Modedesigner/Stylist"
+    },
+    "profession_automotive_dealer_consultant": {
+        "message": "Automobilhändler/Berater"
+    },
+    "profession_sales_representative": {
+        "message": "Vertriebsmitarbeiter"
+    },
+    "profession_software_developer_engineer": {
+        "message": "Softwareentwickler / Ingenieur"
+    },
+    "profession_saas_founder_product_manager": {
+        "message": "SaaS-Gründer / Produktmanager"
+    },
+    "profession_nonprofit_leader_advocate": {
+        "message": "Leiter/Anwalt einer gemeinnützigen Organisation"
+    },
+    "rephrase": {
+        "message": "Umformulieren"
+    },
+    "clickToInsertThisMessage": {
+        "message": "Klicken Sie, um diese Nachricht einzufügen"
+    },
+    "regenerateAiResponse": {
+        "message": "KI-Reaktion neu generieren"
+    },
+    "discardIt": {
+        "message": "Entsorgen Sie es"
+    },
+    "rephrasecaps": {
+        "message": "Umformulieren"
+    },
+    "send": {
+        "message": "Senden"
+    },
+    "aiReply": {
+        "message": "AI-Antwort"
+    },
+    "generate": {
+        "message": "Generieren"
+    },
+    "actionMessage": {
+        "message": "{{action}} Nachricht"
+    },
+    "tone": {
+        "message": "Ton"
+    },
+    "changeMessageLength": {
+        "message": "Nachrichtenlänge ändern"
+    },
+    "customInstruction": {
+        "message": "Individuelle Anleitung"
+    },
+    "enterYourInstruction": {
+        "message": "Geben Sie Ihre Anweisung ein"
+    },
+    "length_shorter": {
+        "message": "Kürzer"
+    },
+    "length_longer": {
+        "message": "Länger"
+    },
+    "tone_professional": {
+        "message": "Professionell"
+    },
+    "tone_straightforward": {
+        "message": "Unkompliziert"
+    },
+    "tone_confident": {
+        "message": "Zuversichtlich"
+    },
+    "tone_respectful": {
+        "message": "Respektvoll"
+    },
+    "tone_friendly": {
+        "message": "Freundlich"
+    },
+    "tone_casual_informal": {
+        "message": "Lässig / informell"
+    },
+    "tone_warm_welcoming": {
+        "message": "Herzlich und einladend"
+    },
+    "tone_supportive": {
+        "message": "Unterstützend"
+    },
+    "tone_empathetic": {
+        "message": "Einfühlsam"
+    },
+    "tone_encouraging": {
+        "message": "Ermutigend"
+    },
+    "tone_patient_reassuring": {
+        "message": "Geduldig und beruhigend"
+    },
+    "tone_persuasive": {
+        "message": "Überzeugend"
+    },
+    "tone_instructive_teacher_like": {
+        "message": "Lehrreich/Lehrerähnlich"
+    },
+    "tone_insightful": {
+        "message": "Aufschlussreich"
+    },
+    "tone_witty_clever": {
+        "message": "Witzig und clever"
+    },
+    "tone_inspiring": {
+        "message": "Inspirierend"
+    },
+    "tone_minimal_crisp": {
+        "message": "Minimal und knackig"
+    },
+    "tone_luxury_premium_feel": {
+        "message": "Luxus-/Premium-Gefühl"
+    },
+    "newPipeline": {
+        "message": "Neue Pipeline"
+    },
+    "pipelineName": {
+        "message": "Pipelinename"
+    },
+    "pipelineNamePlaceholder": {
+        "message": "z.B. B2B-Verkäufe"
+    },
+    "create": {
+        "message": "Erstellen"
+    },
+    "failedToCreatePipeline": {
+        "message": "Pipeline konnte nicht erstellt werden:"
+    },
+    "failedToCreateStage": {
+        "message": "Stufe konnte nicht erstellt werden:"
+    },
+    "failedToDeletePipeline": {
+        "message": "Pipeline konnte nicht gelöscht werden:"
+    },
+    "atLeastOnePipelineRequired": {
+        "message": "Sie müssen mindestens eine Pipeline haben."
+    },
+    "cannotDeleteDefaultPipeline": {
+        "message": "Die Standardpipeline kann nicht gelöscht werden. Bitte legen Sie zunächst eine andere Pipeline als Standard fest."
+    },
+    "deletePipeline": {
+        "message": "Pipeline löschen"
+    },
+    "deletePipelineConfirm": {
+        "message": "Sind Sie sicher, dass Sie diese Pipeline löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden."
+    },
+    "setDefault": {
+        "message": "Standard festlegen"
+    },
+    "setAsDefault": {
+        "message": "Als Standard festlegen"
+    },
+    "savingViaApiNotImplemented": {
+        "message": "Das Speichern von Änderungen per API ist noch nicht implementiert. Änderungen bleiben nach dem erneuten Laden nicht bestehen."
+    },
+    "confirm": {
+        "message": "Bestätigen"
+    },
+    "default": {
+        "message": "Standard"
+    },
+    "delete": {
+        "message": "Löschen"
+    },
+    "won100": {
+        "message": "Gewonnen (100 %)"
+    },
+    "lost0": {
+        "message": "Verloren (0 %)"
+    },
+    "won100Label": {
+        "message": "Gewonnen (100)"
+    },
+    "lost0Label": {
+        "message": "Verloren (0)"
+    },
+    "atLeastOneOpenStage": {
+        "message": "Mindestens eine offene Bühne ist erforderlich."
+    },
+    "atLeastOneWonStage": {
+        "message": "Mindestens eine Won-Stufe ist erforderlich."
+    },
+    "atLeastOneLostStage": {
+        "message": "Mindestens eine verlorene Stufe ist erforderlich."
+    },
+    "stageNamesMustBeUnique": {
+        "message": "Bühnennamen müssen eindeutig sein."
+    },
+    "cannotDeleteStageType": {
+        "message": "Kann nicht gelöscht werden: Sie müssen mindestens eine {{type}}-Stufe haben."
+    },
+    "stagesCount": {
+        "message": "Stufen ({{count}})"
+    },
+    "invalidConfiguration": {
+        "message": "Ungültige Konfiguration"
+    },
+    "color": {
+        "message": "Farbe"
+    },
+    "stageName": {
+        "message": "Künstlername"
+    },
+    "pickAColor": {
+        "message": "Wählen Sie eine Farbe"
+    },
+    "deleteStage": {
+        "message": "Stufe löschen"
+    },
+    "deleteStageConfirmMsg": {
+        "message": "Sind Sie sicher, dass Sie diese Phase löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden."
+    },
+    "newStageWithNumber": {
+        "message": "Neue Phase {{number}}"
+    },
+    "addStage": {
+        "message": "Bühne hinzufügen"
+    },
+    "leadTitlePlaceholder": {
+        "message": "Haupttitel"
+    },
+    "backToLeads": {
+        "message": "Zurück zu Leads"
+    },
+    "createLeadHeader": {
+        "message": "Lead erstellen"
+    },
+    "leadsHeader": {
+        "message": "Führt"
+    },
+    "createNew": {
+        "message": "Neu erstellen"
+    },
+    "leadCreatedSuccessfully": {
+        "message": "Lead erfolgreich erstellt"
+    },
+    "failedToCreateLead": {
+        "message": "Lead konnte nicht erstellt werden"
+    },
+    "leadDeletedSuccessfully": {
+        "message": "Lead erfolgreich gelöscht"
+    },
+    "failedToDeleteLead": {
+        "message": "Lead konnte nicht gelöscht werden"
+    },
+    "leadUpdatedSuccessfully": {
+        "message": "Lead erfolgreich aktualisiert"
+    },
+    "createNewLead": {
+        "message": "Neuen Lead erstellen"
+    },
+    "analyzingChat": {
+        "message": "Chat wird analysiert, um Details vorzuschlagen..."
+    },
+    "loadingPipelines": {
+        "message": "Pipelines werden geladen..."
+    },
+    "selectPipeline": {
+        "message": "Wählen Sie Pipeline aus"
+    },
+    "stage": {
+        "message": "Bühne"
+    },
+    "selectStage": {
+        "message": "Wählen Sie Bühne aus"
+    },
+    "leadTitle": {
+        "message": "Haupttitel"
+    },
+    "enterLeadTitle": {
+        "message": "Geben Sie den Titel des Leads ein"
+    },
+    "priority": {
+        "message": "Priorität"
+    },
+    "selectPriority": {
+        "message": "Wählen Sie Priorität"
+    },
+    "expectedClosingDate": {
+        "message": "Voraussichtlicher Abschlusstermin"
+    },
+    "expectedValue": {
+        "message": "Erwarteter Wert"
+    },
+    "leadSource": {
+        "message": "Lead-Quelle"
+    },
+    "leadSourcePlaceholder": {
+        "message": "z.B. Website, Empfehlung"
+    },
+    "creating": {
+        "message": "Erstellen..."
+    },
+    "loadingNotes": {
+        "message": "Notizen werden geladen..."
+    },
+    "pleaseWaitNotes": {
+        "message": "Bitte warten Sie, während wir Ihre Notizen laden."
+    },
+    "editNote": {
+        "message": "Notiz bearbeiten"
+    },
+    "deleteNote": {
+        "message": "Notiz löschen"
+    },
+    "deleteNoteConfirm": {
+        "message": "Sind Sie sicher, dass Sie diese Notiz löschen möchten?"
+    },
+    "noNotesYet": {
+        "message": "Noch keine Notizen"
+    },
+    "startAddingNotes": {
+        "message": "Beginnen Sie mit dem Hinzufügen von Notizen, um den Überblick über wichtige Informationen aus diesem Chat zu behalten."
+    },
+    "loadMoreNotes": {
+        "message": "Weitere Notizen laden"
+    },
+    "addANote": {
+        "message": "Eine Notiz hinzufügen..."
+    },
+    "add": {
+        "message": "Hinzufügen"
+    },
+    "selectChatForNotes": {
+        "message": "Bitte wählen Sie einen Chat aus, um die Notizen anzuzeigen."
+    },
+    "summaryIsOutdated": {
+        "message": "Zusammenfassung ist veraltet"
+    },
+    "lastUpdated": {
+        "message": "Zuletzt aktualisiert"
+    },
+    "regenerateSummary": {
+        "message": "Zusammenfassung neu generieren"
+    },
+    "refreshSummary": {
+        "message": "Zusammenfassung aktualisieren"
+    },
+    "copied": {
+        "message": "Kopiert!"
+    },
+    "failedToCopy": {
+        "message": "Kopieren fehlgeschlagen"
+    },
+    "copySummary": {
+        "message": "Zusammenfassung kopieren"
+    },
+    "generatingSummary": {
+        "message": "Zusammenfassung wird erstellt, bitte warten..."
+    },
+    "wasThisHelpful": {
+        "message": "War das hilfreich?"
+    },
+    "youLikedSummary": {
+        "message": "Diese Zusammenfassung hat Ihnen gefallen (zum Ändern klicken)"
+    },
+    "likeSummary": {
+        "message": "Gefällt mir diese Zusammenfassung"
+    },
+    "youDislikedSummary": {
+        "message": "Diese Zusammenfassung hat Ihnen nicht gefallen (zum Ändern klicken)"
+    },
+    "dislikeSummary": {
+        "message": "Diese Zusammenfassung gefällt mir nicht"
+    },
+    "noSummaryYet": {
+        "message": "Noch keine Zusammenfassung"
+    },
+    "generateSummaryDesc": {
+        "message": "Generieren Sie eine KI-gestützte Zusammenfassung dieser Chat-Konversation."
+    },
+    "selectChatToGenerateSummary": {
+        "message": "Bitte wählen Sie einen Chat aus, um eine Zusammenfassung zu erstellen."
+    },
+    "editTodo": {
+        "message": "Todo bearbeiten"
+    },
+    "deleteTodo": {
+        "message": "Todo löschen"
+    },
+    "deleteTodoConfirm": {
+        "message": "Sind Sie sicher, dass Sie diese Aufgabe löschen möchten?"
+    },
+    "noTodosYet": {
+        "message": "Noch keine Aufgaben"
+    },
+    "startAddingTodos": {
+        "message": "Beginnen Sie mit dem Hinzufügen von Aufgaben, um den Überblick über die Aufgaben für diesen Chat zu behalten."
+    },
+    "noSectionTodos": {
+        "message": "Keine {{title}} Aufgaben"
+    },
+    "loadMoreSection": {
+        "message": "Mehr laden {{title}}"
+    },
+    "loadingTodos": {
+        "message": "Aufgaben werden geladen..."
+    },
+    "pleaseWaitTodos": {
+        "message": "Bitte warten Sie, während wir Ihre Aufgaben laden."
+    },
+    "pendingTitle": {
+        "message": "Ausstehend"
+    },
+    "doneTitle": {
+        "message": "Fertig"
+    },
+    "addATodo": {
+        "message": "Eine Aufgabe hinzufügen..."
+    },
+    "selectChatForTodos": {
+        "message": "Bitte wählen Sie einen Chat aus, um die Aufgaben anzuzeigen."
+    },
+    "savedSuccessfully": {
+        "message": "Erfolgreich gespeichert."
+    },
+    "failedToSaveCompany": {
+        "message": "Das Unternehmen konnte nicht gerettet werden"
+    },
+    "companySavedSuccessfully": {
+        "message": "Firma erfolgreich gespeichert."
+    },
+    "firstNameMandatory": {
+        "message": "Der Vorname ist Pflicht"
+    },
+    "deleteContactConfirm": {
+        "message": "Sind Sie sicher, dass Sie diesen Kontakt löschen möchten?"
+    },
+    "deletedSuccessfully": {
+        "message": "Erfolgreich gelöscht."
+    },
+    "contactPermissionAlert": {
+        "message": "Diese Funktion funktioniert, wenn die Kontaktberechtigung auf dem Telefon aktiviert ist."
+    },
+    "unknownContact": {
+        "message": "Unbekannter Kontakt"
+    },
+    "addQuickReply": {
+        "message": "Schnellantwort hinzufügen"
+    },
+    "selectChatQuickRepliesDesc": {
+        "message": "Bitte wählen Sie einen Chat aus, um auf Schnellantworten zuzugreifen."
+    },
+    "deleteReminderConfirm": {
+        "message": "Sind Sie sicher, dass Sie diese Erinnerung löschen möchten?"
+    },
+    "editReminder": {
+        "message": "Erinnerung bearbeiten"
+    },
+    "deleteReminder": {
+        "message": "Erinnerung löschen"
+    },
+    "noRemindersYet": {
+        "message": "Noch keine Erinnerungen"
+    },
+    "startAddingReminders": {
+        "message": "Fügen Sie Erinnerungen hinzu, um keine wichtigen Aufgaben oder Ereignisse zu verpassen."
+    },
+    "noSectionReminders": {
+        "message": "Keine {{title}} Erinnerungen"
+    },
+    "oneTime": {
+        "message": "Einmalig"
+    },
+    "everyRecurrence": {
+        "message": "Alle {{recurrence}} {{recurrenceType}}{{pluralSuffix}}"
+    },
+    "snoozed": {
+        "message": "Geschlummert"
+    },
+    "remindersWorkWarning": {
+        "message": "Erinnerungen funktionieren nur, wenn WhatsApp Web geöffnet ist."
+    },
+    "createNewReminder": {
+        "message": "Neue Erinnerung erstellen"
+    },
+    "reminderTitle": {
+        "message": "Erinnerungstitel..."
+    },
+    "descriptionOptional": {
+        "message": "Beschreibung (optional)..."
+    },
+    "repeatAfter": {
+        "message": "Danach wiederholen"
+    },
+    "selectFrequency": {
+        "message": "Frequenz auswählen"
+    },
+    "loadingReminders": {
+        "message": "Erinnerungen werden geladen..."
+    },
+    "pleaseWaitReminders": {
+        "message": "Bitte warten Sie, während wir Ihre Erinnerungen laden."
+    },
+    "processedTitle": {
+        "message": "Verarbeitet"
+    },
+    "addReminder": {
+        "message": "Erinnerung hinzufügen"
+    },
+    "selectChatForReminders": {
+        "message": "Bitte wählen Sie einen Chat aus, um Erinnerungen zu erstellen und zu verwalten."
+    },
+    "deleteScheduledMessageConfirm": {
+        "message": "Sind Sie sicher, dass Sie diese geplante Nachricht löschen möchten?"
+    },
+    "reason": {
+        "message": "Grund"
+    },
+    "sent": {
+        "message": "Gesendet"
+    },
+    "failed": {
+        "message": "Fehlgeschlagen"
+    },
+    "editMessage": {
+        "message": "Nachricht bearbeiten"
+    },
+    "deleteMessage": {
+        "message": "Nachricht löschen"
+    },
+    "noScheduledMessagesYet": {
+        "message": "Noch keine geplanten Nachrichten"
+    },
+    "scheduleMessagesDesc": {
+        "message": "Planen Sie den automatischen Versand von Nachrichten zum richtigen Zeitpunkt."
+    },
+    "noSectionMessages": {
+        "message": "Keine {{title}} Nachrichten"
+    },
+    "editScheduledMessage": {
+        "message": "Geplante Nachricht bearbeiten"
+    },
+    "scheduleNewMessage": {
+        "message": "Planen Sie eine neue Nachricht"
+    },
+    "typeYourMessage": {
+        "message": "Geben Sie hier Ihre Nachricht ein..."
+    },
+    "repeatEvery": {
+        "message": "Wiederholen Sie alle"
+    },
+    "loadingScheduledMessages": {
+        "message": "Geplante Nachrichten werden geladen..."
+    },
+    "pleaseWaitScheduledMessages": {
+        "message": "Bitte warten Sie, während wir Ihre geplanten Nachrichten laden."
+    },
+    "historyTitle": {
+        "message": "Geschichte"
+    },
+    "scheduleMessage": {
+        "message": "Plannachricht"
+    },
+    "selectChat": {
+        "message": "Wählen Sie Chat aus"
+    },
+    "selectPersonalChat": {
+        "message": "Wählen Sie einen persönlichen Chat aus"
+    },
+    "selectChatToSchedule": {
+        "message": "Bitte wählen Sie einen Chat aus, um Nachrichten zu planen und zu verwalten."
+    },
+    "selectChatToManageLeads": {
+        "message": "Wählen Sie einen 1:1-Chat aus, um Leads zu verwalten"
+    },
+    "selectChatToManageLeadsDesc": {
+        "message": "Leads können nur aus einem 1:1-Chat erstellt werden. Gruppenchats können mit einem Lead verbunden werden, erlauben aber keine Lead-Erstellung."
+    },
+    "createLeadBtn": {
+        "message": "Lead erstellen"
+    },
+    "checkingContactDetails": {
+        "message": "Kontaktdaten werden überprüft..."
+    },
+    "contactDetails": {
+        "message": "Kontaktdaten"
+    },
+    "firstName": {
+        "message": "Vorname"
+    },
+    "lastName": {
+        "message": "Nachname"
+    },
+    "phone": {
+        "message": "Telefon"
+    },
+    "email": {
+        "message": "E-Mail"
+    },
+    "company": {
+        "message": "Unternehmen"
+    },
+    "designation": {
+        "message": "Bezeichnung"
+    },
+    "jobTitle": {
+        "message": "Berufsbezeichnung"
+    },
+    "saving": {
+        "message": "Sparen..."
+    },
+    "saveDetails": {
+        "message": "Details speichern"
+    },
+    "noName": {
+        "message": "Kein Name"
+    },
+    "editContact": {
+        "message": "Kontakt bearbeiten"
+    },
+    "phoneNumber": {
+        "message": "Telefonnummer"
+    },
+    "typeToSearchCompanies": {
+        "message": "Geben Sie ein, um nach Unternehmen zu suchen..."
+    },
+    "loadingCompanies": {
+        "message": "Firmen werden geladen..."
+    },
+    "loadMoreCompanies": {
+        "message": "Weitere Unternehmen laden"
+    },
+    "createCompanySearchQuery": {
+        "message": "Firma „{{searchQuery}}“ erstellen"
+    },
+    "noCompaniesAvailable": {
+        "message": "Keine Firmen vorhanden"
+    },
+    "editCompany": {
+        "message": "Firma bearbeiten"
+    },
+    "removeCompany": {
+        "message": "Unternehmen entfernen"
+    },
+    "updateCompany": {
+        "message": "Unternehmen aktualisieren"
+    },
+    "createCompany": {
+        "message": "Unternehmen erstellen"
+    },
+    "domain": {
+        "message": "Domäne"
+    },
+    "address": {
+        "message": "Adresse"
+    },
+    "deleteLead": {
+        "message": "Lead löschen"
+    },
+    "deleteLeadConfirm": {
+        "message": "Sind Sie sicher, dass Sie diesen Lead löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden."
+    },
+    "noQuickRepliesYet": {
+        "message": "Noch keine schnellen Antworten"
+    },
+    "createQuickRepliesDesc": {
+        "message": "Erstellen Sie Schnellantworten, um beim Versenden häufiger Nachrichten Zeit zu sparen."
+    },
+    "noQuickRepliesFound": {
+        "message": "Keine schnellen Antworten gefunden."
+    },
+    "dragToReorder": {
+        "message": "Zum Neuanordnen ziehen"
+    },
+    "editBeforeSend": {
+        "message": "Vor dem Senden bearbeiten"
+    },
+    "editReply": {
+        "message": "Antwort bearbeiten"
+    },
+    "deleteReply": {
+        "message": "Antwort löschen"
+    },
+    "deleteQuickReplyConfirm": {
+        "message": "Sind Sie sicher, dass Sie diese schnelle Antwort löschen möchten?"
+    },
+    "messageRequired": {
+        "message": "Nachricht ist erforderlich"
+    },
+    "editQuickReply": {
+        "message": "Schnellantwort bearbeiten"
+    },
+    "createQuickReply": {
+        "message": "Erstellen Sie eine Schnellantwort"
+    },
+    "welcomePlaceholder": {
+        "message": "Willkommen"
+    },
+    "howAreYouPlaceholder": {
+        "message": "Hallo, wie geht es dir?"
+    },
+    "save": {
+        "message": "Speichern"
+    },
+    "message": {
+        "message": "Nachricht"
+    },
+    "activityTab": {
+        "message": "Aktivität"
+    },
+    "detailsTab": {
+        "message": "Einzelheiten"
+    },
+    "tasksTab": {
+        "message": "Aufgaben"
+    },
+    "peopleTab": {
+        "message": "Menschen"
+    },
+    "value": {
+        "message": "Wert"
+    },
+    "closeDate": {
+        "message": "Schlusstermin"
+    },
+    "setDate": {
+        "message": "Datum einstellen"
+    },
+    "source": {
+        "message": "Quelle"
+    },
+    "sourceRequired": {
+        "message": "Quellwert ist erforderlich"
+    },
+    "addSource": {
+        "message": "Quelle hinzufügen..."
+    },
+    "probability": {
+        "message": "Wahrscheinlichkeit"
+    },
+    "deleteLeadConfirmMsg": {
+        "message": "Sind Sie sicher, dass Sie diesen Lead löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden."
+    },
+    "writeQuickNote": {
+        "message": "Schreiben Sie eine kurze Notiz..."
+    },
+    "noActivityYet": {
+        "message": "Noch keine Aktivität."
+    },
+    "saveNote": {
+        "message": "Notiz speichern"
+    },
+    "failedToFetchTasks": {
+        "message": "Aufgaben konnten nicht abgerufen werden"
+    },
+    "failedToFetchCompletedTasks": {
+        "message": "Abgeschlossene Aufgaben konnten nicht abgerufen werden"
+    },
+    "taskMarkedAsCompleted": {
+        "message": "Aufgabe als erledigt markiert"
+    },
+    "taskMarkedAsPending": {
+        "message": "Aufgabe als ausstehend markiert"
+    },
+    "taskUpdatedSuccess": {
+        "message": "Aufgabe erfolgreich aktualisiert"
+    },
+    "taskDeletedSuccess": {
+        "message": "Aufgabe erfolgreich gelöscht"
+    },
+    "failedToDeleteTask": {
+        "message": "Aufgabe konnte nicht gelöscht werden"
+    },
+    "failedToInitiateTaskCreation": {
+        "message": "Die Aufgabenerstellung konnte nicht gestartet werden"
+    },
+    "createTask": {
+        "message": "Aufgabe erstellen"
+    },
+    "pendingTasks": {
+        "message": "Ausstehende Aufgaben"
+    },
+    "noPendingTasks": {
+        "message": "Keine ausstehenden Aufgaben."
+    },
+    "at": {
+        "message": "bei"
+    },
+    "loadingTasks": {
+        "message": "Aufgaben werden geladen..."
+    },
+    "completedTasksLabel": {
+        "message": "Abgeschlossene Aufgaben"
+    },
+    "noCompletedTasks": {
+        "message": "Keine erledigten Aufgaben."
+    },
+    "deleteTask": {
+        "message": "Aufgabe löschen"
+    },
+    "deleteTaskConfirmMsg": {
+        "message": "Sind Sie sicher, dass Sie diese Aufgabe löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden."
+    },
+    "enterReminderValue": {
+        "message": "Bitte geben Sie einen Wert für die Erinnerung ein"
+    },
+    "minutesNotGreaterThan59": {
+        "message": "Minuten dürfen nicht länger als 59 sein"
+    },
+    "hoursNotGreaterThan24": {
+        "message": "Die Stundenzahl darf nicht größer als 24 sein"
+    },
+    "reminderTimeNotInPast": {
+        "message": "Der Erinnerungszeitpunkt darf nicht in der Vergangenheit liegen"
+    },
+    "taskDateNotInPast": {
+        "message": "Das Aufgabendatum darf nicht in der Vergangenheit liegen"
+    },
+    "taskDescriptionPlaceholder": {
+        "message": "Aufgabenbeschreibung..."
+    },
+    "remindMeValUnitBefore": {
+        "message": "Erinnere mich vorher an {{val}} {{unit}}"
+    },
+    "remindMe": {
+        "message": "Erinnere mich daran"
+    },
+    "call": {
+        "message": "Rufen Sie an"
+    },
+    "meeting": {
+        "message": "Treffen"
+    },
+    "to_do": {
+        "message": "Zu erledigen"
+    },
+    "minutes": {
+        "message": "Minuten"
+    },
+    "hours": {
+        "message": "Stunden"
+    },
+    "days": {
+        "message": "Tage"
+    },
+    "weeks": {
+        "message": "Wochen"
+    },
+    "failedToFetchStakeholders": {
+        "message": "Stakeholder konnten nicht abgerufen werden"
+    },
+    "stakeholderAdded": {
+        "message": "Stakeholder hinzugefügt"
+    },
+    "failedToAddStakeholder": {
+        "message": "Stakeholder konnte nicht hinzugefügt werden"
+    },
+    "stakeholderRemoved": {
+        "message": "Stakeholder entfernt"
+    },
+    "failedToRemoveStakeholder": {
+        "message": "Stakeholder konnte nicht entfernt werden"
+    },
+    "stakeholderUpdated": {
+        "message": "Stakeholder aktualisiert"
+    },
+    "failedToUpdateStakeholder": {
+        "message": "Stakeholder konnte nicht aktualisiert werden"
+    },
+    "contactAlreadyAdded": {
+        "message": "Kontakt bereits hinzugefügt"
+    },
+    "searchContactsPlaceholder": {
+        "message": "WhatsApp-Kontakte durchsuchen..."
+    },
+    "groupLabel": {
+        "message": "Gruppe"
+    },
+    "userLabel": {
+        "message": "Benutzer"
+    },
+    "noContactsFound": {
+        "message": "Keine Kontakte gefunden"
+    },
+    "stakeholdersLabel": {
+        "message": "Stakeholder"
+    },
+    "noStakeholdersYet": {
+        "message": "Es wurden noch keine Stakeholder hinzugefügt."
+    },
+    "primaryLabel": {
+        "message": "Primär"
+    },
+    "groupChatLabel": {
+        "message": "Gruppenchat"
+    },
+    "makePrimaryTooltip": {
+        "message": "Machen Sie es primär"
+    },
+    "removeContactTooltip": {
+        "message": "Kontakt entfernen"
+    },
+    "roleLabel": {
+        "message": "Rolle"
+    },
+    "addRolePlaceholder": {
+        "message": "Rolle hinzufügen"
+    },
+    "removeStakeholderTitle": {
+        "message": "Stakeholder entfernen?"
+    },
+    "removeStakeholderConfirmMsg": {
+        "message": "Sind Sie sicher, dass Sie {{name}} aus diesem Lead entfernen möchten?"
+    },
+    "remove": {
+        "message": "Entfernen"
+    },
+    "standardSalesPipeline": {
+        "message": "Standard-Vertriebspipeline"
+    },
+    "defaultPipeline": {
+        "message": "Standardpipeline"
+    },
+    "newInquiry": {
+        "message": "Neue Anfrage"
+    },
+    "qualified": {
+        "message": "Qualifiziert"
+    },
+    "proposalSent": {
+        "message": "Vorschlag gesendet"
+    },
+    "won": {
+        "message": "Gewonnen"
+    },
+    "lost": {
+        "message": "Verloren"
+    },
+    "dealWonTitle": {
+        "message": "Deal gewonnen! 🎉"
+    },
+    "dealLostTitle": {
+        "message": "Deal verloren"
+    },
+    "saveValueLabel": {
+        "message": "Wert sparen"
+    },
+    "markLostLabel": {
+        "message": "Mark verloren"
+    },
+    "finalDealValueLabel": {
+        "message": "Endgültiger Dealwert"
+    },
+    "updateFinalRevenueDesc": {
+        "message": "Aktualisieren Sie den endgültigen Umsatzbetrag für diesen Deal."
+    },
+    "reasonForLossLabel": {
+        "message": "Grund für den Verlust"
+    },
+    "lossReasonPlaceholder": {
+        "message": "Warum wurde dieser Deal verloren? z.B. Preis zu hoch, Mitbewerber..."
+    },
+    "hot": {
+        "message": "Heiß"
+    },
+    "cold": {
+        "message": "Kalt"
+    },
+    "searchPlaceholder": {
+        "message": "Suchen..."
+    },
+    "selectAnOption": {
+        "message": "Wählen Sie eine Option..."
+    },
+    "noResultsFound": {
+        "message": "Keine Ergebnisse gefunden"
+    },
+    "scheduledMessagesWarning": {
+        "message": "Geplante Nachrichten funktionieren nur, wenn WhatsApp Web geöffnet ist."
+    },
+    "schedule": {
+        "message": "Zeitplan"
+    },
+    "messageTimeInFuture": {
+        "message": "Bei einmaligen Nachrichten muss die Nachrichtenzeit in der Zukunft liegen"
+    },
+    "fillAllFields": {
+        "message": "Bitte füllen Sie alle erforderlichen Felder aus"
+    },
+    "uploadFailed": {
+        "message": "Hochladen fehlgeschlagen: {{error}}"
+    },
+    "minute": {
+        "message": "Minute"
+    },
+    "everyRecurrenceSimple": {
+        "message": "Alle {{recurrence}} {{unit}}"
+    },
+    "hour_label": {
+        "message": "Stunde"
+    },
+    "day_label": {
+        "message": "Tag"
+    },
+    "week_label": {
+        "message": "Woche"
+    },
+    "month_label": {
+        "message": "Monat"
+    },
+    "year_label": {
+        "message": "Jahr"
+    },
+    "hour": {
+        "message": "Stunde"
+    },
+    "day": {
+        "message": "Tag"
+    },
+    "week": {
+        "message": "Woche"
+    },
+    "month": {
+        "message": "Monat"
+    },
+    "months": {
+        "message": "Monate"
+    },
+    "year": {
+        "message": "Jahr"
+    },
+    "years": {
+        "message": "Jahre"
+    },
+    "newNote": {
+        "message": "Neue Notiz"
+    },
+    "newTask": {
+        "message": "Neue Aufgabe"
+    },
+    "noActivity": {
+        "message": "Keine Aktivität"
+    },
+    "addNote": {
+        "message": "Notiz hinzufügen"
+    },
+    "chatOnWhatsApp": {
+        "message": "Chatten Sie auf WhatsApp"
+    },
+    "startDateLabel": {
+        "message": "STARTDATUM"
+    },
+    "endDateLabel": {
+        "message": "ENDDATUM"
+    },
+    "apply": {
+        "message": "Bewerben"
+    },
+    "taskOverdue": {
+        "message": "Aufgabe überfällig"
+    },
+    "tasksOverdue": {
+        "message": "Aufgaben überfällig"
+    },
+    "upcomingTaskLabel": {
+        "message": "bevorstehende Aufgabe"
+    },
+    "upcomingTasksLabel": {
+        "message": "anstehende Aufgaben"
+    },
+    "noPlannedTask": {
+        "message": "Keine geplante Aufgabe"
+    },
+    "empty": {
+        "message": "Leer"
+    },
+    "none": {
+        "message": "Keiner"
+    },
+    "true": {
+        "message": "WAHR"
+    },
+    "false": {
+        "message": "FALSCH"
+    },
+    "setTo": {
+        "message": "eingestellt auf"
+    },
+    "changed": {
+        "message": "Geändert"
+    },
+    "from": {
+        "message": "aus"
+    },
+    "to": {
+        "message": "Zu"
+    },
+    "task": {
+        "message": "Aufgabe"
+    },
+    "by": {
+        "message": "von"
+    },
+    "loadingDots": {
+        "message": "..."
+    },
+    "pipeline": {
+        "message": "Pipeline"
+    },
+    "pipelineTab": {
+        "message": "Pipeline"
+    },
+    "todo": {
+        "message": "Todo"
+    },
+    "chatTodo": {
+        "message": "Chat Todo"
+    },
+    "industry_coaching_training": {
+        "message": "Coaching & Training"
+    },
+    "profession_coach_mentor": {
+        "message": "Coach / Mentor"
+    },
+    "pipelines": {
+        "message": "Pipelines"
+    },
+    "del": {
+        "message": "Del"
+    },
+    "name": {
+        "message": "Name"
+    },
+    "status": {
+        "message": "Status"
+    },
+    "warm": {
+        "message": "Warm"
+    },
+    "currencyPlaceholder": {
+        "message": "CUR"
+    },
+    "edit": {
+        "message": "Bearbeiten"
+    },
+    "importExportBtn": {
+        "message": "Importieren / Exportieren"
+    },
+    "importExportDataTitle": {
+        "message": "Daten importieren & exportieren"
+    },
+    "importTab": {
+        "message": "Import"
+    },
+    "exportTab": {
+        "message": "Export"
+    },
+    "importBtn": {
+        "message": "Importieren"
+    },
+    "exportBtn": {
+        "message": "Exportieren"
+    },
+    "newDataExport": {
+        "message": "Neuer Datenexport"
+    },
+    "selectFieldsToExport": {
+        "message": "Felder zum Exportieren auswählen"
+    },
+    "selectActivityToExport": {
+        "message": "Aktivitäten zum Exportieren auswählen"
+    },
+    "leadsBtn": {
+        "message": "Leads"
+    },
+    "activitiesBtn": {
+        "message": "Aktivitäten"
+    },
+    "startDate": {
+        "message": "Startdatum"
+    },
+    "endDate": {
+        "message": "Enddatum"
+    },
+    "exportHistory": {
+        "message": "Export-Aufgaben"
+    },
+    "noExports": {
+        "message": "Keine aktuellen Exporte"
+    },
+    "statusCol": {
+        "message": "Status"
+    },
+    "typeCol": {
+        "message": "Typ"
+    },
+    "dateCol": {
+        "message": "Datum"
+    },
+    "actionCol": {
+        "message": "Aktion"
+    },
+    "exportStarting": {
+        "message": "Wird gestartet..."
+    },
+    "exportProcessing": {
+        "message": "Export wird verarbeitet..."
+    },
+    "exportCompleted": {
+        "message": "Export abgeschlossen! Sie können ihn jetzt herunterladen."
+    },
+    "exportFailed": {
+        "message": "Export fehlgeschlagen. Bitte erneut versuchen."
+    },
+    "exportStarted": {
+        "message": "Export gestartet! Verarbeitung im Hintergrund."
+    },
+    "exportDeleted": {
+        "message": "Export gelöscht"
+    },
+    "failedToCreateExport": {
+        "message": "Export konnte nicht gestartet werden"
+    },
+    "failedToDeleteExport": {
+        "message": "Export konnte nicht gelöscht werden"
+    },
+    "failedToFetchFields": {
+        "message": "Export-Felder konnten nicht geladen werden"
+    },
+    "failedToFetchHistory": {
+        "message": "Export-Verlauf konnte nicht geladen werden"
+    },
+    "failedToGetDownloadUrl": {
+        "message": "Download-Link konnte nicht abgerufen werden"
+    },
+    "comingSoonTitle": {
+        "message": "Demnächst verfügbar"
+    },
+    "comingSoonDesc": {
+        "message": "Die Importfunktion befindet sich in der Entwicklung und wird in Kürze verfügbar sein."
+    },
+    "dragAndDropFile": {
+        "message": "Datei hier ablegen"
+    },
+    "browseFile": {
+        "message": "Datei durchsuchen"
+    },
+    "or": {
+        "message": "oder"
+    },
+    "fieldName": {
+        "message": "Name"
+    },
+    "fieldPhone": {
+        "message": "Telefon"
+    },
+    "fieldEmail": {
+        "message": "E-Mail"
+    },
+    "fieldCompany": {
+        "message": "Unternehmen"
+    },
+    "fieldPipeline": {
+        "message": "Pipeline"
+    },
+    "fieldStage": {
+        "message": "Stufe"
+    },
+    "fieldSource": {
+        "message": "Quelle"
+    },
+    "fieldValue": {
+        "message": "Wert"
+    },
+    "fieldCurrency": {
+        "message": "Währung"
+    },
+    "fieldPriority": {
+        "message": "Priorität"
+    },
+    "fieldCreatedAt": {
+        "message": "Erstellt am"
+    },
+    "fieldContactName": {
+        "message": "Kontaktname"
+    },
+    "fieldContactInfo": {
+        "message": "Kontaktinformationen"
+    },
+    "activityNotes": {
+        "message": "Notizen"
+    },
+    "activityTasks": {
+        "message": "Aufgaben"
+    },
+    "activityStageChanges": {
+        "message": "Stufenänderungen"
+    },
+    "prevPage": {
+        "message": "‹ Zurück"
+    },
+    "nextPage": {
+        "message": "Weiter ›"
+    }
+}

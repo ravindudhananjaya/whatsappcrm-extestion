@@ -1,0 +1,1747 @@
+{
+    "extName": {
+        "message": "WhatsApp Business CRM – The Chat Quotient",
+        "description": "The name of the extension"
+    },
+    "extShortName": {
+        "message": "The CQ",
+        "description": "The short name of the extension"
+    },
+    "extDescription": {
+        "message": "The #1 Free WhatsApp CRM & Sales Pipeline. Manage leads, schedule messages, and use AI replies directly in WhatsApp Web.",
+        "description": "The description of the extension"
+    },
+    "loading": {
+        "message": "Loading..."
+    },
+    "loadingDots": {
+        "message": "..."
+    },
+    "theCqDashboard": {
+        "message": "The CQ Dashboard"
+    },
+    "language": {
+        "message": "Language"
+    },
+    "currency": {
+        "message": "Currency"
+    },
+    "pipeline": {
+        "message": "Pipeline"
+    },
+    "timeframe": {
+        "message": "Timeframe"
+    },
+    "last7Days": {
+        "message": "Last 7 Days"
+    },
+    "last14Days": {
+        "message": "Last 14 Days"
+    },
+    "thisMonth": {
+        "message": "This Month"
+    },
+    "last3Months": {
+        "message": "Last 3 Months"
+    },
+    "customRange": {
+        "message": "Custom Range"
+    },
+    "overviewTab": {
+        "message": "Overview"
+    },
+    "pipelineTab": {
+        "message": "Pipeline"
+    },
+    "taskCreatedSuccessfully": {
+        "message": "Task created successfully"
+    },
+    "failedToCreateTask": {
+        "message": "Failed to create task"
+    },
+    "noteCreatedSuccessfully": {
+        "message": "Note created successfully"
+    },
+    "failedToCreateNote": {
+        "message": "Failed to create note"
+    },
+    "taskMarkedCompleted": {
+        "message": "Task marked as completed"
+    },
+    "taskMarkedPending": {
+        "message": "Task marked as pending"
+    },
+    "failedToUpdateTask": {
+        "message": "Failed to update task"
+    },
+    "analyticsErrorHeading": {
+        "message": "Something went wrong in the Analytics Dashboard."
+    },
+    "tryAgain": {
+        "message": "Try Again"
+    },
+    "failedToUpdateLead": {
+        "message": "Failed to update lead"
+    },
+    "leadMovedSuccessfully": {
+        "message": "Lead moved successfully"
+    },
+    "loadingLeads": {
+        "message": "Loading leads..."
+    },
+    "noStagesDefined": {
+        "message": "No stages defined for this pipeline."
+    },
+    "unnamedLead": {
+        "message": "Unnamed Lead"
+    },
+    "slippingAwayTooltip": {
+        "message": "Slipping Away: No activity for 7+ days"
+    },
+    "taskDueTooltip": {
+        "message": "Task Due: Action required"
+    },
+    "loadMore": {
+        "message": "Load More"
+    },
+    "unknownSource": {
+        "message": "Unknown"
+    },
+    "leadSourceBreakdown": {
+        "message": "Lead Source Breakdown"
+    },
+    "noDataAvailable": {
+        "message": "No data available"
+    },
+    "forecastValue": {
+        "message": "Forecast Value"
+    },
+    "weightedPipeline": {
+        "message": "Weighted Pipeline"
+    },
+    "conversionRate": {
+        "message": "Conversion Rate"
+    },
+    "periodAverage": {
+        "message": "Period Average"
+    },
+    "newLeads": {
+        "message": "New Leads"
+    },
+    "inSelectedRange": {
+        "message": "In selected range"
+    },
+    "tasksDueToday": {
+        "message": "Tasks Due Today"
+    },
+    "actionRequired": {
+        "message": "Action required"
+    },
+    "slippingAway": {
+        "message": "Slipping Away"
+    },
+    "inactiveDays": {
+        "message": "Inactive > 7 Days"
+    },
+    "noSlippingLeads": {
+        "message": "No slipping leads. Good job!"
+    },
+    "unknownCustomer": {
+        "message": "Unknown"
+    },
+    "untitledLead": {
+        "message": "Untitled Lead"
+    },
+    "nudge": {
+        "message": "Nudge"
+    },
+    "daysOld": {
+        "message": "$count$ days old",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "customer": {
+        "message": "Customer"
+    },
+    "untitledTask": {
+        "message": "Untitled Task"
+    },
+    "invalidDate": {
+        "message": "Invalid Date"
+    },
+    "today": {
+        "message": "Today"
+    },
+    "overdueTasks": {
+        "message": "Overdue Tasks"
+    },
+    "noOverdueTasks": {
+        "message": "No overdue tasks."
+    },
+    "upcomingTasks": {
+        "message": "Upcoming Tasks"
+    },
+    "noUpcomingTasks": {
+        "message": "No upcoming tasks"
+    },
+    "unknownStage": {
+        "message": "Unknown"
+    },
+    "pipelineFunnel": {
+        "message": "Pipeline Funnel"
+    },
+    "aboutTheCQ": {
+        "message": "About The Chat Quotient"
+    },
+    "theCQ": {
+        "message": "The CQ"
+    },
+    "settings": {
+        "message": "Settings"
+    },
+    "chatWithUs": {
+        "message": "Chat With Us"
+    },
+    "theCQSupport": {
+        "message": "TheCQ Support"
+    },
+    "theCQUpdates": {
+        "message": "TheCQ Updates"
+    },
+    "openDashboard": {
+        "message": "Open Dashboard"
+    },
+    "dashboard": {
+        "message": "Dashboard"
+    },
+    "leads": {
+        "message": "Leads"
+    },
+    "createLead": {
+        "message": "Create Lead"
+    },
+    "lead": {
+        "message": "Lead"
+    },
+    "quickReplies": {
+        "message": "Quick Replies"
+    },
+    "chatSummary": {
+        "message": "Chat Summary"
+    },
+    "summarizeThisChat": {
+        "message": "Summarize This Chat"
+    },
+    "scheduleMessages": {
+        "message": "Schedule Messages"
+    },
+    "scheduledMessages": {
+        "message": "Scheduled Messages"
+    },
+    "needSupport": {
+        "message": "Need Support?"
+    },
+    "supportMessage": {
+        "message": "Your message will be sent on WhatsApp to the creator of The Chat Quotient. We're a small team, so while replies may not be immediate, you'll hear back during our working hours (IST). Thanks for your patience!"
+    },
+    "sendMessage": {
+        "message": "Send Message"
+    },
+    "cancel": {
+        "message": "Cancel"
+    },
+    "notes": {
+        "message": "Notes"
+    },
+    "chatNotes": {
+        "message": "Chat Notes"
+    },
+    "reminders": {
+        "message": "Reminders"
+    },
+    "todo": {
+        "message": "Todo"
+    },
+    "chatTodo": {
+        "message": "Chat Todo"
+    },
+    "contactInfo": {
+        "message": "Contact Info"
+    },
+    "more": {
+        "message": "More"
+    },
+    "profileDetails": {
+        "message": "Profile Details"
+    },
+    "pipelineSettings": {
+        "message": "Pipeline Settings"
+    },
+    "update": {
+        "message": "Update"
+    },
+    "submit": {
+        "message": "Submit"
+    },
+    "pleaseEnterName": {
+        "message": "Please enter your name."
+    },
+    "personalizeAiAssistant": {
+        "message": "Personalize Your AI Assistant"
+    },
+    "nameRequired": {
+        "message": "Name (Required)"
+    },
+    "enterYourName": {
+        "message": "Enter your name"
+    },
+    "mobileNumber": {
+        "message": "Mobile Number"
+    },
+    "numberLowercase": {
+        "message": "number"
+    },
+    "industry": {
+        "message": "Industry"
+    },
+    "selectIndustry": {
+        "message": "Select your industry"
+    },
+    "profession": {
+        "message": "Profession"
+    },
+    "selectProfessions": {
+        "message": "Select your professions"
+    },
+    "customInstructionLabel": {
+        "message": "Tell AI to behave like you (Optional, Recommended)"
+    },
+    "customInstructionPlaceholder": {
+        "message": "Be concise and structured. Assume I know the basics; avoid unnecessary explanations. Start with the recommendation, then brief reasoning..."
+    },
+    "aiToneOptional": {
+        "message": "AI Tone (Optional)"
+    },
+    "later": {
+        "message": "Later"
+    },
+    "industry_ecommerce": {
+        "message": "E-commerce"
+    },
+    "industry_retail": {
+        "message": "Retail"
+    },
+    "industry_fashion": {
+        "message": "Fashion"
+    },
+    "industry_health_wellness": {
+        "message": "Health & Wellness"
+    },
+    "industry_education": {
+        "message": "Education"
+    },
+    "industry_travel_tourism": {
+        "message": "Travel & Tourism"
+    },
+    "industry_real_estate": {
+        "message": "Real Estate"
+    },
+    "industry_automotive": {
+        "message": "Automotive"
+    },
+    "industry_finance": {
+        "message": "Finance"
+    },
+    "industry_insurance": {
+        "message": "Insurance"
+    },
+    "industry_financial_services": {
+        "message": "Financial Services"
+    },
+    "industry_publishing": {
+        "message": "Publishing"
+    },
+    "industry_astrology": {
+        "message": "Astrology"
+    },
+    "industry_coaching_training": {
+        "message": "Coaching & Training"
+    },
+    "industry_legal_consulting": {
+        "message": "Legal & Consulting Services"
+    },
+    "industry_beauty_personal_care": {
+        "message": "Beauty & Personal Care"
+    },
+    "industry_technology_saas": {
+        "message": "Technology & SaaS"
+    },
+    "industry_marketing_advertising": {
+        "message": "Marketing & Advertising"
+    },
+    "industry_home_services": {
+        "message": "Home Services"
+    },
+    "industry_nonprofit_social_impact": {
+        "message": "Nonprofit & Social Impact"
+    },
+    "industry_event_planning_hospitality": {
+        "message": "Event Planning & Hospitality"
+    },
+    "industry_media_content_creation": {
+        "message": "Media & Content Creation"
+    },
+    "industry_other": {
+        "message": "Other"
+    },
+    "profession_freelancer_creator": {
+        "message": "Freelancer / Creator"
+    },
+    "profession_coach_mentor": {
+        "message": "Coach / Mentor"
+    },
+    "profession_consultant": {
+        "message": "Consultant"
+    },
+    "profession_content_creator_writer": {
+        "message": "Content Creator / Writer"
+    },
+    "profession_educator_tutor": {
+        "message": "Educator / Tutor"
+    },
+    "profession_therapist_counselor": {
+        "message": "Therapist / Counselor"
+    },
+    "profession_nutritionist_dietician": {
+        "message": "Nutritionist / Dietician"
+    },
+    "profession_fitness_trainer": {
+        "message": "Fitness Trainer"
+    },
+    "profession_astrologer": {
+        "message": "Astrologer"
+    },
+    "profession_social_media_manager": {
+        "message": "Social Media Manager"
+    },
+    "profession_marketing_specialist_strategist": {
+        "message": "Marketing Specialist / Strategist"
+    },
+    "profession_ecommerce_seller_store_owner": {
+        "message": "E-commerce Seller / Store Owner"
+    },
+    "profession_retailer_shop_owner": {
+        "message": "Retailer / Shop Owner"
+    },
+    "profession_real_estate_agent": {
+        "message": "Real Estate Agent"
+    },
+    "profession_travel_agent": {
+        "message": "Travel Agent"
+    },
+    "profession_insurance_agent_broker": {
+        "message": "Insurance Agent / Broker"
+    },
+    "profession_financial_advisor_planner": {
+        "message": "Financial Advisor / Planner"
+    },
+    "profession_lawyer_legal_advisor": {
+        "message": "Lawyer / Legal Advisor"
+    },
+    "profession_beauty_professional_esthetician": {
+        "message": "Beauty Professional / Esthetician"
+    },
+    "profession_healthcare_provider_practitioner": {
+        "message": "Healthcare Provider / Practitioner"
+    },
+    "profession_event_planner_coordinator": {
+        "message": "Event Planner / Coordinator"
+    },
+    "profession_customer_service_representative": {
+        "message": "Customer Service Representative"
+    },
+    "profession_publisher_editor": {
+        "message": "Publisher / Editor"
+    },
+    "profession_fashion_designer_stylist": {
+        "message": "Fashion Designer / Stylist"
+    },
+    "profession_automotive_dealer_consultant": {
+        "message": "Automotive Dealer / Consultant"
+    },
+    "profession_sales_representative": {
+        "message": "Sales Representative"
+    },
+    "profession_software_developer_engineer": {
+        "message": "Software Developer / Engineer"
+    },
+    "profession_saas_founder_product_manager": {
+        "message": "SaaS Founder / Product Manager"
+    },
+    "profession_nonprofit_leader_advocate": {
+        "message": "Nonprofit Leader / Advocate"
+    },
+    "rephrase": {
+        "message": "Rephrase"
+    },
+    "clickToInsertThisMessage": {
+        "message": "Click to insert this message"
+    },
+    "regenerateAiResponse": {
+        "message": "Regenerate AI Response"
+    },
+    "discardIt": {
+        "message": "Discard it"
+    },
+    "rephrasecaps": {
+        "message": "REPHRASE"
+    },
+    "send": {
+        "message": "Send"
+    },
+    "aiReply": {
+        "message": "AI Reply"
+    },
+    "generate": {
+        "message": "Generate"
+    },
+    "actionMessage": {
+        "message": "{{action}} Message"
+    },
+    "tone": {
+        "message": "Tone"
+    },
+    "changeMessageLength": {
+        "message": "Change Message Length"
+    },
+    "customInstruction": {
+        "message": "Custom Instruction"
+    },
+    "enterYourInstruction": {
+        "message": "Enter your instruction"
+    },
+    "length_shorter": {
+        "message": "Shorter"
+    },
+    "length_longer": {
+        "message": "Longer"
+    },
+    "tone_professional": {
+        "message": "Professional"
+    },
+    "tone_straightforward": {
+        "message": "Straightforward"
+    },
+    "tone_confident": {
+        "message": "Confident"
+    },
+    "tone_respectful": {
+        "message": "Respectful"
+    },
+    "tone_friendly": {
+        "message": "Friendly"
+    },
+    "tone_casual_informal": {
+        "message": "Casual / Informal"
+    },
+    "tone_warm_welcoming": {
+        "message": "Warm & Welcoming"
+    },
+    "tone_supportive": {
+        "message": "Supportive"
+    },
+    "tone_empathetic": {
+        "message": "Empathetic"
+    },
+    "tone_encouraging": {
+        "message": "Encouraging"
+    },
+    "tone_patient_reassuring": {
+        "message": "Patient & Reassuring"
+    },
+    "tone_persuasive": {
+        "message": "Persuasive"
+    },
+    "tone_instructive_teacher_like": {
+        "message": "Instructive / Teacher-like"
+    },
+    "tone_insightful": {
+        "message": "Insightful"
+    },
+    "tone_witty_clever": {
+        "message": "Witty & Clever"
+    },
+    "tone_inspiring": {
+        "message": "Inspiring"
+    },
+    "tone_minimal_crisp": {
+        "message": "Minimal & Crisp"
+    },
+    "tone_luxury_premium_feel": {
+        "message": "Luxury / Premium Feel"
+    },
+    "pipelines": {
+        "message": "Pipelines"
+    },
+    "newPipeline": {
+        "message": "New Pipeline"
+    },
+    "pipelineName": {
+        "message": "Pipeline Name"
+    },
+    "pipelineNamePlaceholder": {
+        "message": "e.g. B2B Sales"
+    },
+    "create": {
+        "message": "Create"
+    },
+    "failedToCreatePipeline": {
+        "message": "Failed to create pipeline:"
+    },
+    "failedToCreateStage": {
+        "message": "Failed to create stage:"
+    },
+    "failedToDeletePipeline": {
+        "message": "Failed to delete pipeline:"
+    },
+    "atLeastOnePipelineRequired": {
+        "message": "You must have at least one pipeline."
+    },
+    "cannotDeleteDefaultPipeline": {
+        "message": "Cannot delete the default pipeline. Please set another pipeline as default first."
+    },
+    "deletePipeline": {
+        "message": "Delete Pipeline"
+    },
+    "deletePipelineConfirm": {
+        "message": "Are you sure you want to delete this pipeline? This action cannot be undone."
+    },
+    "del": {
+        "message": "Del"
+    },
+    "setDefault": {
+        "message": "Set Default"
+    },
+    "setAsDefault": {
+        "message": "Set as Default"
+    },
+    "savingViaApiNotImplemented": {
+        "message": "Saving changes via API is not yet implemented. Changes will not persist after reload."
+    },
+    "confirm": {
+        "message": "Confirm"
+    },
+    "default": {
+        "message": "Default"
+    },
+    "delete": {
+        "message": "Delete"
+    },
+    "won100": {
+        "message": "Won (100%)"
+    },
+    "lost0": {
+        "message": "Lost (0%)"
+    },
+    "won100Label": {
+        "message": "Won (100)"
+    },
+    "lost0Label": {
+        "message": "Lost (0)"
+    },
+    "atLeastOneOpenStage": {
+        "message": "At least one Open stage is required."
+    },
+    "atLeastOneWonStage": {
+        "message": "At least one Won stage is required."
+    },
+    "atLeastOneLostStage": {
+        "message": "At least one Lost stage is required."
+    },
+    "stageNamesMustBeUnique": {
+        "message": "Stage names must be unique."
+    },
+    "cannotDeleteStageType": {
+        "message": "Cannot delete: You must have at least one {{type}} stage."
+    },
+    "stagesCount": {
+        "message": "Stages ({{count}})"
+    },
+    "invalidConfiguration": {
+        "message": "Invalid Configuration"
+    },
+    "name": {
+        "message": "Name"
+    },
+    "color": {
+        "message": "Color"
+    },
+    "status": {
+        "message": "Status"
+    },
+    "stageName": {
+        "message": "Stage Name"
+    },
+    "pickAColor": {
+        "message": "Pick a color"
+    },
+    "deleteStage": {
+        "message": "Delete Stage"
+    },
+    "deleteStageConfirmMsg": {
+        "message": "Are you sure you want to delete this stage? This action cannot be undone."
+    },
+    "newStageWithNumber": {
+        "message": "New Stage {{number}}"
+    },
+    "addStage": {
+        "message": "Add Stage"
+    },
+    "leadTitlePlaceholder": {
+        "message": "Lead Title"
+    },
+    "backToLeads": {
+        "message": "Back to Leads"
+    },
+    "createLeadHeader": {
+        "message": "Create Lead"
+    },
+    "leadsHeader": {
+        "message": "Leads"
+    },
+    "createNew": {
+        "message": "Create New"
+    },
+    "leadCreatedSuccessfully": {
+        "message": "Lead created successfully"
+    },
+    "failedToCreateLead": {
+        "message": "Failed to create lead"
+    },
+    "leadDeletedSuccessfully": {
+        "message": "Lead deleted successfully"
+    },
+    "failedToDeleteLead": {
+        "message": "Failed to delete lead"
+    },
+    "leadUpdatedSuccessfully": {
+        "message": "Lead updated successfully"
+    },
+    "createNewLead": {
+        "message": "Create New Lead"
+    },
+    "analyzingChat": {
+        "message": "Analyzing chat to suggest details..."
+    },
+    "loadingPipelines": {
+        "message": "Loading pipelines..."
+    },
+    "selectPipeline": {
+        "message": "Select Pipeline"
+    },
+    "stage": {
+        "message": "Stage"
+    },
+    "selectStage": {
+        "message": "Select Stage"
+    },
+    "leadTitle": {
+        "message": "Lead Title"
+    },
+    "enterLeadTitle": {
+        "message": "Enter lead title"
+    },
+    "priority": {
+        "message": "Priority"
+    },
+    "selectPriority": {
+        "message": "Select Priority"
+    },
+    "expectedClosingDate": {
+        "message": "Expected Closing Date"
+    },
+    "expectedValue": {
+        "message": "Expected Value"
+    },
+    "leadSource": {
+        "message": "Lead Source"
+    },
+    "leadSourcePlaceholder": {
+        "message": "e.g. Website, Referral"
+    },
+    "creating": {
+        "message": "Creating..."
+    },
+    "loadingNotes": {
+        "message": "Loading notes..."
+    },
+    "pleaseWaitNotes": {
+        "message": "Please wait while we load your notes."
+    },
+    "editNote": {
+        "message": "Edit Note"
+    },
+    "deleteNote": {
+        "message": "Delete Note"
+    },
+    "deleteNoteConfirm": {
+        "message": "Are you sure you want to delete this note?"
+    },
+    "noNotesYet": {
+        "message": "No notes yet"
+    },
+    "startAddingNotes": {
+        "message": "Start adding notes to keep track of important information from this chat."
+    },
+    "loadMoreNotes": {
+        "message": "Load More Notes"
+    },
+    "addANote": {
+        "message": "Add a note..."
+    },
+    "add": {
+        "message": "Add"
+    },
+    "selectChatForNotes": {
+        "message": "Please select a chat to see the notes."
+    },
+    "summaryIsOutdated": {
+        "message": "Summary is outdated"
+    },
+    "lastUpdated": {
+        "message": "Last updated"
+    },
+    "regenerateSummary": {
+        "message": "Regenerate summary"
+    },
+    "refreshSummary": {
+        "message": "Refresh summary"
+    },
+    "copied": {
+        "message": "Copied!"
+    },
+    "failedToCopy": {
+        "message": "Failed to copy"
+    },
+    "copySummary": {
+        "message": "Copy summary"
+    },
+    "generatingSummary": {
+        "message": "Generating summary, please wait..."
+    },
+    "wasThisHelpful": {
+        "message": "Was this helpful?"
+    },
+    "youLikedSummary": {
+        "message": "You liked this summary (click to change)"
+    },
+    "likeSummary": {
+        "message": "Like this summary"
+    },
+    "youDislikedSummary": {
+        "message": "You didn't like this summary (click to change)"
+    },
+    "dislikeSummary": {
+        "message": "Dislike this summary"
+    },
+    "noSummaryYet": {
+        "message": "No summary yet"
+    },
+    "generateSummaryDesc": {
+        "message": "Generate an AI-powered summary of this chat conversation."
+    },
+    "selectChatToGenerateSummary": {
+        "message": "Please select a chat to generate a summary."
+    },
+    "editTodo": {
+        "message": "Edit Todo"
+    },
+    "deleteTodo": {
+        "message": "Delete Todo"
+    },
+    "deleteTodoConfirm": {
+        "message": "Are you sure you want to delete this todo?"
+    },
+    "noTodosYet": {
+        "message": "No todos yet"
+    },
+    "startAddingTodos": {
+        "message": "Start adding todos to keep track of tasks for this chat."
+    },
+    "noSectionTodos": {
+        "message": "No {{title}} todos"
+    },
+    "loadMoreSection": {
+        "message": "Load More {{title}}"
+    },
+    "loadingTodos": {
+        "message": "Loading todos..."
+    },
+    "pleaseWaitTodos": {
+        "message": "Please wait while we load your todos."
+    },
+    "pendingTitle": {
+        "message": "Pending"
+    },
+    "doneTitle": {
+        "message": "Done"
+    },
+    "addATodo": {
+        "message": "Add a todo..."
+    },
+    "selectChatForTodos": {
+        "message": "Please select a chat to see the todos."
+    },
+    "savedSuccessfully": {
+        "message": "Saved successfully."
+    },
+    "failedToSaveCompany": {
+        "message": "Failed to save company"
+    },
+    "companySavedSuccessfully": {
+        "message": "Company saved successfully."
+    },
+    "firstNameMandatory": {
+        "message": "First name is mandatory"
+    },
+    "deleteContactConfirm": {
+        "message": "Are you sure you want to delete this contact?"
+    },
+    "deletedSuccessfully": {
+        "message": "Deleted successfully."
+    },
+    "contactPermissionAlert": {
+        "message": "This feature will work when the contact permission is enabled on the phone."
+    },
+    "unknownContact": {
+        "message": "Unknown Contact"
+    },
+    "addQuickReply": {
+        "message": "Add Quick Reply"
+    },
+    "selectChatQuickRepliesDesc": {
+        "message": "Please select a chat to access quick replies."
+    },
+    "deleteReminderConfirm": {
+        "message": "Are you sure you want to delete this reminder?"
+    },
+    "editReminder": {
+        "message": "Edit Reminder"
+    },
+    "deleteReminder": {
+        "message": "Delete Reminder"
+    },
+    "noRemindersYet": {
+        "message": "No reminders yet"
+    },
+    "startAddingReminders": {
+        "message": "Start adding reminders to never miss important tasks or events."
+    },
+    "noSectionReminders": {
+        "message": "No {{title}} reminders"
+    },
+    "oneTime": {
+        "message": "One-time"
+    },
+    "everyRecurrence": {
+        "message": "Every {{recurrence}} {{recurrenceType}}{{pluralSuffix}}"
+    },
+    "snoozed": {
+        "message": "Snoozed"
+    },
+    "remindersWorkWarning": {
+        "message": "Reminders work only if WhatsApp Web is open."
+    },
+    "createNewReminder": {
+        "message": "Create New Reminder"
+    },
+    "reminderTitle": {
+        "message": "Reminder title..."
+    },
+    "descriptionOptional": {
+        "message": "Description (optional)..."
+    },
+    "repeatAfter": {
+        "message": "Repeat after"
+    },
+    "selectFrequency": {
+        "message": "Select frequency"
+    },
+    "loadingReminders": {
+        "message": "Loading reminders..."
+    },
+    "pleaseWaitReminders": {
+        "message": "Please wait while we load your reminders."
+    },
+    "processedTitle": {
+        "message": "Processed"
+    },
+    "addReminder": {
+        "message": "Add Reminder"
+    },
+    "selectChatForReminders": {
+        "message": "Please select a chat to create and manage reminders."
+    },
+    "deleteScheduledMessageConfirm": {
+        "message": "Are you sure you want to delete this scheduled message?"
+    },
+    "reason": {
+        "message": "Reason"
+    },
+    "sent": {
+        "message": "Sent"
+    },
+    "failed": {
+        "message": "Failed"
+    },
+    "editMessage": {
+        "message": "Edit Message"
+    },
+    "deleteMessage": {
+        "message": "Delete Message"
+    },
+    "noScheduledMessagesYet": {
+        "message": "No scheduled messages yet"
+    },
+    "scheduleMessagesDesc": {
+        "message": "Schedule messages to be sent automatically at the right time."
+    },
+    "noSectionMessages": {
+        "message": "No {{title}} messages"
+    },
+    "editScheduledMessage": {
+        "message": "Edit Scheduled Message"
+    },
+    "scheduleNewMessage": {
+        "message": "Schedule New Message"
+    },
+    "typeYourMessage": {
+        "message": "Type your message here..."
+    },
+    "repeatEvery": {
+        "message": "Repeat every"
+    },
+    "loadingScheduledMessages": {
+        "message": "Loading scheduled messages..."
+    },
+    "pleaseWaitScheduledMessages": {
+        "message": "Please wait while we load your scheduled messages."
+    },
+    "historyTitle": {
+        "message": "History"
+    },
+    "scheduleMessage": {
+        "message": "Schedule Message"
+    },
+    "selectChat": {
+        "message": "Select Chat"
+    },
+    "selectPersonalChat": {
+        "message": "Select a personal chat"
+    },
+    "selectChatToSchedule": {
+        "message": "Please select a chat to schedule and manage messages."
+    },
+    "selectChatToManageLeads": {
+        "message": "Select a chat to manage its leads."
+    },
+    "selectChatToManageLeadsDesc": {
+        "message": "To create or manage leads please select a chat and then click the lead button to start creating leads. Please note leads can be created for individual chats only, it doesn't work for groups."
+    },
+    "createLeadBtn": {
+        "message": "Create Lead"
+    },
+    "checkingContactDetails": {
+        "message": "Checking contact details..."
+    },
+    "contactDetails": {
+        "message": "Contact Details"
+    },
+    "firstName": {
+        "message": "First Name"
+    },
+    "lastName": {
+        "message": "Last Name"
+    },
+    "phone": {
+        "message": "Phone"
+    },
+    "email": {
+        "message": "Email"
+    },
+    "company": {
+        "message": "Company"
+    },
+    "designation": {
+        "message": "Designation"
+    },
+    "jobTitle": {
+        "message": "Job title"
+    },
+    "saving": {
+        "message": "Saving..."
+    },
+    "saveDetails": {
+        "message": "Save Details"
+    },
+    "noName": {
+        "message": "No Name"
+    },
+    "editContact": {
+        "message": "Edit Contact"
+    },
+    "phoneNumber": {
+        "message": "Phone Number"
+    },
+    "typeToSearchCompanies": {
+        "message": "Type to search companies..."
+    },
+    "loadingCompanies": {
+        "message": "Loading companies..."
+    },
+    "loadMoreCompanies": {
+        "message": "Load more companies"
+    },
+    "createCompanySearchQuery": {
+        "message": "Create company \"{{searchQuery}}\""
+    },
+    "noCompaniesAvailable": {
+        "message": "No companies available"
+    },
+    "editCompany": {
+        "message": "Edit company"
+    },
+    "removeCompany": {
+        "message": "Remove company"
+    },
+    "updateCompany": {
+        "message": "Update Company"
+    },
+    "createCompany": {
+        "message": "Create Company"
+    },
+    "domain": {
+        "message": "Domain"
+    },
+    "address": {
+        "message": "Address"
+    },
+    "deleteLead": {
+        "message": "Delete Lead"
+    },
+    "deleteLeadConfirm": {
+        "message": "Are you sure you want to delete this lead? This action cannot be undone."
+    },
+    "noQuickRepliesYet": {
+        "message": "No quick replies yet"
+    },
+    "createQuickRepliesDesc": {
+        "message": "Create quick replies to save time sending common messages."
+    },
+    "noQuickRepliesFound": {
+        "message": "No quick replies found."
+    },
+    "dragToReorder": {
+        "message": "Drag to reorder"
+    },
+    "editBeforeSend": {
+        "message": "Edit before send"
+    },
+    "editReply": {
+        "message": "Edit Reply"
+    },
+    "deleteReply": {
+        "message": "Delete Reply"
+    },
+    "deleteQuickReplyConfirm": {
+        "message": "Are you sure you want to delete this quick reply?"
+    },
+    "messageRequired": {
+        "message": "Message is required"
+    },
+    "editQuickReply": {
+        "message": "Edit Quick Reply"
+    },
+    "createQuickReply": {
+        "message": "Create Quick Reply"
+    },
+    "welcomePlaceholder": {
+        "message": "Welcome"
+    },
+    "howAreYouPlaceholder": {
+        "message": "Hi, how are you?"
+    },
+    "save": {
+        "message": "Save"
+    },
+    "message": {
+        "message": "Message"
+    },
+    "activityTab": {
+        "message": "Activity"
+    },
+    "detailsTab": {
+        "message": "Details"
+    },
+    "tasksTab": {
+        "message": "Tasks"
+    },
+    "peopleTab": {
+        "message": "People"
+    },
+    "value": {
+        "message": "Value"
+    },
+    "closeDate": {
+        "message": "Close Date"
+    },
+    "setDate": {
+        "message": "Set Date"
+    },
+    "source": {
+        "message": "Source"
+    },
+    "sourceRequired": {
+        "message": "Source value is required"
+    },
+    "addSource": {
+        "message": "Add source..."
+    },
+    "probability": {
+        "message": "Probability"
+    },
+    "deleteLeadConfirmMsg": {
+        "message": "Are you sure you want to delete this lead? This action cannot be undone."
+    },
+    "writeQuickNote": {
+        "message": "Write a quick note..."
+    },
+    "noActivityYet": {
+        "message": "No activity yet."
+    },
+    "saveNote": {
+        "message": "Save Note"
+    },
+    "failedToFetchTasks": {
+        "message": "Failed to fetch tasks"
+    },
+    "failedToFetchCompletedTasks": {
+        "message": "Failed to fetch completed tasks"
+    },
+    "taskMarkedAsCompleted": {
+        "message": "Task marked as completed"
+    },
+    "taskMarkedAsPending": {
+        "message": "Task marked as pending"
+    },
+    "taskUpdatedSuccess": {
+        "message": "Task updated successfully"
+    },
+    "taskDeletedSuccess": {
+        "message": "Task deleted successfully"
+    },
+    "failedToDeleteTask": {
+        "message": "Failed to delete task"
+    },
+    "failedToInitiateTaskCreation": {
+        "message": "Failed to initiate task creation"
+    },
+    "createTask": {
+        "message": "Create Task"
+    },
+    "pendingTasks": {
+        "message": "Pending Tasks"
+    },
+    "noPendingTasks": {
+        "message": "No pending tasks."
+    },
+    "at": {
+        "message": "at"
+    },
+    "loadingTasks": {
+        "message": "Loading tasks..."
+    },
+    "completedTasksLabel": {
+        "message": "Completed Tasks"
+    },
+    "noCompletedTasks": {
+        "message": "No completed tasks."
+    },
+    "deleteTask": {
+        "message": "Delete Task"
+    },
+    "deleteTaskConfirmMsg": {
+        "message": "Are you sure you want to delete this task? This action cannot be undone."
+    },
+    "enterReminderValue": {
+        "message": "Please enter a value for the reminder"
+    },
+    "minutesNotGreaterThan59": {
+        "message": "Minutes cannot be greater than 59"
+    },
+    "hoursNotGreaterThan24": {
+        "message": "Hours cannot be greater than 24"
+    },
+    "reminderTimeNotInPast": {
+        "message": "Reminder time cannot be in the past"
+    },
+    "taskDateNotInPast": {
+        "message": "Task date cannot be in the past"
+    },
+    "taskDescriptionPlaceholder": {
+        "message": "Task description..."
+    },
+    "remindMeValUnitBefore": {
+        "message": "Remind me {{val}} {{unit}} before"
+    },
+    "remindMe": {
+        "message": "Remind me"
+    },
+    "call": {
+        "message": "Call"
+    },
+    "meeting": {
+        "message": "Meeting"
+    },
+    "to_do": {
+        "message": "To-Do"
+    },
+    "minutes": {
+        "message": "Minutes"
+    },
+    "hours": {
+        "message": "Hours"
+    },
+    "days": {
+        "message": "Days"
+    },
+    "weeks": {
+        "message": "Weeks"
+    },
+    "failedToFetchStakeholders": {
+        "message": "Failed to fetch stakeholders"
+    },
+    "stakeholderAdded": {
+        "message": "Stakeholder added"
+    },
+    "failedToAddStakeholder": {
+        "message": "Failed to add stakeholder"
+    },
+    "stakeholderRemoved": {
+        "message": "Stakeholder removed"
+    },
+    "failedToRemoveStakeholder": {
+        "message": "Failed to remove stakeholder"
+    },
+    "stakeholderUpdated": {
+        "message": "Stakeholder updated"
+    },
+    "failedToUpdateStakeholder": {
+        "message": "Failed to update stakeholder"
+    },
+    "contactAlreadyAdded": {
+        "message": "Contact already added"
+    },
+    "searchContactsPlaceholder": {
+        "message": "Search WhatsApp contacts..."
+    },
+    "groupLabel": {
+        "message": "Group"
+    },
+    "userLabel": {
+        "message": "User"
+    },
+    "noContactsFound": {
+        "message": "No contacts found"
+    },
+    "stakeholdersLabel": {
+        "message": "Stakeholders"
+    },
+    "noStakeholdersYet": {
+        "message": "No stakeholders added yet."
+    },
+    "primaryLabel": {
+        "message": "Primary"
+    },
+    "groupChatLabel": {
+        "message": "Group Chat"
+    },
+    "makePrimaryTooltip": {
+        "message": "Make it primary"
+    },
+    "removeContactTooltip": {
+        "message": "Remove contact"
+    },
+    "roleLabel": {
+        "message": "Role"
+    },
+    "addRolePlaceholder": {
+        "message": "Add role"
+    },
+    "removeStakeholderTitle": {
+        "message": "Remove Stakeholder?"
+    },
+    "removeStakeholderConfirmMsg": {
+        "message": "Are you sure you want to remove {{name}} from this lead?"
+    },
+    "remove": {
+        "message": "Remove"
+    },
+    "standardSalesPipeline": {
+        "message": "Standard Sales Pipeline"
+    },
+    "defaultPipeline": {
+        "message": "Default Pipeline"
+    },
+    "newInquiry": {
+        "message": "New Inquiry"
+    },
+    "qualified": {
+        "message": "Qualified"
+    },
+    "proposalSent": {
+        "message": "Proposal Sent"
+    },
+    "won": {
+        "message": "Won"
+    },
+    "lost": {
+        "message": "Lost"
+    },
+    "dealWonTitle": {
+        "message": "Deal Won! 🎉"
+    },
+    "dealLostTitle": {
+        "message": "Deal Lost"
+    },
+    "saveValueLabel": {
+        "message": "Save Value"
+    },
+    "markLostLabel": {
+        "message": "Mark Lost"
+    },
+    "finalDealValueLabel": {
+        "message": "Final Deal Value"
+    },
+    "updateFinalRevenueDesc": {
+        "message": "Update the final revenue amount for this deal."
+    },
+    "reasonForLossLabel": {
+        "message": "Reason for Loss"
+    },
+    "lossReasonPlaceholder": {
+        "message": "Why was this deal lost? e.g. Price too high, Competitor..."
+    },
+    "hot": {
+        "message": "Hot"
+    },
+    "warm": {
+        "message": "Warm"
+    },
+    "cold": {
+        "message": "Cold"
+    },
+    "currencyPlaceholder": {
+        "message": "CUR"
+    },
+    "searchPlaceholder": {
+        "message": "Search..."
+    },
+    "selectAnOption": {
+        "message": "Select an option..."
+    },
+    "noResultsFound": {
+        "message": "No results found"
+    },
+    "scheduledMessagesWarning": {
+        "message": "Scheduled messages work only if WhatsApp Web is open."
+    },
+    "schedule": {
+        "message": "Schedule"
+    },
+    "messageTimeInFuture": {
+        "message": "Message time must be in the future for non-recurring messages"
+    },
+    "fillAllFields": {
+        "message": "Please fill in all required fields"
+    },
+    "uploadFailed": {
+        "message": "Upload failed: {{error}}"
+    },
+    "minute": {
+        "message": "minute"
+    },
+    "everyRecurrenceSimple": {
+        "message": "Every {{recurrence}} {{unit}}"
+    },
+    "hour_label": {
+        "message": "Hour"
+    },
+    "day_label": {
+        "message": "Day"
+    },
+    "week_label": {
+        "message": "Week"
+    },
+    "month_label": {
+        "message": "Month"
+    },
+    "year_label": {
+        "message": "Year"
+    },
+    "hour": {
+        "message": "hour"
+    },
+    "day": {
+        "message": "day"
+    },
+    "week": {
+        "message": "week"
+    },
+    "month": {
+        "message": "month"
+    },
+    "months": {
+        "message": "months"
+    },
+    "year": {
+        "message": "year"
+    },
+    "years": {
+        "message": "years"
+    },
+    "newNote": {
+        "message": "New Note"
+    },
+    "newTask": {
+        "message": "New Task"
+    },
+    "noActivity": {
+        "message": "No activity"
+    },
+    "addNote": {
+        "message": "Add Note"
+    },
+    "chatOnWhatsApp": {
+        "message": "Chat on WhatsApp"
+    },
+    "startDateLabel": {
+        "message": "START DATE"
+    },
+    "endDateLabel": {
+        "message": "END DATE"
+    },
+    "apply": {
+        "message": "Apply"
+    },
+    "taskOverdue": {
+        "message": "task overdue"
+    },
+    "tasksOverdue": {
+        "message": "tasks overdue"
+    },
+    "upcomingTaskLabel": {
+        "message": "upcoming task"
+    },
+    "upcomingTasksLabel": {
+        "message": "upcoming tasks"
+    },
+    "noPlannedTask": {
+        "message": "No Planned Task"
+    },
+    "empty": {
+        "message": "Empty"
+    },
+    "none": {
+        "message": "None"
+    },
+    "true": {
+        "message": "True"
+    },
+    "false": {
+        "message": "False"
+    },
+    "setTo": {
+        "message": "set to"
+    },
+    "changed": {
+        "message": "Changed"
+    },
+    "from": {
+        "message": "from"
+    },
+    "to": {
+        "message": "to"
+    },
+    "task": {
+        "message": "Task"
+    },
+    "by": {
+        "message": "by"
+    },
+    "edit": {
+        "message": "Edit"
+    },
+    "importExportBtn": {
+        "message": "Import / Export"
+    },
+    "importExportDataTitle": {
+        "message": "Import & Export Data"
+    },
+    "importTab": {
+        "message": "Import"
+    },
+    "exportTab": {
+        "message": "Export"
+    },
+    "importBtn": {
+        "message": "Import"
+    },
+    "exportBtn": {
+        "message": "Export"
+    },
+    "newDataExport": {
+        "message": "New Data Export"
+    },
+    "selectFieldsToExport": {
+        "message": "Select Fields to Export"
+    },
+    "selectActivityToExport": {
+        "message": "Select Activities to Export"
+    },
+    "leadsBtn": {
+        "message": "Leads"
+    },
+    "activitiesBtn": {
+        "message": "Activities"
+    },
+    "startDate": {
+        "message": "Start Date"
+    },
+    "endDate": {
+        "message": "End Date"
+    },
+    "exportHistory": {
+        "message": "Export Tasks"
+    },
+    "noExports": {
+        "message": "No recent exports"
+    },
+    "statusCol": {
+        "message": "Status"
+    },
+    "typeCol": {
+        "message": "Type"
+    },
+    "dateCol": {
+        "message": "Date"
+    },
+    "actionCol": {
+        "message": "Action"
+    },
+    "exportStarting": {
+        "message": "Starting..."
+    },
+    "exportProcessing": {
+        "message": "Export is processing..."
+    },
+    "exportCompleted": {
+        "message": "Export completed! You can now download it."
+    },
+    "exportFailed": {
+        "message": "Export failed. Please try again."
+    },
+    "exportStarted": {
+        "message": "Export started! Processing in background."
+    },
+    "exportDeleted": {
+        "message": "Export deleted"
+    },
+    "failedToCreateExport": {
+        "message": "Failed to start export"
+    },
+    "failedToDeleteExport": {
+        "message": "Failed to delete export"
+    },
+    "failedToFetchFields": {
+        "message": "Failed to load export fields"
+    },
+    "failedToFetchHistory": {
+        "message": "Failed to load export history"
+    },
+    "failedToGetDownloadUrl": {
+        "message": "Failed to get download link"
+    },
+    "comingSoonTitle": {
+        "message": "Coming Soon"
+    },
+    "comingSoonDesc": {
+        "message": "The import feature is under development and will be available shortly."
+    },
+    "dragAndDropFile": {
+        "message": "Drag and drop your file here"
+    },
+    "browseFile": {
+        "message": "Browse File"
+    },
+    "or": {
+        "message": "or"
+    },
+    "fieldName": {
+        "message": "Name"
+    },
+    "fieldPhone": {
+        "message": "Phone"
+    },
+    "fieldEmail": {
+        "message": "Email"
+    },
+    "fieldCompany": {
+        "message": "Company"
+    },
+    "fieldPipeline": {
+        "message": "Pipeline"
+    },
+    "fieldStage": {
+        "message": "Stage"
+    },
+    "fieldSource": {
+        "message": "Source"
+    },
+    "fieldValue": {
+        "message": "Value"
+    },
+    "fieldCurrency": {
+        "message": "Currency"
+    },
+    "fieldPriority": {
+        "message": "Priority"
+    },
+    "fieldCreatedAt": {
+        "message": "Created At"
+    },
+    "fieldContactName": {
+        "message": "Contact Name"
+    },
+    "fieldContactInfo": {
+        "message": "Contact Info"
+    },
+    "activityNotes": {
+        "message": "Notes"
+    },
+    "activityTasks": {
+        "message": "Tasks"
+    },
+    "activityStageChanges": {
+        "message": "Stage Changes"
+    },
+    "prevPage": {
+        "message": "‹ Prev"
+    },
+    "nextPage": {
+        "message": "Next ›"
+    }
+}

@@ -1,0 +1,1747 @@
+{
+    "extName": {
+        "message": "WhatsApp Business CRM – The Chat Quotient",
+        "description": "The name of the extension"
+    },
+    "extShortName": {
+        "message": "The CQ",
+        "description": "The short name of the extension"
+    },
+    "extDescription": {
+        "message": "1 Numaralı Ücretsiz WhatsApp CRM ve Satış Hattı. Potansiyel müşterileri yönetin, mesajları planlayın ve AI yanıtlarını doğrudan WhatsApp Web'de kullanın.",
+        "description": "The description of the extension"
+    },
+    "loading": {
+        "message": "Yükleniyor..."
+    },
+    "theCqDashboard": {
+        "message": "The CQ Kontrol Paneli"
+    },
+    "language": {
+        "message": "Dil"
+    },
+    "currency": {
+        "message": "Para birimi"
+    },
+    "pipeline": {
+        "message": "Boru hattı"
+    },
+    "timeframe": {
+        "message": "Zaman aralığı"
+    },
+    "last7Days": {
+        "message": "Son 7 Gün"
+    },
+    "last14Days": {
+        "message": "Son 14 Gün"
+    },
+    "thisMonth": {
+        "message": "Bu Ay"
+    },
+    "last3Months": {
+        "message": "Son 3 Ay"
+    },
+    "customRange": {
+        "message": "Özel Aralık"
+    },
+    "overviewTab": {
+        "message": "Genel Bakış"
+    },
+    "pipelineTab": {
+        "message": "Boru hattı"
+    },
+    "taskCreatedSuccessfully": {
+        "message": "Görev başarıyla oluşturuldu"
+    },
+    "failedToCreateTask": {
+        "message": "Görev oluşturulamadı"
+    },
+    "noteCreatedSuccessfully": {
+        "message": "Not başarıyla oluşturuldu"
+    },
+    "failedToCreateNote": {
+        "message": "Not oluşturulamadı"
+    },
+    "taskMarkedCompleted": {
+        "message": "Görev tamamlandı olarak işaretlendi"
+    },
+    "taskMarkedPending": {
+        "message": "Görev beklemede olarak işaretlendi"
+    },
+    "failedToUpdateTask": {
+        "message": "Görev güncellenemedi"
+    },
+    "analyticsErrorHeading": {
+        "message": "Analytics Kontrol Panelinde bir şeyler ters gitti."
+    },
+    "tryAgain": {
+        "message": "Tekrar deneyin"
+    },
+    "failedToUpdateLead": {
+        "message": "Potansiyel müşteri güncellenemedi"
+    },
+    "leadMovedSuccessfully": {
+        "message": "Potansiyel müşteri başarıyla taşındı"
+    },
+    "loadingLeads": {
+        "message": "Potansiyel müşteriler yükleniyor..."
+    },
+    "noStagesDefined": {
+        "message": "Bu ardışık düzen için tanımlanmış aşama yok."
+    },
+    "unnamedLead": {
+        "message": "Adsız Potansiyel Müşteri"
+    },
+    "slippingAwayTooltip": {
+        "message": "Kayarak Kaçmak: 7+ gün boyunca aktivite yok"
+    },
+    "taskDueTooltip": {
+        "message": "Görev Sonu: Eylem gerekli"
+    },
+    "loadMore": {
+        "message": "Daha Fazla Yükle"
+    },
+    "unknownSource": {
+        "message": "Bilinmiyor"
+    },
+    "leadSourceBreakdown": {
+        "message": "Potansiyel Müşteri Kaynağı Dağılımı"
+    },
+    "noDataAvailable": {
+        "message": "Veri yok"
+    },
+    "forecastValue": {
+        "message": "Tahmin Değeri"
+    },
+    "weightedPipeline": {
+        "message": "Ağırlıklı Boru Hattı"
+    },
+    "conversionRate": {
+        "message": "Dönüşüm Oranı"
+    },
+    "periodAverage": {
+        "message": "Dönem Ortalaması"
+    },
+    "newLeads": {
+        "message": "Yeni Potansiyel Müşteriler"
+    },
+    "inSelectedRange": {
+        "message": "Seçilen aralıkta"
+    },
+    "tasksDueToday": {
+        "message": "Bugün Sonu Gelen Görevler"
+    },
+    "actionRequired": {
+        "message": "İşlem gerekli"
+    },
+    "slippingAway": {
+        "message": "Kayıyor"
+    },
+    "inactiveDays": {
+        "message": "Aktif Değil > 7 Gün"
+    },
+    "noSlippingLeads": {
+        "message": "Kayma yok. Aferin!"
+    },
+    "unknownCustomer": {
+        "message": "Bilinmiyor"
+    },
+    "untitledLead": {
+        "message": "İsimsiz Potansiyel Müşteri"
+    },
+    "nudge": {
+        "message": "Dürtmek"
+    },
+    "daysOld": {
+        "message": "$count$ gün eski",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "customer": {
+        "message": "Müşteri"
+    },
+    "untitledTask": {
+        "message": "Başlıksız Görev"
+    },
+    "invalidDate": {
+        "message": "Geçersiz Tarih"
+    },
+    "today": {
+        "message": "Bugün"
+    },
+    "overdueTasks": {
+        "message": "Gecikmiş Görevler"
+    },
+    "noOverdueTasks": {
+        "message": "Gecikmiş görev yok."
+    },
+    "upcomingTasks": {
+        "message": "Yaklaşan Görevler"
+    },
+    "noUpcomingTasks": {
+        "message": "Yaklaşan görev yok"
+    },
+    "unknownStage": {
+        "message": "Bilinmiyor"
+    },
+    "pipelineFunnel": {
+        "message": "Boru Hattı Hunisi"
+    },
+    "aboutTheCQ": {
+        "message": "The Chat Quotient Hakkında"
+    },
+    "theCQ": {
+        "message": "The CQ"
+    },
+    "settings": {
+        "message": "Ayarlar"
+    },
+    "chatWithUs": {
+        "message": "Bizimle Sohbet Edin"
+    },
+    "theCQSupport": {
+        "message": "TheCQ Desteği"
+    },
+    "theCQUpdates": {
+        "message": "TheCQ Güncellemeleri"
+    },
+    "openDashboard": {
+        "message": "Kontrol Panelini Aç"
+    },
+    "dashboard": {
+        "message": "Kontrol Paneli"
+    },
+    "leads": {
+        "message": "Potansiyel müşteriler"
+    },
+    "createLead": {
+        "message": "Potansiyel Müşteri Oluştur"
+    },
+    "lead": {
+        "message": "Yol göstermek"
+    },
+    "quickReplies": {
+        "message": "Hızlı Yanıtlar"
+    },
+    "chatSummary": {
+        "message": "Sohbet Özeti"
+    },
+    "summarizeThisChat": {
+        "message": "Bu Sohbeti Özetle"
+    },
+    "scheduleMessages": {
+        "message": "Mesajları Planla"
+    },
+    "scheduledMessages": {
+        "message": "Planlanmış Mesajlar"
+    },
+    "needSupport": {
+        "message": "Desteğe mi ihtiyacınız var?"
+    },
+    "supportMessage": {
+        "message": "Mesajınız The Chat Quotient'in yaratıcısına WhatsApp üzerinden gönderilecektir. Biz küçük bir ekibiz, bu nedenle yanıtlar hemen olamayabilir, ancak çalışma saatlerimiz (IST) sırasında geri bildirim alacaksınız. Sabrınız için teşekkürler!"
+    },
+    "sendMessage": {
+        "message": "Mesaj Gönder"
+    },
+    "cancel": {
+        "message": "İptal etmek"
+    },
+    "notes": {
+        "message": "Notlar"
+    },
+    "chatNotes": {
+        "message": "Sohbet Notları"
+    },
+    "reminders": {
+        "message": "Hatırlatıcılar"
+    },
+    "todo": {
+        "message": "Yapılacaklar"
+    },
+    "chatTodo": {
+        "message": "Sohbet Yapılacaklar"
+    },
+    "contactInfo": {
+        "message": "İletişim Bilgileri"
+    },
+    "more": {
+        "message": "Daha"
+    },
+    "profileDetails": {
+        "message": "Profil Detayları"
+    },
+    "pipelineSettings": {
+        "message": "Boru Hattı Ayarları"
+    },
+    "update": {
+        "message": "Güncelleme"
+    },
+    "submit": {
+        "message": "Göndermek"
+    },
+    "pleaseEnterName": {
+        "message": "Lütfen isminizi giriniz."
+    },
+    "personalizeAiAssistant": {
+        "message": "Yapay Zeka Asistanınızı Kişiselleştirin"
+    },
+    "nameRequired": {
+        "message": "Ad (Gerekli)"
+    },
+    "enterYourName": {
+        "message": "Adınızı girin"
+    },
+    "mobileNumber": {
+        "message": "Cep numarası"
+    },
+    "numberLowercase": {
+        "message": "sayı"
+    },
+    "industry": {
+        "message": "Endüstri"
+    },
+    "selectIndustry": {
+        "message": "Sektörünüzü seçin"
+    },
+    "profession": {
+        "message": "Meslek"
+    },
+    "selectProfessions": {
+        "message": "Mesleklerinizi seçin"
+    },
+    "customInstructionLabel": {
+        "message": "Yapay zekaya sizin gibi davranmasını söyleyin (İsteğe Bağlı, Önerilen)"
+    },
+    "customInstructionPlaceholder": {
+        "message": "Kısa ve yapılandırılmış olun. Temelleri bildiğimi varsayalım; Gereksiz açıklamalardan kaçının. Tavsiyeyle başlayın, ardından kısa bir mantık yürütün..."
+    },
+    "aiToneOptional": {
+        "message": "AI Tonu (İsteğe Bağlı)"
+    },
+    "later": {
+        "message": "Daha sonra"
+    },
+    "industry_ecommerce": {
+        "message": "E-ticaret"
+    },
+    "industry_retail": {
+        "message": "Perakende"
+    },
+    "industry_fashion": {
+        "message": "Moda"
+    },
+    "industry_health_wellness": {
+        "message": "Sağlık ve Sağlıklı Yaşam"
+    },
+    "industry_education": {
+        "message": "Eğitim"
+    },
+    "industry_travel_tourism": {
+        "message": "Seyahat ve Turizm"
+    },
+    "industry_real_estate": {
+        "message": "Gayrimenkul"
+    },
+    "industry_automotive": {
+        "message": "Otomotiv"
+    },
+    "industry_finance": {
+        "message": "Finans"
+    },
+    "industry_insurance": {
+        "message": "Sigorta"
+    },
+    "industry_financial_services": {
+        "message": "Finansal Hizmetler"
+    },
+    "industry_publishing": {
+        "message": "Yayınlama"
+    },
+    "industry_astrology": {
+        "message": "Astroloji"
+    },
+    "industry_coaching_training": {
+        "message": "Koçluk ve Eğitim"
+    },
+    "industry_legal_consulting": {
+        "message": "Hukuk ve Danışmanlık Hizmetleri"
+    },
+    "industry_beauty_personal_care": {
+        "message": "Güzellik ve Kişisel Bakım"
+    },
+    "industry_technology_saas": {
+        "message": "Teknoloji ve SaaS"
+    },
+    "industry_marketing_advertising": {
+        "message": "Pazarlama ve Reklamcılık"
+    },
+    "industry_home_services": {
+        "message": "Ev Hizmetleri"
+    },
+    "industry_nonprofit_social_impact": {
+        "message": "Kâr Amacı Gütmeyen Kuruluş ve Sosyal Etki"
+    },
+    "industry_event_planning_hospitality": {
+        "message": "Etkinlik Planlama ve Ağırlama"
+    },
+    "industry_media_content_creation": {
+        "message": "Medya ve İçerik Oluşturma"
+    },
+    "industry_other": {
+        "message": "Diğer"
+    },
+    "profession_freelancer_creator": {
+        "message": "Serbest Çalışan / Yaratıcı"
+    },
+    "profession_coach_mentor": {
+        "message": "Koç / Mentor"
+    },
+    "profession_consultant": {
+        "message": "Danışman"
+    },
+    "profession_content_creator_writer": {
+        "message": "İçerik Oluşturucu / Yazar"
+    },
+    "profession_educator_tutor": {
+        "message": "Eğitimci / Öğretmen"
+    },
+    "profession_therapist_counselor": {
+        "message": "Terapist / Danışman"
+    },
+    "profession_nutritionist_dietician": {
+        "message": "Beslenme Uzmanı / Diyetisyen"
+    },
+    "profession_fitness_trainer": {
+        "message": "Fitness Eğitmeni"
+    },
+    "profession_astrologer": {
+        "message": "Astrolog"
+    },
+    "profession_social_media_manager": {
+        "message": "Sosyal Medya Yöneticisi"
+    },
+    "profession_marketing_specialist_strategist": {
+        "message": "Pazarlama Uzmanı / Stratejist"
+    },
+    "profession_ecommerce_seller_store_owner": {
+        "message": "E-ticaret Satıcısı / Mağaza Sahibi"
+    },
+    "profession_retailer_shop_owner": {
+        "message": "Perakendeci / Mağaza Sahibi"
+    },
+    "profession_real_estate_agent": {
+        "message": "Emlakçı"
+    },
+    "profession_travel_agent": {
+        "message": "Seyahat Acentası"
+    },
+    "profession_insurance_agent_broker": {
+        "message": "Sigorta Acentesi / Broker"
+    },
+    "profession_financial_advisor_planner": {
+        "message": "Mali Müşavir / Planlayıcı"
+    },
+    "profession_lawyer_legal_advisor": {
+        "message": "Avukat / Hukuk Danışmanı"
+    },
+    "profession_beauty_professional_esthetician": {
+        "message": "Güzellik Uzmanı / Estetisyen"
+    },
+    "profession_healthcare_provider_practitioner": {
+        "message": "Sağlık Hizmeti Sağlayıcısı / Uygulayıcı"
+    },
+    "profession_event_planner_coordinator": {
+        "message": "Etkinlik Planlayıcısı / Koordinatörü"
+    },
+    "profession_customer_service_representative": {
+        "message": "Müşteri Hizmetleri Temsilcisi"
+    },
+    "profession_publisher_editor": {
+        "message": "Yayıncı / Editör"
+    },
+    "profession_fashion_designer_stylist": {
+        "message": "Moda Tasarımcısı / Stilist"
+    },
+    "profession_automotive_dealer_consultant": {
+        "message": "Otomotiv Bayisi / Danışmanı"
+    },
+    "profession_sales_representative": {
+        "message": "Satış Temsilcis"
+    },
+    "profession_software_developer_engineer": {
+        "message": "Yazılım Geliştirici / Mühendis"
+    },
+    "profession_saas_founder_product_manager": {
+        "message": "SaaS Kurucusu / Ürün Yöneticisi"
+    },
+    "profession_nonprofit_leader_advocate": {
+        "message": "Kâr Amacı Gütmeyen Lider / Avukat"
+    },
+    "rephrase": {
+        "message": "Yeniden ifade et"
+    },
+    "clickToInsertThisMessage": {
+        "message": "Bu mesajı eklemek için tıklayın"
+    },
+    "regenerateAiResponse": {
+        "message": "AI Yanıtını Yeniden Oluştur"
+    },
+    "discardIt": {
+        "message": "At onu"
+    },
+    "rephrasecaps": {
+        "message": "YENİDEN İFADE"
+    },
+    "send": {
+        "message": "Göndermek"
+    },
+    "aiReply": {
+        "message": "AI Yanıtı"
+    },
+    "generate": {
+        "message": "Oluştur"
+    },
+    "actionMessage": {
+        "message": "{{action}} Mesaj"
+    },
+    "tone": {
+        "message": "Ton"
+    },
+    "changeMessageLength": {
+        "message": "Mesaj Uzunluğunu Değiştir"
+    },
+    "customInstruction": {
+        "message": "Özel Talimat"
+    },
+    "enterYourInstruction": {
+        "message": "Talimatınızı girin"
+    },
+    "length_shorter": {
+        "message": "Daha kısa"
+    },
+    "length_longer": {
+        "message": "Daha uzun"
+    },
+    "tone_professional": {
+        "message": "Profesyonel"
+    },
+    "tone_straightforward": {
+        "message": "basit"
+    },
+    "tone_confident": {
+        "message": "Kendinden emin"
+    },
+    "tone_respectful": {
+        "message": "Saygılı"
+    },
+    "tone_friendly": {
+        "message": "Arkadaşça"
+    },
+    "tone_casual_informal": {
+        "message": "Günlük / Gayri resmi"
+    },
+    "tone_warm_welcoming": {
+        "message": "Sıcak ve Karşılama"
+    },
+    "tone_supportive": {
+        "message": "Destekleyici"
+    },
+    "tone_empathetic": {
+        "message": "Empatik"
+    },
+    "tone_encouraging": {
+        "message": "Teşvik edici"
+    },
+    "tone_patient_reassuring": {
+        "message": "Sabırlı ve Güven verici"
+    },
+    "tone_persuasive": {
+        "message": "İkna edici"
+    },
+    "tone_instructive_teacher_like": {
+        "message": "Öğretici / Öğretmen benzeri"
+    },
+    "tone_insightful": {
+        "message": "Anlayışlı"
+    },
+    "tone_witty_clever": {
+        "message": "Esprili ve Zeki"
+    },
+    "tone_inspiring": {
+        "message": "İlham verici"
+    },
+    "tone_minimal_crisp": {
+        "message": "Minimal ve Net"
+    },
+    "tone_luxury_premium_feel": {
+        "message": "Lüks / Premium Hissi"
+    },
+    "pipelines": {
+        "message": "Boru hatları"
+    },
+    "newPipeline": {
+        "message": "Yeni Boru Hattı"
+    },
+    "pipelineName": {
+        "message": "Boru Hattı Adı"
+    },
+    "pipelineNamePlaceholder": {
+        "message": "örneğin B2B Satışları"
+    },
+    "create": {
+        "message": "Yaratmak"
+    },
+    "failedToCreatePipeline": {
+        "message": "İşlem hattı oluşturulamadı:"
+    },
+    "failedToCreateStage": {
+        "message": "Sahne oluşturulamadı:"
+    },
+    "failedToDeletePipeline": {
+        "message": "Ardışık düzen silinemedi:"
+    },
+    "atLeastOnePipelineRequired": {
+        "message": "En az bir boru hattınız olmalıdır."
+    },
+    "cannotDeleteDefaultPipeline": {
+        "message": "Varsayılan işlem hattı silinemiyor. Lütfen önce başka bir ardışık düzeni varsayılan olarak ayarlayın."
+    },
+    "deletePipeline": {
+        "message": "Ardışık Düzeni Sil"
+    },
+    "deletePipelineConfirm": {
+        "message": "Bu ardışık düzeni silmek istediğinizden emin misiniz? Bu eylem geri alınamaz."
+    },
+    "setDefault": {
+        "message": "Varsayılanı Ayarla"
+    },
+    "setAsDefault": {
+        "message": "Varsayılan Olarak Ayarla"
+    },
+    "savingViaApiNotImplemented": {
+        "message": "Değişikliklerin API aracılığıyla kaydedilmesi henüz uygulanmadı. Yeniden yükleme sonrasında değişiklikler devam etmeyecektir."
+    },
+    "confirm": {
+        "message": "Onaylamak"
+    },
+    "default": {
+        "message": "Varsayılan"
+    },
+    "delete": {
+        "message": "Silmek"
+    },
+    "won100": {
+        "message": "Kazandı (%100)"
+    },
+    "lost0": {
+        "message": "Kayıp (%0)"
+    },
+    "won100Label": {
+        "message": "Kazanıldı (100)"
+    },
+    "lost0Label": {
+        "message": "Kayıp (0)"
+    },
+    "atLeastOneOpenStage": {
+        "message": "En az bir Açık etap gereklidir."
+    },
+    "atLeastOneWonStage": {
+        "message": "En az bir Won aşaması gereklidir."
+    },
+    "atLeastOneLostStage": {
+        "message": "En az bir Kayıp aşaması gereklidir."
+    },
+    "stageNamesMustBeUnique": {
+        "message": "Sahne adları benzersiz olmalıdır."
+    },
+    "cannotDeleteStageType": {
+        "message": "Silinemiyor: En az bir {{type}} aşamanız olmalıdır."
+    },
+    "stagesCount": {
+        "message": "Aşamalar ({{count}})"
+    },
+    "invalidConfiguration": {
+        "message": "Geçersiz Yapılandırma"
+    },
+    "name": {
+        "message": "İsim"
+    },
+    "color": {
+        "message": "Renk"
+    },
+    "status": {
+        "message": "Durum"
+    },
+    "stageName": {
+        "message": "Aşama Adı"
+    },
+    "pickAColor": {
+        "message": "Bir renk seç"
+    },
+    "deleteStage": {
+        "message": "Aşamayı Sil"
+    },
+    "deleteStageConfirmMsg": {
+        "message": "Bu aşamayı silmek istediğinizden emin misiniz? Bu eylem geri alınamaz."
+    },
+    "newStageWithNumber": {
+        "message": "Yeni Aşama {{number}}"
+    },
+    "addStage": {
+        "message": "Aşama Ekle"
+    },
+    "leadTitlePlaceholder": {
+        "message": "Potansiyel Müşteri Başlığı"
+    },
+    "backToLeads": {
+        "message": "Potansiyel Müşterilere Geri Dön"
+    },
+    "createLeadHeader": {
+        "message": "Potansiyel Müşteri Oluştur"
+    },
+    "leadsHeader": {
+        "message": "Potansiyel müşteriler"
+    },
+    "createNew": {
+        "message": "Yeni Oluştur"
+    },
+    "leadCreatedSuccessfully": {
+        "message": "Potansiyel müşteri başarıyla oluşturuldu"
+    },
+    "failedToCreateLead": {
+        "message": "Potansiyel müşteri oluşturulamadı"
+    },
+    "leadDeletedSuccessfully": {
+        "message": "Potansiyel müşteri başarıyla silindi"
+    },
+    "failedToDeleteLead": {
+        "message": "Potansiyel müşteri silinemedi"
+    },
+    "leadUpdatedSuccessfully": {
+        "message": "Potansiyel müşteri başarıyla güncellendi"
+    },
+    "createNewLead": {
+        "message": "Yeni Potansiyel Müşteri Oluştur"
+    },
+    "analyzingChat": {
+        "message": "Ayrıntıları önermek için sohbet analiz ediliyor..."
+    },
+    "loadingPipelines": {
+        "message": "Boru hatları yükleniyor..."
+    },
+    "selectPipeline": {
+        "message": "Boru Hattını Seçin"
+    },
+    "stage": {
+        "message": "Sahne"
+    },
+    "selectStage": {
+        "message": "Aşama Seçin"
+    },
+    "leadTitle": {
+        "message": "Potansiyel Müşteri Başlığı"
+    },
+    "enterLeadTitle": {
+        "message": "Potansiyel müşteri başlığını girin"
+    },
+    "priority": {
+        "message": "Öncelik"
+    },
+    "selectPriority": {
+        "message": "Öncelik Seçin"
+    },
+    "expectedClosingDate": {
+        "message": "Beklenen Kapanış Tarihi"
+    },
+    "expectedValue": {
+        "message": "Beklenen Değer"
+    },
+    "leadSource": {
+        "message": "Potansiyel Müşteri Kaynağı"
+    },
+    "leadSourcePlaceholder": {
+        "message": "örneğin Web sitesi, Yönlendirme"
+    },
+    "creating": {
+        "message": "Oluşturuluyor..."
+    },
+    "loadingNotes": {
+        "message": "Notlar yükleniyor..."
+    },
+    "pleaseWaitNotes": {
+        "message": "Notlarınız yüklenirken lütfen bekleyin."
+    },
+    "editNote": {
+        "message": "Notu Düzenle"
+    },
+    "deleteNote": {
+        "message": "Notu Sil"
+    },
+    "deleteNoteConfirm": {
+        "message": "Bu notu silmek istediğinizden emin misiniz?"
+    },
+    "noNotesYet": {
+        "message": "Henüz not yok"
+    },
+    "startAddingNotes": {
+        "message": "Bu sohbetteki önemli bilgileri takip etmek için not eklemeye başlayın."
+    },
+    "loadMoreNotes": {
+        "message": "Daha Fazla Not Yükle"
+    },
+    "addANote": {
+        "message": "Bir not ekleyin..."
+    },
+    "add": {
+        "message": "Eklemek"
+    },
+    "selectChatForNotes": {
+        "message": "Notları görmek için lütfen bir sohbet seçin."
+    },
+    "summaryIsOutdated": {
+        "message": "Özet güncel değil"
+    },
+    "lastUpdated": {
+        "message": "Son güncelleme"
+    },
+    "regenerateSummary": {
+        "message": "Özeti yeniden oluştur"
+    },
+    "refreshSummary": {
+        "message": "Özeti yenile"
+    },
+    "copied": {
+        "message": "Kopyalandı!"
+    },
+    "failedToCopy": {
+        "message": "Kopyalanamadı"
+    },
+    "copySummary": {
+        "message": "Özeti kopyala"
+    },
+    "generatingSummary": {
+        "message": "Özet oluşturuluyor, lütfen bekleyin..."
+    },
+    "wasThisHelpful": {
+        "message": "Bu yardımcı oldu mu?"
+    },
+    "youLikedSummary": {
+        "message": "Bu özeti beğendiniz (değiştirmek için tıklayın)"
+    },
+    "likeSummary": {
+        "message": "Bu özeti beğen"
+    },
+    "youDislikedSummary": {
+        "message": "Bu özeti beğenmediniz (değiştirmek için tıklayın)"
+    },
+    "dislikeSummary": {
+        "message": "Bu özeti beğenmedim"
+    },
+    "noSummaryYet": {
+        "message": "Henüz özet yok"
+    },
+    "generateSummaryDesc": {
+        "message": "Bu sohbet görüşmesinin yapay zeka destekli bir özetini oluşturun."
+    },
+    "selectChatToGenerateSummary": {
+        "message": "Özet oluşturmak için lütfen bir sohbet seçin."
+    },
+    "editTodo": {
+        "message": "Yapılacak İşi Düzenle"
+    },
+    "deleteTodo": {
+        "message": "Yapılacak İşlemi Sil"
+    },
+    "deleteTodoConfirm": {
+        "message": "Bu yapılacak işi silmek istediğinizden emin misiniz?"
+    },
+    "noTodosYet": {
+        "message": "Henüz yapılacak iş yok"
+    },
+    "startAddingTodos": {
+        "message": "Bu sohbetteki görevleri takip etmek için yapılacaklar eklemeye başlayın."
+    },
+    "noSectionTodos": {
+        "message": "{{title}} yapılacak iş yok"
+    },
+    "loadMoreSection": {
+        "message": "Daha Fazlasını Yükle {{title}}"
+    },
+    "loadingTodos": {
+        "message": "Yapılacaklar yükleniyor..."
+    },
+    "pleaseWaitTodos": {
+        "message": "Yapılacak işleriniz yüklenirken lütfen bekleyin."
+    },
+    "pendingTitle": {
+        "message": "Askıda olması"
+    },
+    "doneTitle": {
+        "message": "Tamamlamak"
+    },
+    "addATodo": {
+        "message": "Yapılacak iş ekleyin..."
+    },
+    "selectChatForTodos": {
+        "message": "Lütfen yapılacakları görmek için bir sohbet seçin."
+    },
+    "savedSuccessfully": {
+        "message": "Başarıyla kaydedildi."
+    },
+    "failedToSaveCompany": {
+        "message": "Şirket kaydedilemedi"
+    },
+    "companySavedSuccessfully": {
+        "message": "Şirket başarıyla kaydedildi."
+    },
+    "firstNameMandatory": {
+        "message": "Ad zorunludur"
+    },
+    "deleteContactConfirm": {
+        "message": "Bu kişiyi silmek istediğinizden emin misiniz?"
+    },
+    "deletedSuccessfully": {
+        "message": "Başarıyla silindi."
+    },
+    "contactPermissionAlert": {
+        "message": "Bu özellik telefonda iletişim izni etkinleştirildiğinde çalışacaktır."
+    },
+    "unknownContact": {
+        "message": "Bilinmeyen Kişi"
+    },
+    "addQuickReply": {
+        "message": "Hızlı Yanıt Ekle"
+    },
+    "selectChatQuickRepliesDesc": {
+        "message": "Hızlı yanıtlara erişmek için lütfen bir sohbet seçin."
+    },
+    "deleteReminderConfirm": {
+        "message": "Bu hatırlatıcıyı silmek istediğinizden emin misiniz?"
+    },
+    "editReminder": {
+        "message": "Hatırlatıcıyı Düzenle"
+    },
+    "deleteReminder": {
+        "message": "Hatırlatıcıyı Sil"
+    },
+    "noRemindersYet": {
+        "message": "Henüz hatırlatıcı yok"
+    },
+    "startAddingReminders": {
+        "message": "Önemli görevleri veya etkinlikleri asla kaçırmamak için hatırlatıcılar eklemeye başlayın."
+    },
+    "noSectionReminders": {
+        "message": "{{title}} hatırlatıcı yok"
+    },
+    "oneTime": {
+        "message": "Bir kerelik"
+    },
+    "everyRecurrence": {
+        "message": "Her {{recurrence}} {{recurrenceType}}{{pluralSuffix}}"
+    },
+    "snoozed": {
+        "message": "Ertelendi"
+    },
+    "remindersWorkWarning": {
+        "message": "Hatırlatıcılar yalnızca WhatsApp Web açıksa çalışır."
+    },
+    "createNewReminder": {
+        "message": "Yeni Hatırlatıcı Oluştur"
+    },
+    "reminderTitle": {
+        "message": "Hatırlatma başlığı..."
+    },
+    "descriptionOptional": {
+        "message": "Açıklama (isteğe bağlı)..."
+    },
+    "repeatAfter": {
+        "message": "Şundan sonra tekrarla:"
+    },
+    "selectFrequency": {
+        "message": "Frekansı seçin"
+    },
+    "loadingReminders": {
+        "message": "Hatırlatıcılar yükleniyor..."
+    },
+    "pleaseWaitReminders": {
+        "message": "Hatırlatıcılarınız yüklenirken lütfen bekleyin."
+    },
+    "processedTitle": {
+        "message": "İşlendi"
+    },
+    "addReminder": {
+        "message": "Hatırlatıcı Ekle"
+    },
+    "selectChatForReminders": {
+        "message": "Lütfen hatırlatıcı oluşturmak ve yönetmek için bir sohbet seçin."
+    },
+    "deleteScheduledMessageConfirm": {
+        "message": "Bu planlanmış mesajı silmek istediğinizden emin misiniz?"
+    },
+    "reason": {
+        "message": "Sebep"
+    },
+    "sent": {
+        "message": "Gönderilmiş"
+    },
+    "failed": {
+        "message": "Arızalı"
+    },
+    "editMessage": {
+        "message": "Mesajı Düzenle"
+    },
+    "deleteMessage": {
+        "message": "Mesajı Sil"
+    },
+    "noScheduledMessagesYet": {
+        "message": "Henüz planlanmış mesaj yok"
+    },
+    "scheduleMessagesDesc": {
+        "message": "Mesajların doğru zamanda otomatik olarak gönderilmesini planlayın."
+    },
+    "noSectionMessages": {
+        "message": "{{title}} mesajı yok"
+    },
+    "editScheduledMessage": {
+        "message": "Planlanmış Mesajı Düzenle"
+    },
+    "scheduleNewMessage": {
+        "message": "Yeni Mesaj Planla"
+    },
+    "typeYourMessage": {
+        "message": "Mesajınızı buraya yazın..."
+    },
+    "repeatEvery": {
+        "message": "Her birini tekrarla"
+    },
+    "loadingScheduledMessages": {
+        "message": "Planlanmış mesajlar yükleniyor..."
+    },
+    "pleaseWaitScheduledMessages": {
+        "message": "Planlanmış mesajlarınız yüklenirken lütfen bekleyin."
+    },
+    "historyTitle": {
+        "message": "Tarih"
+    },
+    "scheduleMessage": {
+        "message": "Mesajı Planla"
+    },
+    "selectChat": {
+        "message": "Sohbet'i seçin"
+    },
+    "selectPersonalChat": {
+        "message": "Kişisel bir sohbet seçin"
+    },
+    "selectChatToSchedule": {
+        "message": "Lütfen mesajları planlamak ve yönetmek için bir sohbet seçin."
+    },
+    "selectChatToManageLeads": {
+        "message": "Potansiyel Müşterileri Yönetmek için 1:1 Sohbet Seçin"
+    },
+    "selectChatToManageLeadsDesc": {
+        "message": "Potansiyel müşteriler yalnızca 1:1 sohbetten oluşturulabilir, grup sohbeti bir potansiyel müşteriye bağlanabilir ancak potansiyel müşteri oluşturmaya izin vermez."
+    },
+    "createLeadBtn": {
+        "message": "Lead oluştur"
+    },
+    "checkingContactDetails": {
+        "message": "İletişim bilgileri kontrol ediliyor..."
+    },
+    "contactDetails": {
+        "message": "İletişim Bilgileri"
+    },
+    "firstName": {
+        "message": "İlk adı"
+    },
+    "lastName": {
+        "message": "Soy isim"
+    },
+    "phone": {
+        "message": "Telefon"
+    },
+    "email": {
+        "message": "E-posta"
+    },
+    "company": {
+        "message": "Şirket"
+    },
+    "designation": {
+        "message": "Tanım"
+    },
+    "jobTitle": {
+        "message": "İş unvanı"
+    },
+    "saving": {
+        "message": "Kaydediliyor..."
+    },
+    "saveDetails": {
+        "message": "Ayrıntıları Kaydet"
+    },
+    "noName": {
+        "message": "İsim Yok"
+    },
+    "editContact": {
+        "message": "Kişiyi Düzenle"
+    },
+    "phoneNumber": {
+        "message": "Telefon Numarası"
+    },
+    "typeToSearchCompanies": {
+        "message": "Şirketleri aramak için yazın..."
+    },
+    "loadingCompanies": {
+        "message": "Şirketler yükleniyor..."
+    },
+    "loadMoreCompanies": {
+        "message": "Daha fazla şirket yükle"
+    },
+    "createCompanySearchQuery": {
+        "message": "\"{{searchQuery}}\" şirketini oluştur"
+    },
+    "noCompaniesAvailable": {
+        "message": "Hiçbir şirket mevcut değil"
+    },
+    "editCompany": {
+        "message": "Şirketi düzenle"
+    },
+    "removeCompany": {
+        "message": "Şirketi kaldır"
+    },
+    "updateCompany": {
+        "message": "Şirketi Güncelle"
+    },
+    "createCompany": {
+        "message": "Şirket Oluştur"
+    },
+    "domain": {
+        "message": "İhtisas"
+    },
+    "address": {
+        "message": "Adres"
+    },
+    "deleteLead": {
+        "message": "Potansiyel Müşteriyi Sil"
+    },
+    "deleteLeadConfirm": {
+        "message": "Bu potansiyel müşteriyi silmek istediğinizden emin misiniz? Bu eylem geri alınamaz."
+    },
+    "noQuickRepliesYet": {
+        "message": "Henüz hızlı yanıt yok"
+    },
+    "createQuickRepliesDesc": {
+        "message": "Yaygın mesajları gönderirken zaman kazanmak için hızlı yanıtlar oluşturun."
+    },
+    "noQuickRepliesFound": {
+        "message": "Hızlı yanıt bulunamadı."
+    },
+    "dragToReorder": {
+        "message": "Yeniden sıralamak için sürükleyin"
+    },
+    "editBeforeSend": {
+        "message": "Göndermeden önce düzenleyin"
+    },
+    "editReply": {
+        "message": "Yanıtı Düzenle"
+    },
+    "deleteReply": {
+        "message": "Yanıtı Sil"
+    },
+    "deleteQuickReplyConfirm": {
+        "message": "Bu hızlı yanıtı silmek istediğinizden emin misiniz?"
+    },
+    "messageRequired": {
+        "message": "Mesaj gerekli"
+    },
+    "editQuickReply": {
+        "message": "Hızlı Yanıtı Düzenle"
+    },
+    "createQuickReply": {
+        "message": "Hızlı Yanıt Oluştur"
+    },
+    "welcomePlaceholder": {
+        "message": "Hoş geldin"
+    },
+    "howAreYouPlaceholder": {
+        "message": "Merhaba, nasılsın?"
+    },
+    "save": {
+        "message": "Kaydetmek"
+    },
+    "message": {
+        "message": "Mesaj"
+    },
+    "activityTab": {
+        "message": "Etkinlik"
+    },
+    "detailsTab": {
+        "message": "Detaylar"
+    },
+    "tasksTab": {
+        "message": "Görevler"
+    },
+    "peopleTab": {
+        "message": "İnsanlar"
+    },
+    "value": {
+        "message": "Değer"
+    },
+    "closeDate": {
+        "message": "Kapatma Tarihi"
+    },
+    "setDate": {
+        "message": "Tarihi Ayarla"
+    },
+    "source": {
+        "message": "Kaynak"
+    },
+    "sourceRequired": {
+        "message": "Kaynak değeri gerekli"
+    },
+    "addSource": {
+        "message": "Kaynak ekle..."
+    },
+    "probability": {
+        "message": "Olasılık"
+    },
+    "deleteLeadConfirmMsg": {
+        "message": "Bu potansiyel müşteriyi silmek istediğinizden emin misiniz? Bu eylem geri alınamaz."
+    },
+    "writeQuickNote": {
+        "message": "Hızlı bir not yazın..."
+    },
+    "noActivityYet": {
+        "message": "Henüz etkinlik yok."
+    },
+    "saveNote": {
+        "message": "Notu Kaydet"
+    },
+    "failedToFetchTasks": {
+        "message": "Görevler getirilemedi"
+    },
+    "failedToFetchCompletedTasks": {
+        "message": "Tamamlanan görevler getirilemedi"
+    },
+    "taskMarkedAsCompleted": {
+        "message": "Görev tamamlandı olarak işaretlendi"
+    },
+    "taskMarkedAsPending": {
+        "message": "Görev beklemede olarak işaretlendi"
+    },
+    "taskUpdatedSuccess": {
+        "message": "Görev başarıyla güncellendi"
+    },
+    "taskDeletedSuccess": {
+        "message": "Görev başarıyla silindi"
+    },
+    "failedToDeleteTask": {
+        "message": "Görev silinemedi"
+    },
+    "failedToInitiateTaskCreation": {
+        "message": "Görev oluşturma başlatılamadı"
+    },
+    "createTask": {
+        "message": "Görev Oluştur"
+    },
+    "pendingTasks": {
+        "message": "Bekleyen Görevler"
+    },
+    "noPendingTasks": {
+        "message": "Bekleyen görev yok."
+    },
+    "at": {
+        "message": "en"
+    },
+    "loadingTasks": {
+        "message": "Görevler yükleniyor..."
+    },
+    "completedTasksLabel": {
+        "message": "Tamamlanan Görevler"
+    },
+    "noCompletedTasks": {
+        "message": "Tamamlanmış görev yok."
+    },
+    "deleteTask": {
+        "message": "Görevi Sil"
+    },
+    "deleteTaskConfirmMsg": {
+        "message": "Bu görevi silmek istediğinizden emin misiniz? Bu eylem geri alınamaz."
+    },
+    "enterReminderValue": {
+        "message": "Lütfen hatırlatıcı için bir değer girin"
+    },
+    "minutesNotGreaterThan59": {
+        "message": "Dakika 59'dan büyük olamaz"
+    },
+    "hoursNotGreaterThan24": {
+        "message": "Saatler 24'ten büyük olamaz"
+    },
+    "reminderTimeNotInPast": {
+        "message": "Hatırlatma zamanı geçmişte olamaz"
+    },
+    "taskDateNotInPast": {
+        "message": "Görev tarihi geçmişte olamaz"
+    },
+    "taskDescriptionPlaceholder": {
+        "message": "Görev açıklaması..."
+    },
+    "remindMeValUnitBefore": {
+        "message": "Bana {{val}} {{unit}} öncesinde hatırlat"
+    },
+    "remindMe": {
+        "message": "Bana hatırlat"
+    },
+    "call": {
+        "message": "Arama"
+    },
+    "meeting": {
+        "message": "Toplantı"
+    },
+    "to_do": {
+        "message": "Yapılacaklar"
+    },
+    "minutes": {
+        "message": "dakika"
+    },
+    "hours": {
+        "message": "Saat"
+    },
+    "days": {
+        "message": "Günler"
+    },
+    "weeks": {
+        "message": "Haftalar"
+    },
+    "failedToFetchStakeholders": {
+        "message": "Paydaşlar getirilemedi"
+    },
+    "stakeholderAdded": {
+        "message": "Paydaş eklendi"
+    },
+    "failedToAddStakeholder": {
+        "message": "Paydaş eklenemedi"
+    },
+    "stakeholderRemoved": {
+        "message": "Paydaş kaldırıldı"
+    },
+    "failedToRemoveStakeholder": {
+        "message": "Paydaş kaldırılamadı"
+    },
+    "stakeholderUpdated": {
+        "message": "Paydaş güncellendi"
+    },
+    "failedToUpdateStakeholder": {
+        "message": "Paydaş güncellenemedi"
+    },
+    "contactAlreadyAdded": {
+        "message": "Kişi zaten eklendi"
+    },
+    "searchContactsPlaceholder": {
+        "message": "WhatsApp kişilerini arayın..."
+    },
+    "groupLabel": {
+        "message": "Grup"
+    },
+    "userLabel": {
+        "message": "Kullanıcı"
+    },
+    "noContactsFound": {
+        "message": "Kişi bulunamadı"
+    },
+    "stakeholdersLabel": {
+        "message": "Paydaşlar"
+    },
+    "noStakeholdersYet": {
+        "message": "Henüz hiçbir paydaş eklenmedi."
+    },
+    "primaryLabel": {
+        "message": "Öncelik"
+    },
+    "groupChatLabel": {
+        "message": "Grup Sohbeti"
+    },
+    "makePrimaryTooltip": {
+        "message": "Birincil yap"
+    },
+    "removeContactTooltip": {
+        "message": "Kişiyi kaldır"
+    },
+    "roleLabel": {
+        "message": "Rol"
+    },
+    "addRolePlaceholder": {
+        "message": "Rol ekle"
+    },
+    "removeStakeholderTitle": {
+        "message": "Paydaş Kaldırılsın mı?"
+    },
+    "removeStakeholderConfirmMsg": {
+        "message": "{{name}} adlı kişiyi bu potansiyel müşteriden çıkarmak istediğinizden emin misiniz?"
+    },
+    "remove": {
+        "message": "Kaldırmak"
+    },
+    "standardSalesPipeline": {
+        "message": "Standart Satış Hattı"
+    },
+    "defaultPipeline": {
+        "message": "Varsayılan İşlem Hattı"
+    },
+    "newInquiry": {
+        "message": "Yeni Sorgulama"
+    },
+    "qualified": {
+        "message": "Nitelikli"
+    },
+    "proposalSent": {
+        "message": "Teklif Gönderildi"
+    },
+    "won": {
+        "message": "Kazanmak"
+    },
+    "lost": {
+        "message": "Kayıp"
+    },
+    "dealWonTitle": {
+        "message": "Anlaşma Kazanıldı! 🎉"
+    },
+    "dealLostTitle": {
+        "message": "Anlaşma Kaybedildi"
+    },
+    "saveValueLabel": {
+        "message": "Değeri Kaydet"
+    },
+    "markLostLabel": {
+        "message": "Kayıp Olarak İşaretle"
+    },
+    "finalDealValueLabel": {
+        "message": "Nihai Anlaşma Değeri"
+    },
+    "updateFinalRevenueDesc": {
+        "message": "Bu anlaşmanın nihai gelir tutarını güncelleyin."
+    },
+    "reasonForLossLabel": {
+        "message": "Kayıp Sebebi"
+    },
+    "lossReasonPlaceholder": {
+        "message": "Bu anlaşma neden kaybedildi? örneğin Fiyat çok yüksek, Rakip..."
+    },
+    "hot": {
+        "message": "Sıcak"
+    },
+    "warm": {
+        "message": "Ilık"
+    },
+    "cold": {
+        "message": "Soğuk"
+    },
+    "currencyPlaceholder": {
+        "message": "KUR"
+    },
+    "searchPlaceholder": {
+        "message": "Aramak..."
+    },
+    "selectAnOption": {
+        "message": "Bir seçenek seçin..."
+    },
+    "noResultsFound": {
+        "message": "Sonuç bulunamadı"
+    },
+    "scheduledMessagesWarning": {
+        "message": "Planlanmış mesajlar yalnızca WhatsApp Web açıksa çalışır."
+    },
+    "schedule": {
+        "message": "Takvim"
+    },
+    "messageTimeInFuture": {
+        "message": "Tekrarlanmayan mesajlar için mesaj zamanı gelecekte olmalıdır"
+    },
+    "fillAllFields": {
+        "message": "Lütfen gerekli tüm alanları doldurun"
+    },
+    "uploadFailed": {
+        "message": "Yükleme başarısız oldu: {{error}}"
+    },
+    "minute": {
+        "message": "dakika"
+    },
+    "everyRecurrenceSimple": {
+        "message": "Her {{recurrence}} {{unit}}"
+    },
+    "hour_label": {
+        "message": "Saat"
+    },
+    "day_label": {
+        "message": "Gün"
+    },
+    "week_label": {
+        "message": "Hafta"
+    },
+    "month_label": {
+        "message": "Ay"
+    },
+    "year_label": {
+        "message": "Yıl"
+    },
+    "hour": {
+        "message": "saat"
+    },
+    "day": {
+        "message": "gün"
+    },
+    "week": {
+        "message": "hafta"
+    },
+    "month": {
+        "message": "ay"
+    },
+    "months": {
+        "message": "aylar"
+    },
+    "year": {
+        "message": "yıl"
+    },
+    "years": {
+        "message": "yıllar"
+    },
+    "newNote": {
+        "message": "Yeni Not"
+    },
+    "newTask": {
+        "message": "Yeni Görev"
+    },
+    "noActivity": {
+        "message": "Etkinlik yok"
+    },
+    "addNote": {
+        "message": "Not Ekle"
+    },
+    "chatOnWhatsApp": {
+        "message": "WhatsApp'ta sohbet edin"
+    },
+    "startDateLabel": {
+        "message": "BAŞLANGIÇ TARİHİ"
+    },
+    "endDateLabel": {
+        "message": "BİTİŞ TARİHİ"
+    },
+    "apply": {
+        "message": "Uygula"
+    },
+    "taskOverdue": {
+        "message": "gecikmiş görev"
+    },
+    "tasksOverdue": {
+        "message": "gecikmiş görevler"
+    },
+    "upcomingTaskLabel": {
+        "message": "yaklaşan görev"
+    },
+    "upcomingTasksLabel": {
+        "message": "yaklaşan görevler"
+    },
+    "noPlannedTask": {
+        "message": "Planlanmış Görev Yok"
+    },
+    "empty": {
+        "message": "Boş"
+    },
+    "none": {
+        "message": "Hiçbiri"
+    },
+    "true": {
+        "message": "Doğru"
+    },
+    "false": {
+        "message": "YANLIŞ"
+    },
+    "setTo": {
+        "message": "olarak ayarlamak"
+    },
+    "changed": {
+        "message": "Değiştirildi"
+    },
+    "from": {
+        "message": "itibaren"
+    },
+    "to": {
+        "message": "ile"
+    },
+    "task": {
+        "message": "Görev"
+    },
+    "by": {
+        "message": "ile"
+    },
+    "loadingDots": {
+        "message": "..."
+    },
+    "del": {
+        "message": "Del"
+    },
+    "edit": {
+        "message": "Düzenlemek"
+    },
+    "importExportBtn": {
+        "message": "İçe / Dışa aktar"
+    },
+    "importExportDataTitle": {
+        "message": "Veri içe ve dışa aktarma"
+    },
+    "importTab": {
+        "message": "İçe aktar"
+    },
+    "exportTab": {
+        "message": "Dışa aktar"
+    },
+    "importBtn": {
+        "message": "İçe aktar"
+    },
+    "exportBtn": {
+        "message": "Dışa aktar"
+    },
+    "newDataExport": {
+        "message": "Yeni veri dışa aktarma"
+    },
+    "selectFieldsToExport": {
+        "message": "Dışa aktarılacak alanları seçin"
+    },
+    "selectActivityToExport": {
+        "message": "Dışa aktarılacak aktiviteleri seçin"
+    },
+    "leadsBtn": {
+        "message": "Potansiyel müşteriler"
+    },
+    "activitiesBtn": {
+        "message": "Aktiviteler"
+    },
+    "startDate": {
+        "message": "Başlangıç tarihi"
+    },
+    "endDate": {
+        "message": "Bitiş tarihi"
+    },
+    "exportHistory": {
+        "message": "Dışa aktarma görevleri"
+    },
+    "noExports": {
+        "message": "Son dışa aktarma yok"
+    },
+    "statusCol": {
+        "message": "Durum"
+    },
+    "typeCol": {
+        "message": "Tür"
+    },
+    "dateCol": {
+        "message": "Tarih"
+    },
+    "actionCol": {
+        "message": "İşlem"
+    },
+    "exportStarting": {
+        "message": "Başlatılıyor..."
+    },
+    "exportProcessing": {
+        "message": "Dışa aktarma işleniyor..."
+    },
+    "exportCompleted": {
+        "message": "Dışa aktarma tamamlandı! Artık indirebilirsiniz."
+    },
+    "exportFailed": {
+        "message": "Dışa aktarma başarısız oldu. Lütfen tekrar deneyin."
+    },
+    "exportStarted": {
+        "message": "Dışa aktarma başladı! Arka planda işleniyor."
+    },
+    "exportDeleted": {
+        "message": "Dışa aktarma silindi"
+    },
+    "failedToCreateExport": {
+        "message": "Dışa aktarma başlatılamadı"
+    },
+    "failedToDeleteExport": {
+        "message": "Dışa aktarma silinemedi"
+    },
+    "failedToFetchFields": {
+        "message": "Dışa aktarma alanları yüklenemedi"
+    },
+    "failedToFetchHistory": {
+        "message": "Dışa aktarma geçmişi yüklenemedi"
+    },
+    "failedToGetDownloadUrl": {
+        "message": "İndirme bağlantısı alınamadı"
+    },
+    "comingSoonTitle": {
+        "message": "Çok Yakında"
+    },
+    "comingSoonDesc": {
+        "message": "İçe aktarma özelliği geliştirme aşamasındadır ve yakında kullanıma sunulacaktır."
+    },
+    "dragAndDropFile": {
+        "message": "Dosyanızı buraya sürükleyip bırakın"
+    },
+    "browseFile": {
+        "message": "Dosyaya gözat"
+    },
+    "or": {
+        "message": "veya"
+    },
+    "fieldName": {
+        "message": "Ad"
+    },
+    "fieldPhone": {
+        "message": "Telefon"
+    },
+    "fieldEmail": {
+        "message": "E-posta"
+    },
+    "fieldCompany": {
+        "message": "Şirket"
+    },
+    "fieldPipeline": {
+        "message": "Boru hattı"
+    },
+    "fieldStage": {
+        "message": "Aşama"
+    },
+    "fieldSource": {
+        "message": "Kaynak"
+    },
+    "fieldValue": {
+        "message": "Değer"
+    },
+    "fieldCurrency": {
+        "message": "Para birimi"
+    },
+    "fieldPriority": {
+        "message": "Öncelik"
+    },
+    "fieldCreatedAt": {
+        "message": "Oluşturulma tarihi"
+    },
+    "fieldContactName": {
+        "message": "Kişi adı"
+    },
+    "fieldContactInfo": {
+        "message": "İletişim bilgileri"
+    },
+    "activityNotes": {
+        "message": "Notlar"
+    },
+    "activityTasks": {
+        "message": "Görevler"
+    },
+    "activityStageChanges": {
+        "message": "Aşama değişiklikleri"
+    },
+    "prevPage": {
+        "message": "‹ Önceki"
+    },
+    "nextPage": {
+        "message": "Sonraki ›"
+    }
+}
