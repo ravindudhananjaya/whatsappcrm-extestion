@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "WAPlus CRM - Best AI-Powered Messaging CRM"
+  },
+  "extDesc": {
+    "message": "Let WAPlus CRM be your most powerful assistant for WhatsApp marketing & WhatsApp sales, enhanced by the deepseek AI chatbot."
+  },
+  "sendMessageTo": {
+    "message": "Send WhatsApp message to "
+  }
+}

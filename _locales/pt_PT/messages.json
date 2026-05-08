@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "WAPlus CRM - Extensão WhatsApp Web"
+  },
+  "extDesc": {
+    "message": "Deixe o WAPlus CRM ser o seu mais poderoso assistente para as vendas do WhatsApp marketing e WhatsApp."
+  },
+  "sendMessageTo": {
+    "message": "Send WhatsApp message to "
+  }
+}
